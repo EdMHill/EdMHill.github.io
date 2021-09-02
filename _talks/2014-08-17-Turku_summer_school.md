@@ -10,7 +10,7 @@ location: "Turku, Finland"
 
 ## Event overview
 
-Event URL: [https://www.mv.helsinki.fi/home/kisdi/summerschool2014/](https://www.mv.helsinki.fi/home/kisdi/summerschool2014/)
+Event URL: [https://www.mv.helsinki.fi/home/kisdi/summerschool2014/](https://www.mv.helsinki.fi/home/kisdi/summerschool2014/){:target="_blank"}
 
 This was the fourth school of a biennial series of international summer schools on mathematical ecology and evolution in Finland, organised by the Biomathematics Group of the University of Helsinki. This edition of the school focused on infectious diseases.
 
