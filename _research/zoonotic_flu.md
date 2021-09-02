@@ -10,7 +10,7 @@ order_number: 30
 [MT_link]: https://www2.warwick.ac.uk/fac/sci/lifesci/people/mtildesley/
 [Thesis_link]: http://wrap.warwick.ac.uk/91483/1/WRAP_Theses_Hill_2017.pdf
 
-My Ph.D. was in interdisciplinary mathematics, supervised by [Dr Thomas House][TH_link]{:target="_blank"} & [Dr Michael Tildesley][MT_link]{:target="_blank"}, and was primarily focused on mathematical epidemiology and modelling zoonotic influenza.
+My Ph.D. was in interdisciplinary mathematics, supervised by [Thomas House][TH_link]{:target="_blank"} & [Michael Tildesley][MT_link]{:target="_blank"}, and was primarily focused on mathematical epidemiology and modelling zoonotic influenza.
 
 This project comprised two main bodies of work, both using a combination of mathematical modelling, statistical fitting to data and computer simulations, with a particular emphasis on Monte Carlo Markov Chain (MCMC) simulations for the determination of model parameters.
 

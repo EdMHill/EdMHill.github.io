@@ -14,7 +14,7 @@ order_number: 50
 
 [MT_link]: https://warwick.ac.uk/fac/sci/lifesci/people/mtildesley/
 [MK_link]: https://www2.warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/
-[EBP_link]: http://www.bris.ac.uk/vetscience/people/ellen-brooks-pollock/index.html
+[EBP_link]: https://www.bristol.ac.uk/people/person/Ellen-Brooks%20Pollock-9ffd9ff9-0949-49c4-97f7-bae51aa23d51/
 [MG_link]: https://www.nottingham.ac.uk/vet/people/martin.green
 [EF_link]: https://www.nottingham.ac.uk/news/expertiseguide/psychology/professor-eamonn-ferguson.aspx
 [JK_link]: https://www.nottingham.ac.uk/news/expertiseguide/veterinary-medicine-science/dr-jasmeet-kaler.aspx
@@ -29,6 +29,6 @@ Our primary objective in this project is to quantify, predict and hence mitigate
 * Bovine tuberculosis (bTB)
 * Bovine viral diarrhea (BVD)
 
-The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Professor Michael Tildesley][MT_link]{:target="_blank"} & [Professor Matt Keeling][MK_link]{:target="_blank"}. Our modelling work is also done in collaboration with [Dr. Ellen-Brooks Pollock][EBP_link]{:target="_blank"} ([University of Bristol][UoB_link]{:target="_blank"}).
+The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael Tildesley][MT_link]{:target="_blank"} & [Matt Keeling][MK_link]{:target="_blank"}. Our modelling work is also done in collaboration with [Ellen-Brooks Pollock][EBP_link]{:target="_blank"} ([University of Bristol][UoB_link]{:target="_blank"}).
 
-Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Professor Martin Green][MG_link]{:target="_blank"}, [Professor Eamonn Ferguson][EF_link]{:target="_blank"} & [Dr. Jasmeet Kaler][JK_link]{:target="_blank"}.
+Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Martin Green][MG_link]{:target="_blank"}, [Eamonn Ferguson][EF_link]{:target="_blank"} & [Jasmeet Kaler][JK_link]{:target="_blank"}.

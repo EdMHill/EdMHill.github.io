@@ -6,7 +6,7 @@ collection: research
 order_number: 20
 ---
 
-[MEMVIE_link]: https://www2.warwick.ac.uk/fac/cross_fac/wider/activities/human_infections/memvie
+[MEMVIE_link]: https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/memvie/
 [MK_link]: https://www2.warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/
 [GM_link]: https://www.lshtm.ac.uk/aboutus/people/medley.graham
 [MU_link]: https://www2.warwick.ac.uk/fac/med/staff/underwood/
@@ -14,9 +14,9 @@ order_number: 20
 [SS_link]: https://www2.warwick.ac.uk/fac/med/research/hscience/wrn/staff/sophie_staniszewska
 [TS_link]: https://www2.warwick.ac.uk/fac/med/staff/tshiri/
 
-In June 2017 I began work on a project between Warwick and the UK Department of Health, entitled [MEMVIE (Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation)][MEMVIE_link]{:target="_blank"}. The project involves the construction of novel mathematical and statistical models for simulating the spread of infectious diseases in humans, and evaluating the cost-effectiveness of different vaccination interventions.
+In June 2017 I began work on a project between Warwick and the UK Department of Health, entitled [MEMVIE (Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation)][MEMVIE_link]{:target="_blank"}. The project involved the construction of novel mathematical and statistical models for simulating the spread of infectious diseases in humans, and evaluating the cost-effectiveness of different vaccination interventions.
 
-The infection we are currently focusing on is seasonal influenza. The outputs of our models will be used in conjunction with independent modelling done by Public Health England (part of the Department of Health), to advise on future vaccination policy in the UK. The project is headed by [Professor Matt Keeling][MK_link]{:target="_blank"}, and my research partners include: [Professor Graham Medley][GM_link]{:target="_blank"}(London School of Hygiene and Tropical Medicine), [Professor Martin Underwood][MU_link]{:target="_blank"}, [Professor Stavros Petrou][SP_link]{:target="_blank"}, [Dr. Sophie Staniszewska][SS_link]{:target="_blank"} and [Dr. Tinevimbo Shiri][TS_link]{:target="_blank"} (Warwick Medical School).
+My focus was on seasonal influenza. The outputs of the models were used in conjunction with independent modelling done by Public Health England (part of the Department of Health), to advise on future vaccination policy in the UK. The project is headed by [Matt Keeling][MK_link]{:target="_blank"} and my research partners included: [Graham Medley][GM_link]{:target="_blank"}(London School of Hygiene and Tropical Medicine), [Martin Underwood][MU_link]{:target="_blank"}, [Stavros Petrou][SP_link]{:target="_blank"}, [Sophie Staniszewska][SS_link]{:target="_blank"} and [Tinevimbo Shiri][TS_link]{:target="_blank"} (Warwick Medical School).
 
 **Relevant Publications**:
 
