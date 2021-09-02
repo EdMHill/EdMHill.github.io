@@ -18,4 +18,4 @@ Hi! I am a postdoctoral researcher at the [University of Warwick][Warwick_link]{
 
 My research interests involve the application of mathematical and computational methods in epidemiology. In particular, parameter inference, outbreak prediction and development of interventions pertaining to infectious disease outbreaks and social contagion.
 
-My research to date may be grouped under three broad categories: (i) Public health policy; (ii) Social contagion and impact of behaviour on infectious disease dynamics; (iii) Zoonotic transmission and One Health. See [Research]{{ site.baseurl }}{% link _pages/research.md %}{:target="_blank"} for more information on specific projects.
+My research to date may be grouped under three broad categories: (i) Public health policy; (ii) Social contagion and impact of behaviour on infectious disease dynamics; (iii) Zoonotic transmission and One Health. See [Research]({{ site.baseurl }}{% link _pages/research.md %}){:target="_blank"} for more information on specific projects.

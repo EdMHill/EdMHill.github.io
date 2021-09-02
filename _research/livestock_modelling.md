@@ -1,5 +1,5 @@
 ---
-title: "Investigating the impact of farmer behaviour and farmer-led control of infectious disease outbreaks in livestock"
+title: "Farmer-led Epidemic & Endemic Disease-management (FEED)"
 layout: single-portfolio
 excerpt: "<img src='/images/research/LivestockImage.jpg' alt=''>"
 collection: research
