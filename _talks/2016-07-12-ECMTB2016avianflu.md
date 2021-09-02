@@ -1,0 +1,25 @@
+---
+title: "Mathematical modelling of influenza A (H5N1) epidemics in Bangladesh"
+collection: talks
+type: "Poster"
+permalink: /talks/ECMTB2016_H5N1
+venue: "ECMTB 2016: 10th European Conference on Mathematical and Theoretical Biology"
+date: 2016-07-12
+location: "Nottingham, UK"
+---
+
+## Event webpage
+
+More information here: [http://www.ecmtb2016.org](http://www.ecmtb2016.org){:target="_blank"}
+
+## Event overview
+
+The Centre for Mathematical Medicine and Biology of the University of Nottingham hosted the 2016 joint meeting of the European Society for Mathematical and Theoretical Biology and the Society for Mathematical Biology.
+
+The conference brought together researchers from around the world to present and learn about cutting-edge research at the interface between mathematics and the life sciences.
+
+ECMTB 2016 comprised plenary and contributed talks, minisymposia and poster sessions. Altogether, there were more than 550 talks and 190 posters, and 850 registered participants.
+
+## Poster
+You can download a PDF copy of my poster [here](/files/Posters/EdHill_ECMTB2016_BangladeshFluModellingPoster.pdf){:target="_blank"}.
+<iframe src="/files/Posters/EdHill_ECMTB2016_BangladeshFluModellingPoster.pdf" width="100%" height="1200" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
