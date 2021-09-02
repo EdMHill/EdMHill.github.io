@@ -21,7 +21,7 @@ As part of an [MRC][MRC_link]{:target="_blank"} funded project "Mathematical mod
 
 The team includes [Matt Keeling][MK_link]{:target="_blank"}, [Michael Tildesley][MT_link]{:target="_blank"}, [Louise Dyson][LD_link]{:target="_blank"}, [Ben Atkins][BA_link]{:target="_blank"} and several colleagues in [SBIDER][SBIDER_link]{:target="_blank"}.
 
-I am also one of four standing members of the [Scientific Pandemic Influenza Group on Modelling (SPI-M)](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling) affiliated with the University of Warwick, along with Matt Keeling, Mike Tildesley and Louise Dyson. SPI-M has been reporting to the [Scientific Advisory Group for Emergencies (SAGE)](https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies), providing advice (based on infectious disease modelling and epidemiology) on scientific matters related to the UK’s response to the COVID-19 pandemic.
+I am also a participant of the [Scientific Pandemic Influenza Group on Modelling (SPI-M)](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling){:target="_blank"}. SPI-M has been reporting to the [Scientific Advisory Group for Emergencies (SAGE)](https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies){:target="_blank"}, providing advice (based on infectious disease modelling and epidemiology) on scientific matters related to the UK’s response to the COVID-19 pandemic.
 
 **Relevant Publications**:
 
@@ -105,7 +105,7 @@ Matt J Keeling, Glen Guyver-Fletcher, Alex Holmes, Louise Dyson, Michael J. Tild
 Matt J Keeling, Louise Dyson, Glen Guyver-Fletcher, Alex Holmes, Malcolm G Semple, ISARIC4C Investigators, Michael J Tildesley, **Edward M Hill**. (2020)<br/>
 *medRxiv*. doi:[10.1101&#47;2020.08.04.20163782.][ModelFitting_doi]{:target="_blank"}<br/>
 
-[LD_variants_paper]: https://www.medrxiv.org/content/10.1101/2021.06.07.21258476v1
+[LD_variants_paper]: https://www.medrxiv.org/content/10.1101/2021.06.07.21258476v2
 [LD_variants_doi]: https://doi.org/10.1101/2021.06.07.21258476
 
 [RC_variants_paper]: https://www.medrxiv.org/content/10.1101/2021.06.05.21258365v1
