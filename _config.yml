@@ -187,7 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  invitedtalks:
+    output: true
+    permalink: /:collection/:path/
+  posters:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -262,7 +267,22 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _invitedtalks
+  - scope:
+      path: ""
+      type: invitedtalks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _posters
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass

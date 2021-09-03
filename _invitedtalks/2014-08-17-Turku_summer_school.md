@@ -1,6 +1,6 @@
 ---
 title: "Helsinki Summer School on Mathematical Ecology and Evolution 2014: Dynamics of Infectious Diseases"
-collection: talks
+collection: invitedtalks
 type: "Summer school"
 permalink: /talks/summer_school_2014
 venue: "Linnasmäki Congress Centre"

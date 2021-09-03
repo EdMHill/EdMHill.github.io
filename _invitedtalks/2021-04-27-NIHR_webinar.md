@@ -1,6 +1,6 @@
 ---
 title: "Developing a Framework for Public Involvement in Mathematical and Economic Modelling: Bringing New Dynamism to Vaccination Policy Recommendations"
-collection: talks
+collection: invitedtalks
 type: "Invited talk"
 permalink: /talks/NIHR_webinar
 venue: "NIHR Statistics Group: Applied Statisticians as Principal Investigators Webinar"

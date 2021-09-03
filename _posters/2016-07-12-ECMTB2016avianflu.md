@@ -1,8 +1,8 @@
 ---
 title: "Mathematical modelling of influenza A (H5N1) epidemics in Bangladesh"
-collection: talks
+collection: posters
 type: "Poster"
-permalink: /talks/ECMTB2016_H5N1
+permalink: /posters/ECMTB2016_H5N1
 venue: "ECMTB 2016: 10th European Conference on Mathematical and Theoretical Biology"
 date: 2016-07-12
 location: "Nottingham, UK"

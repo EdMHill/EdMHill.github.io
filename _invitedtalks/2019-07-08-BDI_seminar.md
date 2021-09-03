@@ -1,6 +1,6 @@
 ---
 title: "Modelling seasonal influenza in England: Approaches to capture immunity propagation"
-collection: talks
+collection: invitedtalks
 type: "Invited talk"
 permalink: /talks/BDI_seminar_2019
 venue: "Infections@BDI seminar"

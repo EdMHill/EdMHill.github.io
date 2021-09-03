@@ -1,6 +1,6 @@
 ---
 title: "Modelling potential impacts of SARS-CoV-2 variants of concern"
-collection: talks
+collection: invitedtalks
 type: "Invited talk"
 permalink: /talks/JUNIPER_research_meeting_May2021
 venue: "JUNIPER Research Meeting May 2021"
