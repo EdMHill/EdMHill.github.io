@@ -16,6 +16,6 @@ This was the fourth school of a biennial series of international summer schools 
 
 <figure>
   <figcaption> Summer school attendees group photo</figcaption>
-  <img src="/images/TalkImages/school_group_2014.jpg"" alt="Turku group photo"/>
+  <img src="/images/TalkImages/school_group_2014.jpg" alt="Turku group photo"/>
   <figcaption> </figcaption>
 </figure>
