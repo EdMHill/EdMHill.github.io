@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-PUBLICATIONS TO BE UPDATED
-
 <sup>*</sup> indicates that authors made equal contributions
 
 # Peer-reviewed papers
