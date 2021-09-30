@@ -24,7 +24,7 @@ We have developed a stochastic, spatial, individual-based mechanistic model of t
 * [Spatio-temporal modelling of *Leishmania infantum* infection among domestic dogs: a simulation study and sensitivity analysis applied to rural Brazil][VL_paper]{:target="_blank"}<br/>
 Elizabeth Buckingham-Jeffery\*, **Edward M. Hill**\* , Samik Datta, Erin Dilger, Orin Courtenay (2019)<br/>
 *Parasites & Vectors* **12**:215. doi:[10.1186/s13071-019-3430-y.][VL_doi]{:target="_blank"}<br/>
-\* denotes equal contributors
+\* denotes joint first authors
 
 [VL_paper]: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-019-3430-y
 [VL_doi]: https://doi.org/10.1186/s13071-019-3430-y
