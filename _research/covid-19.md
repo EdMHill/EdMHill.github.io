@@ -23,7 +23,12 @@ The team includes [Matt Keeling][MK_link]{:target="_blank"}, [Michael Tildesley]
 
 I am also a participant of the [Scientific Pandemic Influenza Group on Modelling (SPI-M)](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling){:target="_blank"}. SPI-M has been reporting to the [Scientific Advisory Group for Emergencies (SAGE)](https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies){:target="_blank"}, providing advice (based on infectious disease modelling and epidemiology) on scientific matters related to the UK’s response to the COVID-19 pandemic.
 
-Listed below are associated peer-reviewed publications and preprints, split into eight broad themes (in alphabetical order): Fitting to the UK outbreak, higher education, immune escape, precautionary breaks (circuit breakers), schools, vaccination, Variants of Concern (VOCs), workplaces.
+Listed below are associated peer-reviewed publications and preprints, split into nine broad themes (in alphabetical order): Contact tracing mobile apps, fitting to the UK outbreak, higher education, immune escape, precautionary breaks (circuit breakers), schools, vaccination, Variants of Concern (VOCs), workplaces.
+
+**Contact tracing mobile apps**
+* [The effect of notification window length on the epidemiological impact of COVID-19 contact tracing mobile applications.][app_notif_window_paper]{:target="_blank"}<br/>
+Trystan Leng, **Edward M Hill**, Matt J Keeling, Michael J Tildesley, Robin N Thompson. (2021)<br/>
+*medRxiv*. doi:[10.1101&#47;2021.11.08.21266079.][app_notif_window_doi]{:target="_blank"}<br/>
 
 **Fitting to the UK outbreak**
 * [Predictions of COVID-19 dynamics in the UK: short-term forecasting and analysis of potential exit strategies][WarwickModel_paper]{:target="_blank"}<br/>
@@ -118,6 +123,10 @@ Robert Challen *et al*. (2021)<br/>
 **Edward M Hill**\*, Benjamin D Atkins\*, Matt J Keeling, Louise Dyson, Michael J Tildesley. (2021)<br/>
 *PLoS Comput Biol* **17**(6): e1009058. doi:[10.1371/journal.pcbi.1009058.][worker_pattern_doi]{:target="_blank"}<br/>
 \* denotes joint first authors
+
+
+[app_notif_window_paper]: https://www.medrxiv.org/content/10.1101/2021.11.08.21266079v1
+[app_notif_window_doi]: https://doi.org/10.1101/2021.11.08.21266079
 
 [LD_variants_paper]: https://www.nature.com/articles/s41467-021-25915-7
 [LD_variants_doi]: https://doi.org/10.1038/s41467-021-25915-7
