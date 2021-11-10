@@ -96,6 +96,10 @@ Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, M
 *medRxiv*. doi:[10.1101&#47;2021.07.09.21260271.][school_model_LFTs_doi]{:target="_blank"}<br/>
 
 **Vaccination**
+* [Waning, Boosting and a Path to Endemicity for SARS-CoV-2][booster_vacc_paper]{:target="_blank"}<br/>
+Matt J Keeling, Amy C Thomas, **Edward M Hill**, Robin N Thompson, Louise Dyson, Michael J Tildesley, Sam Moore. (2021)<br/>
+*medRxiv*. doi:[10.1101&#47;2021.11.05.21265977.][booster_vacc_doi]{:target="_blank"}<br/>
+
 * [Comparison between one and two dose SARS-CoV-2 vaccine prioritization for a fixed number of vaccine doses][VaccUK_onevstwodoses_paper]{:target="_blank"}<br/>
 **Edward M Hill**, Matt J Keeling. (2021)<br/>
 *J. R. Soc. Interface* **18**(182): 20210214. doi:[10.1098/rsif.2021.0214.][VaccUK_onevstwodoses_doi]{:target="_blank"}<br/>
@@ -125,13 +129,13 @@ Robert Challen *et al*. (2021)<br/>
 \* denotes joint first authors
 
 
-[app_notif_window_paper]: https://www.medrxiv.org/content/10.1101/2021.11.08.21266079v1
+[app_notif_window_paper]: https://www.medrxiv.org/content/10.1101/2021.11.08.21266079
 [app_notif_window_doi]: https://doi.org/10.1101/2021.11.08.21266079
 
 [LD_variants_paper]: https://www.nature.com/articles/s41467-021-25915-7
 [LD_variants_doi]: https://doi.org/10.1038/s41467-021-25915-7
 
-[RC_variants_paper]: https://www.medrxiv.org/content/10.1101/2021.06.05.21258365v1
+[RC_variants_paper]: https://www.medrxiv.org/content/10.1101/2021.06.05.21258365
 [RC_variants_doi]: https://doi.org/10.1101/2021.06.05.21258365
 
 [vacc_escape_letter]: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00202-4/fulltext
@@ -140,11 +144,8 @@ Robert Challen *et al*. (2021)<br/>
 [health_econ_PB_paper]: https://www.medrxiv.org/content/10.1101/2021.04.22.21255949v1
 [health_econ_PB_doi]: https://doi.org/10.1101/2021.04.22.21255949
 
-[freshers_flu_paper]: https://www.medrxiv.org/content/10.1101/2021.03.31.21251220v2
+[freshers_flu_paper]: https://www.medrxiv.org/content/10.1101/2021.03.31.21251220
 [freshers_flu_doi]: https://doi.org/10.1101/2021.03.31.21251220
-
-[VaccUK_onevstwodoses_paper]: https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0214
-[VaccUK_onevstwodoses_doi]: https://doi.org/10.1098/rsif.2021.0214
 
 [vaccine_escape_2popn_paper]:https://royalsocietypublishing.org/doi/10.1098/rsos.210530
 [vaccine_escape_2popn_doi]: https://doi.org/10.1098/rsos.210530
@@ -152,34 +153,40 @@ Robert Challen *et al*. (2021)<br/>
 [HE_INI_paper]: https://royalsocietypublishing.org/doi/10.1098/rsos.210310
 [HE_INI_doi]: https://doi.org/10.1098/rsos.210310
 
-[school_model_paper]: https://www.medrxiv.org/content/10.1101/2021.02.11.21251587v1
+[school_model_paper]: https://www.medrxiv.org/content/10.1101/2021.02.11.21251587
 [school_model_doi]: https://doi.org/10.1101/2021.02.11.21251587
 
-[school_model_LFTs_paper]: https://www.medrxiv.org/content/10.1101/2021.07.09.21260271v1
+[school_model_LFTs_paper]: https://www.medrxiv.org/content/10.1101/2021.07.09.21260271
 [school_model_LFTs_doi]: https://doi.org/10.1101/2021.07.09.21260271
 
 [school_absence_paper]: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01990-x
 [school_absence_doi]: https://doi.org/10.1186/s12916-021-01990-x
 
+[booster_vacc_paper]: https://www.medrxiv.org/content/10.1101/2021.11.05.21265977
+[booster_vacc_doi]: https://doi.org/10.1101/2021.11.05.21265977
+
+[VaccUK_onevstwodoses_paper]: https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0214
+[VaccUK_onevstwodoses_doi]: https://doi.org/10.1098/rsif.2021.0214
+
 [VaccUK_twodose_paper]: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00143-2/fulltext
 [VaccUK_twodose_doi]: https://doi.org/10.1016/S1473-3099(21)00143-2
+
+[VaccUK_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008849
+[VaccUK_doi]: https://doi.org/10.1371/journal.pcbi.1008849
 
 [worker_pattern_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009058
 [worker_pattern_doi]: https://doi.org/10.1371/journal.pcbi.1009058
 
-[SF_paper]: https://www.medrxiv.org/content/10.1101/2020.11.11.20220962v2
+[SF_paper]: https://www.medrxiv.org/content/10.1101/2020.11.11.20220962
 [SFpaper_doi]: https://doi.org/10.1101/2020.11.11.20220962
 
 [UniUK_paper]: https://www.sciencedirect.com/science/article/pii/S175543652100030X?via%3Dihub
 [UniUK_doi]: https://doi.org/10.1016/j.epidem.2021.100476
 
-[CircuitBreaker_paper]: https://www.medrxiv.org/content/10.1101/2020.10.13.20211813v1
+[CircuitBreaker_paper]: https://www.medrxiv.org/content/10.1101/2020.10.13.20211813
 [CircuitBreaker_doi]: https://doi.org/10.1101/2020.10.13.20211813
 
-[VaccUK_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008849
-[VaccUK_doi]: https://doi.org/10.1371/journal.pcbi.1008849
-
-[ModelFitting_paper]: https://www.medrxiv.org/content/10.1101/2020.08.04.20163782v4
+[ModelFitting_paper]: https://www.medrxiv.org/content/10.1101/2020.08.04.20163782
 [ModelFitting_doi]: https://doi.org/10.1101/2020.08.04.20163782
 
 [SchoolReopen_paper]: https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0261
