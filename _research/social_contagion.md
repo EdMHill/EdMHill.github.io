@@ -19,7 +19,7 @@ This work was carried out as part of my Ph.D. studies in conjunction with [Thoma
 
 A downloadable PDF of my thesis entitled "Mathematical modelling approaches for spreading processes: zoonotic influenza and social contagion" can be found [here][Thesis_link]{:target="_blank"}.
 
-**Relevant Publications**:
+**Peer-reviewed publications**:
 
 * [Modelling the Spread of Mood. In: Mood: Interdisciplinary Perspectives, New Theories.][MoodVolume]{:target="_blank"}<br/>
 **Edward M. Hill** and Thomas House (2019) pp. 87-108.<br/>

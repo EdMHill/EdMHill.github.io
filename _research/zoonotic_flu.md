@@ -20,7 +20,7 @@ Second, we considered the emergence of influenza strains with pandemic potential
 
 A downloadable PDF of my thesis entitled "Mathematical modelling approaches for spreading processes: zoonotic influenza and social contagion" can be found [here][Thesis_link]{:target="_blank"}.
 
-**Relevant peer-reviewed publications**:
+**Peer-reviewed publications**:
 
 * [The impact of surveillance and control on highly pathogenic avian influenza outbreaks in poultry in Dhaka division, Bangladesh][BangH5N1Control_paper]{:target="_blank"} <br/>
 **Edward M. Hill**, Thomas House, Madhur S. Dhingra, Wantanee Kalpravidh, Subhash Morzaria, Muzaffar G. Osmani, Eric Brum, Mat Yamage, Md. A. Kalam, Diann J. Prosser, John Y. Takekawa, Xiangming Xiao, Marius Gilbert, Michael J. Tildesley (2018) <br/>

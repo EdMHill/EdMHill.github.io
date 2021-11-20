@@ -32,3 +32,13 @@ Our primary objective in this project is to quantify, predict and hence mitigate
 The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael Tildesley][MT_link]{:target="_blank"} & [Matt Keeling][MK_link]{:target="_blank"}. Our modelling work is also done in collaboration with [Ellen-Brooks Pollock][EBP_link]{:target="_blank"} ([University of Bristol][UoB_link]{:target="_blank"}).
 
 Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Martin Green][MG_link]{:target="_blank"}, [Eamonn Ferguson][EF_link]{:target="_blank"} & [Jasmeet Kaler][JK_link]{:target="_blank"}.
+
+**Preprints**:
+
+* [BVDFree England data analysis: descriptive analysis of national bovine viral diarrhoea test data in England][BVD_data_paper]{:target="_blank"}<br/>
+Naomi S Prosser\*, **Edward M. Hill**\*, Derek Armstrong, Lorna Gow, Michael J Tildesley, Matt J Keeling, Jasmeet Kaler, Eamonn Ferguson, Martin J Green (2021)<br/>
+*agriRxiv*. doi:[10.31220/agriRxiv.2021.00095.][BVD_data_doi]{:target="_blank"}<br/>
+\* denotes joint first authors
+
+[BVD_data_paper]: https://agrirxiv.org/search-details/?pan=20210468434
+[BVD_data_doi]: https://doi.org/10.31220/agriRxiv.2021.00095

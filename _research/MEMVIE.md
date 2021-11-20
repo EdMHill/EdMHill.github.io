@@ -18,7 +18,7 @@ In June 2017 I began work on a project between Warwick and the UK Department of 
 
 My focus was on seasonal influenza. The outputs of the models were used in conjunction with independent modelling done by Public Health England (part of the Department of Health), to advise on future vaccination policy in the UK. The project is headed by [Matt Keeling][MK_link]{:target="_blank"} and my research partners included: [Graham Medley][GM_link]{:target="_blank"}(London School of Hygiene and Tropical Medicine), [Martin Underwood][MU_link]{:target="_blank"}, [Stavros Petrou][SP_link]{:target="_blank"}, [Sophie Staniszewska][SS_link]{:target="_blank"} and [Tinevimbo Shiri][TS_link]{:target="_blank"} (Warwick Medical School).
 
-**Relevant Publications**:
+**Peer-reviewed publications**:
 
 * [Developing a Framework for Public Involvement in Mathematical and Economic Modelling: Bringing New Dynamism to Vaccination Policy Recommendations.][PPI_paper]{:target="_blank"}<br/>
 Sophie Stanizewska, **Edward M. Hill**, Richard Grant, Peter Grove, Jarina Porter, Tinevimbo Shiri, Sue Tulip, Jane Whitehurst, Claire Wright, Samik Datta, Stavros Petrou, Matt J. Keeling. (2021)<br/>
