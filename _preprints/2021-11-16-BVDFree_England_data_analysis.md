@@ -1,5 +1,5 @@
 ---
-title: "BVDFree England data analysis: descriptive analysis of national bovine viral diarrhoea test data in England"
+title: "Descriptive analysis of national bovine viral diarrhoea test data in England"
 collection: preprints
 permalink: /preprints/2021-11-16-bvdfree_england_data_analysis
 date: 2021-11-16
