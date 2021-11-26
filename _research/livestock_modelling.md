@@ -37,10 +37,18 @@ Our research partners at the [University of Nottingham][UoN_link]{:target="_blan
 
 **Preprints**:
 
+* [Modelling livestock infectious disease control policy under differing social perspectives on vaccination behaviour][vacc_behaviour_generic_model_paper]{:target="_blank"}<br/>
+**Edward M. Hill**, Naomi S Prosser, Eamonn Ferguson, Jasmeet Kaler, Martin J Green, Matt J Keeling, Michael J Tildesley (2021)<br/>
+*agriRxiv*. doi:[10.31220/agriRxiv.2021.00100.][vacc_behaviour_generic_model_doi]{:target="_blank"}
+
 * [Descriptive analysis of national bovine viral diarrhoea test data in England][BVD_data_paper]{:target="_blank"}<br/>
 Naomi S Prosser\*, **Edward M. Hill**\*, Derek Armstrong, Lorna Gow, Michael J Tildesley, Matt J Keeling, Jasmeet Kaler, Eamonn Ferguson, Martin J Green (2021)<br/>
 *agriRxiv*. doi:[10.31220/agriRxiv.2021.00095.][BVD_data_doi]{:target="_blank"}<br/>
 \* denotes joint first authors
+
+
+[vacc_behaviour_generic_model_paper]: https://agrirxiv.org/search-details/?pan=20210479185
+[vacc_behaviour_generic_model_doi]: https://doi.org/10.31220/agriRxiv.2021.00100
 
 [BVD_data_paper]: https://agrirxiv.org/search-details/?pan=20210468434
 [BVD_data_doi]: https://doi.org/10.31220/agriRxiv.2021.00095
