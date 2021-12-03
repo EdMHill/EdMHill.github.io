@@ -15,11 +15,9 @@ order_number: 10
 [LD_link]: https://warwick.ac.uk/fac/sci/maths/people/staff/dyson/
 [BA_link]: https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/atkins/
 
-The world is currently being devastated by a pandemic of coronavirus disease (COVID-19). For many countries, focus has turned to planning an &quot;exit strategy&quot; from some of the most severe social distancing measures that the world has ever seen.
+As part of an [MRC][MRC_link]{:target="_blank"} funded project &quot;Mathematical modelling and adaptive control to inform real time decision making for the COVID-19 pandemic at the local, regional and national scale&quot;, our team at the [Zeeman Institute:SBIDER (Systems Biology & Infectious Disease Epidemiology Research)][SBIDER_link]{:target="_blank"} at the [University of Warwick][UoW_link]{:target="_blank"} used real time data on the UK SARS-CoV-2 outbreak to provide robust predictions, gauging the ability of a model to predict future epidemic behaviour.
 
-As part of an [MRC][MRC_link]{:target="_blank"} funded project &quot;Mathematical modelling and adaptive control to inform real time decision making for the COVID-19 pandemic at the local, regional and national scale&quot;, our team at the [Zeeman Institute:SBIDER (Systems Biology & Infectious Disease Epidemiology Research)][SBIDER_link]{:target="_blank"} at the [University of Warwick][UoW_link]{:target="_blank"} is using real time data on the UK COVID-19 outbreak to provide robust predictions, gauging the ability of a model to predict future epidemic behaviour.
-
-The team includes [Matt Keeling][MK_link]{:target="_blank"}, [Michael Tildesley][MT_link]{:target="_blank"}, [Louise Dyson][LD_link]{:target="_blank"}, [Ben Atkins][BA_link]{:target="_blank"} and several colleagues in [SBIDER][SBIDER_link]{:target="_blank"}. For further details on the research undetaken by members of the Zeeman Institute:SBIDER, contributing to the COVID-19 modelling response both in the UK and abroad, visit the [SBIDER COVID-19 modelling response webpage](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/covid19/){:target="_blank"}.
+The team includes [Matt Keeling][MK_link]{:target="_blank"}, [Michael Tildesley][MT_link]{:target="_blank"}, [Louise Dyson][LD_link]{:target="_blank"}, [Ben Atkins][BA_link]{:target="_blank"} and several colleagues in [SBIDER][SBIDER_link]{:target="_blank"}. For further details on the research undertaken by members of the Zeeman Institute:SBIDER, contributing to the COVID-19 modelling response both in the UK and abroad, visit the [SBIDER COVID-19 modelling response webpage](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/covid19/){:target="_blank"}.
 
 I am also a participant of the [Scientific Pandemic Influenza Group on Modelling (SPI-M)](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling){:target="_blank"}. SPI-M has been reporting to the [Scientific Advisory Group for Emergencies (SAGE)](https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies){:target="_blank"}, providing advice (based on infectious disease modelling and epidemiology) on scientific matters related to the UK’s response to the COVID-19 pandemic.
 
@@ -69,9 +67,9 @@ Julia R Gog, **Edward M Hill**, Leon Danon, Robin N Thompson. (2021)<br/>
 *Royal Society Open Science*, **8**(7): 210530. doi:[10.1098/rsos.210530.][vaccine_escape_2popn_doi]{:target="_blank"}<br/>
 
 **Precautionary breaks (circuit breakers)**
-* [Precautionary breaks: planned, limited duration circuit breaks to control the prevalence of COVID-19][CircuitBreaker_paper]{:target="_blank"}<br/>
-Matt J Keeling, Glen Guyver-Fletcher, Alex Holmes, Louise Dyson, Michael J. Tildesley, **Edward M Hill**, Graham F Medley. (2020)<br/>
-*medRxiv*. doi:[10.1101&#47;2020.10.13.20211813.][CircuitBreaker_doi]{:target="_blank"}<br/>
+* [Precautionary breaks: Planned, limited duration circuit breaks to control the prevalence of SARS-CoV-2 and the burden of COVID-19 disease][CircuitBreaker_paper]{:target="_blank"}<br/>
+Matt J Keeling, Glen Guyver-Fletcher, Alex Holmes, Louise Dyson, Michael J. Tildesley, **Edward M Hill**, Graham F Medley. (2021)<br/>
+*Epidemics*. doi:[10.1016/j.epidem.2021.100526.][CircuitBreaker_doi]{:target="_blank"}<br/>
 
 * [Optimal health and economic impact of non-pharmaceutical intervention measures prior and post vaccination in England: a mathematical modelling study][health_econ_PB_paper]{:target="_blank"}<br/>
 Michael J Tildesley, Anna Vassall, Steven Riley, Mark Jit, Frank Sandmann, **Edward M Hill**, Robin N Thompson, Benjamin D Atkins, John Edmunds, Louise Dyson, Matt J Keeling. (2021)<br/>
@@ -183,8 +181,8 @@ Robert Challen *et al*. (2021)<br/>
 [UniUK_paper]: https://www.sciencedirect.com/science/article/pii/S175543652100030X?via%3Dihub
 [UniUK_doi]: https://doi.org/10.1016/j.epidem.2021.100476
 
-[CircuitBreaker_paper]: https://www.medrxiv.org/content/10.1101/2020.10.13.20211813
-[CircuitBreaker_doi]: https://doi.org/10.1101/2020.10.13.20211813
+[CircuitBreaker_paper]: https://www.sciencedirect.com/science/article/pii/S1755436521000700
+[CircuitBreaker_doi]: https://doi.org/10.1016/j.epidem.2021.100526
 
 [ModelFitting_paper]: https://www.medrxiv.org/content/10.1101/2020.08.04.20163782
 [ModelFitting_doi]: https://doi.org/10.1101/2020.08.04.20163782
