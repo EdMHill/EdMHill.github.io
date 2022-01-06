@@ -41,6 +41,10 @@ Matt J Keeling, Louise Dyson, Glen Guyver-Fletcher, Alex Holmes, Malcolm G Sempl
 Sebastian Funk *et al*. (2020)<br/>
 *medRxiv*. doi:[10.1101&#47;2020.11.11.20220962.][SFpaper_doi]{:target="_blank"}<br/>
 
+* [Short-term Projections based on Early Omicron Variant Dynamics in England][Omicron_England_paper]{:target="_blank"}<br/>
+Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson, Julia R Gog, Laura Guzman-Rincon, **Edward M Hill**, Lorenzo M Pellis, Jonathan M Read, Michael J Tildesley. (2021)<br/>
+*medRxiv*. doi:[10.1101&#47;2021.12.30.21268307.][Omicron_England_doi]{:target="_blank"}<br/>
+
 * [Bayesian Estimation of real-time Epidemic Growth Rates using Gaussian Processes: local dynamics of SARS-CoV-2 in England][growth_rate_estimation_paper]{:target="_blank"}<br/>
 Laura Guzman-Rincon, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
 *medRxiv*. doi:[10.1101&#47;2022.01.01.21268131.][growth_rate_estimation_doi]{:target="_blank"}<br/>
@@ -203,3 +207,6 @@ Robert Challen *et al*. (2021)<br/>
 
 [growth_rate_estimation_paper]: https://www.medrxiv.org/content/10.1101/2022.01.01.21268131
 [growth_rate_estimation_doi]: https://doi.org/10.1101/2022.01.01.21268131
+
+[Omicron_England_paper]: https://www.medrxiv.org/content/10.1101/2021.12.30.21268307
+[Omicron_England_doi]: https://doi.org/10.1101/2021.12.30.21268307
