@@ -41,8 +41,11 @@ Matt J Keeling, Louise Dyson, Glen Guyver-Fletcher, Alex Holmes, Malcolm G Sempl
 Sebastian Funk *et al*. (2020)<br/>
 *medRxiv*. doi:[10.1101&#47;2020.11.11.20220962.][SFpaper_doi]{:target="_blank"}<br/>
 
-**Higher education**
+* [Bayesian Estimation of real-time Epidemic Growth Rates using Gaussian Processes: local dynamics of SARS-CoV-2 in England][growth_rate_estimation_paper]{:target="_blank"}<br/>
+Laura Guzman-Rincon, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
+*medRxiv*. doi:[10.1101&#47;2022.01.01.21268131.][growth_rate_estimation_doi]{:target="_blank"}<br/>
 
+**Higher education**
 * [Modelling SARS-CoV-2 transmission in a UK university setting][UniUK_paper]{:target="_blank"}<br/>
 **Edward M Hill**, Benjamin D Atkins, Matt J Keeling, Michael J Tildesley, Louise Dyson. (2021)<br/>
 *Epidemics* **36**: 100476. doi:[10.1016/j.epidem.2021.100476.][UniUK_doi]{:target="_blank"}<br/>
@@ -57,7 +60,6 @@ Ken TD Eames, Maria L Tang, **Edward M Hill**, Michael J Tildesley, Jonathan M R
 *medRxiv*. doi:[10.1101&#47;2021.03.31.21251220.][freshers_flu_doi]{:target="_blank"}<br/>
 
 **Immune escape**
-
 * [SARS-CoV-2 incidence and vaccine escape][vacc_escape_letter]{:target="_blank"}<br/>
 Robin N Thompson, **Edward M Hill**, Julia R Gog. (2021)<br/>
 *Lancet Infectious Diseases* **21**(7): 913-914. doi:[10.1016/S1473-3099(21)00202-4.][vacc_escape_letter_doi]{:target="_blank"}<br/>
@@ -76,7 +78,6 @@ Michael J Tildesley, Anna Vassall, Steven Riley, Mark Jit, Frank Sandmann, **Edw
 *medRxiv*. doi:[10.1101&#47;2021.04.22.21255949.][health_econ_PB_doi]{:target="_blank"}<br/>
 
 **Schools**
-
 * [An analysis of school absences in England during the Covid-19 pandemic][school_absence_paper]{:target="_blank"}<br/>
 Emma R Southall, Alex Holmes, **Edward M Hill**, Benjamin D Atkins, Trystan Leng, Robin N Thompson, Louise Dyson, Matt J Keeling, Michael J Tildesley. (2021)<br/>
 *BMC Medicine* **19**: 137. doi:[10.1186/s12916-021-01990-x.][school_absence_doi]{:target="_blank"}<br/>
@@ -94,21 +95,21 @@ Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, M
 *medRxiv*. doi:[10.1101&#47;2021.07.09.21260271.][school_model_LFTs_doi]{:target="_blank"}<br/>
 
 **Vaccination**
-* [Waning, Boosting and a Path to Endemicity for SARS-CoV-2][booster_vacc_paper]{:target="_blank"}<br/>
-Matt J Keeling, Amy C Thomas, **Edward M Hill**, Robin N Thompson, Louise Dyson, Michael J Tildesley, Sam Moore. (2021)<br/>
-*medRxiv*. doi:[10.1101&#47;2021.11.05.21265977.][booster_vacc_doi]{:target="_blank"}<br/>
-
-* [Comparison between one and two dose SARS-CoV-2 vaccine prioritization for a fixed number of vaccine doses][VaccUK_onevstwodoses_paper]{:target="_blank"}<br/>
-**Edward M Hill**, Matt J Keeling. (2021)<br/>
-*J. R. Soc. Interface* **18**(182): 20210214. doi:[10.1098/rsif.2021.0214.][VaccUK_onevstwodoses_doi]{:target="_blank"}<br/>
+* [Modelling optimal vaccination strategy for SARS-CoV-2 in the UK][VaccUK_paper]{:target="_blank"}<br/>
+Sam Moore, **Edward M Hill**, Louise Dyson, Michael J. Tildesley, Matt J. Keeling. (2021)<br/>
+*PLoS Comput Biol* **17**(5): e1008849. doi:[10.1371/journal.pcbi.1008849.][VaccUK_doi]{:target="_blank"}<br/>
 
 * [Vaccination and non-pharmaceutical interventions for COVID-19: a mathematical modelling study][VaccUK_twodose_paper]{:target="_blank"}<br/>
 Sam Moore, **Edward M Hill**, Michael J Tildesley, Louise Dyson, Matt J Keeling. (2021)<br/>
 *Lancet Infectious Diseases* **21**(6): 793-802. doi:[10.1016/S1473-3099(21)00143-2.][VaccUK_twodose_doi]{:target="_blank"}<br/>
 
-* [Modelling optimal vaccination strategy for SARS-CoV-2 in the UK][VaccUK_paper]{:target="_blank"}<br/>
-Sam Moore, **Edward M Hill**, Louise Dyson, Michael J. Tildesley, Matt J. Keeling. (2021)<br/>
-*PLoS Comput Biol* **17**(5): e1008849. doi:[10.1371/journal.pcbi.1008849.][VaccUK_doi]{:target="_blank"}<br/>
+* [Comparison between one and two dose SARS-CoV-2 vaccine prioritization for a fixed number of vaccine doses][VaccUK_onevstwodoses_paper]{:target="_blank"}<br/>
+**Edward M Hill**, Matt J Keeling. (2021)<br/>
+*J. R. Soc. Interface* **18**(182): 20210214. doi:[10.1098/rsif.2021.0214.][VaccUK_onevstwodoses_doi]{:target="_blank"}<br/>
+
+* [Waning, Boosting and a Path to Endemicity for SARS-CoV-2][booster_vacc_paper]{:target="_blank"}<br/>
+Matt J Keeling, Amy C Thomas, **Edward M Hill**, Robin N Thompson, Louise Dyson, Michael J Tildesley, Sam Moore. (2021)<br/>
+*medRxiv*. doi:[10.1101&#47;2021.11.05.21265977.][booster_vacc_doi]{:target="_blank"}<br/>
 
 **Variants of Concern (VOCs)**
 * [Short-term Projections based on Early Omicron Variant Dynamics in England][early_omicron_modelling_paper]{:target="_blank"}<br/>
@@ -199,3 +200,6 @@ Robert Challen *et al*. (2021)<br/>
 
 [WarwickModel_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008619
 [WarwickModel_doi]: https://doi.org/10.1371/journal.pcbi.1008619
+
+[growth_rate_estimation_paper]: https://www.medrxiv.org/content/10.1101/2022.01.01.21268131
+[growth_rate_estimation_doi]: https://doi.org/10.1101/2022.01.01.21268131
