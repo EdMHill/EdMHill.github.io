@@ -35,6 +35,8 @@ author_profile: true
 ## Editor and reviewer roles
 I am an Editorial Board member for the [Journal of Theoretical Biology][JTB_link]{:target="_blank"}.
 
+In 2022 I am guest editing a Pandemics Special Issue of [Mathematics Today][https://ima.org.uk/publications/mathematics-today/], the magazine of the [Institute for Maths and Its Applications][https://ima.org.uk/about-us/].
+
 For an overview of my reviewing history, please visit my [Publons profile][Publons_link]{:target="_blank"}.
 
 ## Teaching
