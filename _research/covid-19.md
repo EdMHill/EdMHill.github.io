@@ -34,8 +34,8 @@ Matt J Keeling, **Edward M Hill**, Erin E Gorsich, Bridget Penman, Glen Guyver-F
 *PLoS Comput Biol* **17**(1): e1008619. doi:[10.1371/journal.pcbi.1008619.][WarwickModel_doi]{:target="_blank"}<br/>
 
 * [Fitting to the UK COVID-19 outbreak, short-term forecasts and estimating the reproductive number][ModelFitting_paper]{:target="_blank"}<br/>
-Matt J Keeling, Louise Dyson, Glen Guyver-Fletcher, Alex Holmes, Malcolm G Semple, ISARIC4C Investigators, Michael J Tildesley, **Edward M Hill**. (2020)<br/>
-*medRxiv*. doi:[10.1101&#47;2020.08.04.20163782.][ModelFitting_doi]{:target="_blank"}<br/>
+Matt J Keeling, Louise Dyson, Glen Guyver-Fletcher, Alex Holmes, Malcolm G Semple, ISARIC4C Investigators, Michael J Tildesley, **Edward M Hill**. (2022)<br/>
+*Statistical Methods in Medical Research*. doi:[10.1177/09622802211070257.][ModelFitting_doi]{:target="_blank"}<br/>
 
 * [Short-term forecasts to inform the response to the COVID-19 epidemic in the UK][SF_paper]{:target="_blank"}<br/>
 Sebastian Funk *et al*. (2020)<br/>
@@ -196,8 +196,8 @@ Robert Challen *et al*. (2021)<br/>
 [CircuitBreaker_paper]: https://www.sciencedirect.com/science/article/pii/S1755436521000700
 [CircuitBreaker_doi]: https://doi.org/10.1016/j.epidem.2021.100526
 
-[ModelFitting_paper]: https://www.medrxiv.org/content/10.1101/2020.08.04.20163782
-[ModelFitting_doi]: https://doi.org/10.1101/2020.08.04.20163782
+[ModelFitting_paper]: https://journals.sagepub.com/doi/10.1177/09622802211070257
+[ModelFitting_doi]: https://doi.org/10.1177/09622802211070257
 
 [SchoolReopen_paper]: https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0261
 [SchoolReopen_doi]: https://doi.org/10.1098/rstb.2020.0261
