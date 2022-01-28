@@ -99,6 +99,10 @@ Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, M
 *medRxiv*. doi:[10.1101&#47;2021.07.09.21260271.][school_model_LFTs_doi]{:target="_blank"}<br/>
 
 **Vaccination**
+* [The impacts of increased global vaccine sharing on the COVID-19 pandemic; a retrospective modelling study][global_vacc_sharing_paper]{:target="_blank"}<br/>
+Sam Moore, **Edward M Hill**, Louise Dyson, Michael J. Tildesley, Matt J. Keeling. (2022)<br/>
+*medRxiv*. doi:[10.1101&#47;2022.01.26.22269877.][global_vacc_sharing_doi]{:target="_blank"}<br/>
+
 * [Modelling optimal vaccination strategy for SARS-CoV-2 in the UK][VaccUK_paper]{:target="_blank"}<br/>
 Sam Moore, **Edward M Hill**, Louise Dyson, Michael J. Tildesley, Matt J. Keeling. (2021)<br/>
 *PLoS Comput Biol* **17**(5): e1008849. doi:[10.1371/journal.pcbi.1008849.][VaccUK_doi]{:target="_blank"}<br/>
@@ -175,11 +179,14 @@ Robert Challen *et al*. (2021)<br/>
 [booster_vacc_paper]: https://www.medrxiv.org/content/10.1101/2021.11.05.21265977
 [booster_vacc_doi]: https://doi.org/10.1101/2021.11.05.21265977
 
-[VaccUK_onevstwodoses_paper]: https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0214
-[VaccUK_onevstwodoses_doi]: https://doi.org/10.1098/rsif.2021.0214
+[global_vacc_sharing_paper]: https://www.medrxiv.org/content/10.1101/2022.01.26.22269877
+[global_vacc_sharing_doi]: https://doi.org/10.1101/2022.01.26.22269877
 
 [VaccUK_twodose_paper]: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00143-2/fulltext
 [VaccUK_twodose_doi]: https://doi.org/10.1016/S1473-3099(21)00143-2
+
+[VaccUK_onevstwodoses_paper]: https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0214
+[VaccUK_onevstwodoses_doi]: https://doi.org/10.1098/rsif.2021.0214
 
 [VaccUK_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008849
 [VaccUK_doi]: https://doi.org/10.1371/journal.pcbi.1008849
