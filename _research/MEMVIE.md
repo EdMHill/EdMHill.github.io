@@ -21,15 +21,15 @@ My focus was on seasonal influenza. The outputs of the models were used in conju
 **Peer-reviewed publications**:
 
 * [Developing a Framework for Public Involvement in Mathematical and Economic Modelling: Bringing New Dynamism to Vaccination Policy Recommendations.][PPI_paper]{:target="_blank"}<br/>
-Sophie Stanizewska, **Edward M. Hill**, Richard Grant, Peter Grove, Jarina Porter, Tinevimbo Shiri, Sue Tulip, Jane Whitehurst, Claire Wright, Samik Datta, Stavros Petrou, Matt J. Keeling. (2021)<br/>
+Sophie Stanizewska, **Edward M Hill**, Richard Grant, Peter Grove, Jarina Porter, Tinevimbo Shiri, Sue Tulip, Jane Whitehurst, Claire Wright, Samik Datta, Stavros Petrou, Matt J Keeling. (2021)<br/>
 *Patient*. doi:[10.1007/s40271-020-00476-x.][PPI_doi]{:target="_blank"}<br/>
 
 * [Optimising age coverage of seasonal influenza vaccination in England: A mathematical and health economic evaluation.][Age_paper]{:target="_blank"}<br/>
-**Edward M. Hill**, Stavros Petrou, Henry Forster, Simon de Lusignan, Ivelina Yonova, Matt J. Keeling (2020)<br/>
+**Edward M Hill**, Stavros Petrou, Henry Forster, Simon de Lusignan, Ivelina Yonova, Matt J Keeling (2020)<br/>
 *PLoS Comput Biol* **16**(10): e1008278. doi:[10.1371/journal.pcbi.1008278.][Age_doi]{:target="_blank"}<br/>
 
 * [Seasonal influenza: Modelling approaches to capture immunity propagation.][NonAge_paper]{:target="_blank"}<br/>
-**Edward M. Hill**, Stavros Petrou, Simon de Lusignan, Ivelina Yonova, Matt J. Keeling (2019)<br/>
+**Edward M Hill**, Stavros Petrou, Simon de Lusignan, Ivelina Yonova, Matt J Keeling (2019)<br/>
 *PLoS Comput Biol* **15**(10): e1007096. doi:[10.1371/journal.pcbi.1007096.][NonAge_doi]{:target="_blank"}<br/>
 
 [PPI_paper]: https://link.springer.com/article/10.1007/s40271-020-00476-x

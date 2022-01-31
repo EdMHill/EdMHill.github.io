@@ -74,7 +74,7 @@ Julia R Gog, **Edward M Hill**, Leon Danon, Robin N Thompson. (2021)<br/>
 
 **Precautionary breaks (circuit breakers)**
 * [Precautionary breaks: Planned, limited duration circuit breaks to control the prevalence of SARS-CoV-2 and the burden of COVID-19 disease][CircuitBreaker_paper]{:target="_blank"}<br/>
-Matt J Keeling, Glen Guyver-Fletcher, Alex Holmes, Louise Dyson, Michael J. Tildesley, **Edward M Hill**, Graham F Medley. (2021)<br/>
+Matt J Keeling, Glen Guyver-Fletcher, Alex Holmes, Louise Dyson, Michael J Tildesley, **Edward M Hill**, Graham F Medley. (2021)<br/>
 *Epidemics*. doi:[10.1016/j.epidem.2021.100526.][CircuitBreaker_doi]{:target="_blank"}<br/>
 
 * [Optimal health and economic impact of non-pharmaceutical intervention measures prior and post vaccination in England: a mathematical modelling study][health_econ_PB_paper]{:target="_blank"}<br/>
@@ -100,11 +100,11 @@ Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, M
 
 **Vaccination**
 * [The impacts of increased global vaccine sharing on the COVID-19 pandemic; a retrospective modelling study][global_vacc_sharing_paper]{:target="_blank"}<br/>
-Sam Moore, **Edward M Hill**, Louise Dyson, Michael J. Tildesley, Matt J. Keeling. (2022)<br/>
+Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
 *medRxiv*. doi:[10.1101&#47;2022.01.26.22269877.][global_vacc_sharing_doi]{:target="_blank"}<br/>
 
 * [Modelling optimal vaccination strategy for SARS-CoV-2 in the UK][VaccUK_paper]{:target="_blank"}<br/>
-Sam Moore, **Edward M Hill**, Louise Dyson, Michael J. Tildesley, Matt J. Keeling. (2021)<br/>
+Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2021)<br/>
 *PLoS Comput Biol* **17**(5): e1008849. doi:[10.1371/journal.pcbi.1008849.][VaccUK_doi]{:target="_blank"}<br/>
 
 * [Vaccination and non-pharmaceutical interventions for COVID-19: a mathematical modelling study][VaccUK_twodose_paper]{:target="_blank"}<br/>
