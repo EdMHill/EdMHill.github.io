@@ -13,6 +13,11 @@ author_profile: true
 
 ## Funding awards
 
+**2022** RAMP (Rapid Assistance for Modelling the Pandemic) Continuity funding: Early Career Researcher Knowledge Exchange Project Award (1000 GBP).
+
+* Facilitation and organisation of a virtual workshop event on [Behaviour and Policy During Pandemics: Models and Methods](https://gateway.newton.ac.uk/event/tgm114){:target="_blank"}
+* Hosted by the [Newton Gateway to Mathematics](https://gateway.newton.ac.uk/about){:target="_blank"}, the impact initiative of the [Isaac Newton Institute for Mathematical Sciences](https://www.newton.ac.uk/){:target="_blank"}.
+
 **2021** RAMP (Rapid Assistance for Modelling the Pandemic) Continuity funding: Early Career Researcher Knowledge Exchange Project Award (2500 GBP).
 
 * Facilitation and organisation of a virtual workshop series on [Modelling Behaviour to Inform Policy for Pandemics](https://gateway.newton.ac.uk/event/tgm103){:target="_blank"}
