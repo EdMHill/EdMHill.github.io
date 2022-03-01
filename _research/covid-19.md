@@ -95,8 +95,8 @@ Trystan Leng, **Edward M Hill**, Robin N Thompson, Michael J Tildesley, Matt J K
 *medRxiv*. doi:[10.1101&#47;2021.02.12.21251484.][school_model_doi]{:target="_blank"}<br/>
 
 * [Quantifying within-school SARS-CoV-2 transmission and the impact of lateral flow testing in secondary schools in England.][school_model_LFTs_paper]{:target="_blank"}<br/>
-Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, Michael J Tildesley, Matt J Keeling, Louise Dyson. (2021)<br/>
-*medRxiv*. doi:[10.1101&#47;2021.07.09.21260271.][school_model_LFTs_doi]{:target="_blank"}<br/>
+Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, Michael J Tildesley, Matt J Keeling, Louise Dyson. (2022)<br/>
+*Nature Communications*  **13**: 1106. doi:[10.1038/s41467-022-28731-9.][school_model_LFTs_doi]{:target="_blank"}<br/>
 
 **Vaccination**
 * [The impacts of increased global vaccine sharing on the COVID-19 pandemic; a retrospective modelling study][global_vacc_sharing_paper]{:target="_blank"}<br/>
@@ -170,8 +170,8 @@ Robert Challen *et al*. (2021)<br/>
 [school_model_paper]: https://www.medrxiv.org/content/10.1101/2021.02.11.21251587
 [school_model_doi]: https://doi.org/10.1101/2021.02.11.21251587
 
-[school_model_LFTs_paper]: https://www.medrxiv.org/content/10.1101/2021.07.09.21260271
-[school_model_LFTs_doi]: https://doi.org/10.1101/2021.07.09.21260271
+[school_model_LFTs_paper]: https://www.nature.com/articles/s41467-022-28731-9
+[school_model_LFTs_doi]: https://doi.org/10.1038/s41467-022-28731-9
 
 [school_absence_paper]: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01990-x
 [school_absence_doi]: https://doi.org/10.1186/s12916-021-01990-x
