@@ -49,6 +49,10 @@ Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson
 Laura Guzman-Rincon, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
 *medRxiv*. doi:[10.1101&#47;2022.01.01.21268131.][growth_rate_estimation_doi]{:target="_blank"}<br/>
 
+* [Comparison of the 2021 COVID-19 'Roadmap' Projections against Public Health Data][Roadmap_retrospective_paper]{:target="_blank"}<br/>
+Matt J Keeling, Louise Dyson, Michael J Tildesley, **Edward M Hill**, Sam Moore. (2022)<br/>
+*medRxiv*. doi:[10.1101&#47;2022.03.17.22272535.][Roadmap_retrospective_doi]{:target="_blank"}<br/>
+
 **Higher education**
 * [Modelling SARS-CoV-2 transmission in a UK university setting][UniUK_paper]{:target="_blank"}<br/>
 **Edward M Hill**, Benjamin D Atkins, Matt J Keeling, Michael J Tildesley, Louise Dyson. (2021)<br/>
@@ -99,10 +103,6 @@ Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, M
 *Nature Communications*  **13**: 1106. doi:[10.1038/s41467-022-28731-9.][school_model_LFTs_doi]{:target="_blank"}<br/>
 
 **Vaccination**
-* [The impacts of increased global vaccine sharing on the COVID-19 pandemic; a retrospective modelling study][global_vacc_sharing_paper]{:target="_blank"}<br/>
-Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
-*medRxiv*. doi:[10.1101&#47;2022.01.26.22269877.][global_vacc_sharing_doi]{:target="_blank"}<br/>
-
 * [Modelling optimal vaccination strategy for SARS-CoV-2 in the UK][VaccUK_paper]{:target="_blank"}<br/>
 Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2021)<br/>
 *PLoS Comput Biol* **17**(5): e1008849. doi:[10.1371/journal.pcbi.1008849.][VaccUK_doi]{:target="_blank"}<br/>
@@ -118,6 +118,10 @@ Sam Moore, **Edward M Hill**, Michael J Tildesley, Louise Dyson, Matt J Keeling.
 * [Waning, Boosting and a Path to Endemicity for SARS-CoV-2][booster_vacc_paper]{:target="_blank"}<br/>
 Matt J Keeling, Amy C Thomas, **Edward M Hill**, Robin N Thompson, Louise Dyson, Michael J Tildesley, Sam Moore. (2021)<br/>
 *medRxiv*. doi:[10.1101&#47;2021.11.05.21265977.][booster_vacc_doi]{:target="_blank"}<br/>
+
+* [The impacts of increased global vaccine sharing on the COVID-19 pandemic; a retrospective modelling study][global_vacc_sharing_paper]{:target="_blank"}<br/>
+Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
+*medRxiv*. doi:[10.1101&#47;2022.01.26.22269877.][global_vacc_sharing_doi]{:target="_blank"}<br/>
 
 **Variants of Concern (VOCs)**
 * [Short-term Projections based on Early Omicron Variant Dynamics in England][early_omicron_modelling_paper]{:target="_blank"}<br/>
@@ -217,3 +221,6 @@ Robert Challen *et al*. (2021)<br/>
 
 [Omicron_England_paper]: https://www.medrxiv.org/content/10.1101/2021.12.30.21268307
 [Omicron_England_doi]: https://doi.org/10.1101/2021.12.30.21268307
+
+[Roadmap_retrospective_paper]: https://www.medrxiv.org/content/10.1101/2022.03.17.22272535
+[Roadmap_retrospective_doi]: https://doi.org/10.1101/2022.03.17.22272535
