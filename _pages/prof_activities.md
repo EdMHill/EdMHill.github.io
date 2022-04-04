@@ -13,12 +13,17 @@ author_profile: true
 
 ## Funding awards
 
-**2022** RAMP (Rapid Assistance for Modelling the Pandemic) Continuity funding: Early Career Researcher Knowledge Exchange Project Award (1000 GBP).
+**2022** RAMP (Rapid Assistance for Modelling the Pandemic) Outreach Innovation Award.
+
+* Awarded to form the SBIDER audio hub.
+* Produce two podcast series: (i) SBIDER research news - sharing research findings from SBIDER with the public; (ii) a career-orientated series to give insights into the day-to-day activities of researchers working in mathematical epidemiology and infectious disease modelling.
+
+**2022** RAMP Continuity funding: Early Career Researcher Knowledge Exchange Project Award (1000 GBP).
 
 * Facilitation and organisation of a virtual workshop event on [Behaviour and Policy During Pandemics: Models and Methods](https://gateway.newton.ac.uk/event/tgm114){:target="_blank"}
 * Hosted by the [Newton Gateway to Mathematics](https://gateway.newton.ac.uk/about){:target="_blank"}, the impact initiative of the [Isaac Newton Institute for Mathematical Sciences](https://www.newton.ac.uk/){:target="_blank"}.
 
-**2021** RAMP (Rapid Assistance for Modelling the Pandemic) Continuity funding: Early Career Researcher Knowledge Exchange Project Award (2500 GBP).
+**2021** RAMP Continuity funding: Early Career Researcher Knowledge Exchange Project Award (2500 GBP).
 
 * Facilitation and organisation of a virtual workshop series on [Modelling Behaviour to Inform Policy for Pandemics](https://gateway.newton.ac.uk/event/tgm103){:target="_blank"}
 * Hosted by the [Newton Gateway to Mathematics](https://gateway.newton.ac.uk/about){:target="_blank"}, the impact initiative of the [Isaac Newton Institute for Mathematical Sciences](https://www.newton.ac.uk/){:target="_blank"}.
@@ -57,11 +62,11 @@ I have performed the following duties at the University of Warwick:
 During my PhD I organised an epidemiology reading group within the [Centre for Complexity Science, University of Warwick](https://warwick.ac.uk/fac/cross_fac/complexity/){:target="_blank"}. [Archive of discussed papers][readgroup_link]{:target="_blank"}
 
 ## Professional and academic affiliations
-**2016 - present:** Member of the [European Society for Mathematical and Theoretical Biology (ESMTB)](https://www.esmtb.org){:target="_blank"}. <br/>
-**2018 - present:** Member of the [Society for Mathematical Biology (SMB)](https://www.smb.org){:target="_blank"}.
+**2018 - present:** Member of the [Society for Mathematical Biology (SMB)](https://www.smb.org){:target="_blank"}. <br/>
+**2016 - present:** Member of the [European Society for Mathematical and Theoretical Biology (ESMTB)](https://www.esmtb.org){:target="_blank"}.
 
 ## Conference session chair
-**SMB 2018** - Epidemiology: Part A <br/>
-**CCS 2019** - Diseases & Epidemics 1 <br/>
+**SMB 2021** - Mathematical Epidemiology CT09 <br/>
 **SMB 2020** - Mathematical Epidemiology COVID-19 Contributed Talks III <br/>
-**SMB 2021** - Mathematical Epidemiology CT09
+**CCS 2019** - Diseases & Epidemics 1 <br/>
+**SMB 2018** - Epidemiology: Part A
