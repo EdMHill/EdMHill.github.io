@@ -15,6 +15,7 @@ author_profile: true
 
 **2022** RAMP (Rapid Assistance for Modelling the Pandemic) Outreach Innovation Award.
 
+* Lead applicant, with [Laura Guzman-Rincon](https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/guzmanrincon/){:target="_blank"} as co-applicant.
 * Awarded to form the SBIDER audio hub.
 * Produce two podcast series: (i) SBIDER research news - sharing research findings from SBIDER with the public; (ii) a career-orientated series to give insights into the day-to-day activities of researchers working in mathematical epidemiology and infectious disease modelling.
 
