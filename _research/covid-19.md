@@ -31,7 +31,7 @@ Trystan Leng, **Edward M Hill**, Matt J Keeling, Michael J Tildesley, Robin N Th
 **Fitting to the UK outbreak**
 * [Predictions of COVID-19 dynamics in the UK: short-term forecasting and analysis of potential exit strategies][WarwickModel_paper]{:target="_blank"}<br/>
 Matt J Keeling, **Edward M Hill**, Erin E Gorsich, Bridget Penman, Glen Guyver-Fletcher, Alex Holmes, Trystan Leng, Hector McKimm, Massimiliano Tamborrino, Louise Dyson, Michael J Tildesley. (2021)<br/>
-*PLoS Comput Biol* **17**(1): e1008619. doi:[10.1371/journal.pcbi.1008619.][WarwickModel_doi]{:target="_blank"}<br/>
+*PLoS Comput Biol*, **17**(1): e1008619. doi:[10.1371/journal.pcbi.1008619.][WarwickModel_doi]{:target="_blank"}<br/>
 
 * [Fitting to the UK COVID-19 outbreak, short-term forecasts and estimating the reproductive number][ModelFitting_paper]{:target="_blank"}<br/>
 Matt J Keeling, Louise Dyson, Glen Guyver-Fletcher, Alex Holmes, Malcolm G Semple, ISARIC4C Investigators, Michael J Tildesley, **Edward M Hill**. (2022)<br/>
@@ -56,7 +56,7 @@ Matt J Keeling, Louise Dyson, Michael J Tildesley, **Edward M Hill**, Sam Moore.
 **Higher education**
 * [Modelling SARS-CoV-2 transmission in a UK university setting][UniUK_paper]{:target="_blank"}<br/>
 **Edward M Hill**, Benjamin D Atkins, Matt J Keeling, Michael J Tildesley, Louise Dyson. (2021)<br/>
-*Epidemics* **36**: 100476. doi:[10.1016/j.epidem.2021.100476.][UniUK_doi]{:target="_blank"}<br/>
+*Epidemics*, **36**: 100476. doi:[10.1016/j.epidem.2021.100476.][UniUK_doi]{:target="_blank"}<br/>
 
 * [SARS-CoV-2 infection in UK university students: Lessons from September-December 2020 and modelling insights for future student return.][HE_INI_paper]{:target="_blank"}<br/>
 Jessica Enright\*, **Edward M Hill**\*, Helena B Stage, Kirsty J Bolton, Emily J Nixon, Emma Fairbanks, Maria L Tang, Ellen Brooks-Pollock, Louise Dyson, Chris J Budd, Rebecca B Hoyle, Lars Schewe, Julia R Gog, Michael J Tildesley. (2021)<br/>
@@ -70,7 +70,7 @@ Ken TD Eames, Maria L Tang, **Edward M Hill**, Michael J Tildesley, Jonathan M R
 **Immune escape**
 * [SARS-CoV-2 incidence and vaccine escape][vacc_escape_letter]{:target="_blank"}<br/>
 Robin N Thompson, **Edward M Hill**, Julia R Gog. (2021)<br/>
-*Lancet Infectious Diseases* **21**(7): 913-914. doi:[10.1016/S1473-3099(21)00202-4.][vacc_escape_letter_doi]{:target="_blank"}<br/>
+*Lancet Infectious Diseases*, **21**(7): 913-914. doi:[10.1016/S1473-3099(21)00202-4.][vacc_escape_letter_doi]{:target="_blank"}<br/>
 
 * [Vaccine escape in a heterogeneous population: insights for SARS-CoV-2 from a simple model][vaccine_escape_2popn_paper]{:target="_blank"}<br/>
 Julia R Gog, **Edward M Hill**, Leon Danon, Robin N Thompson. (2021)<br/>
@@ -79,7 +79,7 @@ Julia R Gog, **Edward M Hill**, Leon Danon, Robin N Thompson. (2021)<br/>
 **Precautionary breaks (circuit breakers)**
 * [Precautionary breaks: Planned, limited duration circuit breaks to control the prevalence of SARS-CoV-2 and the burden of COVID-19 disease][CircuitBreaker_paper]{:target="_blank"}<br/>
 Matt J Keeling, Glen Guyver-Fletcher, Alex Holmes, Louise Dyson, Michael J Tildesley, **Edward M Hill**, Graham F Medley. (2021)<br/>
-*Epidemics*. doi:[10.1016/j.epidem.2021.100526.][CircuitBreaker_doi]{:target="_blank"}<br/>
+*Epidemics*, **37**: 100526. doi:[10.1016/j.epidem.2021.100526.][CircuitBreaker_doi]{:target="_blank"}<br/>
 
 * [Optimal health and economic impact of non-pharmaceutical intervention measures prior and post vaccination in England: a mathematical modelling study][health_econ_PB_paper]{:target="_blank"}<br/>
 Michael J Tildesley, Anna Vassall, Steven Riley, Mark Jit, Frank Sandmann, **Edward M Hill**, Robin N Thompson, Benjamin D Atkins, John Edmunds, Louise Dyson, Matt J Keeling. (2021)<br/>
@@ -88,11 +88,11 @@ Michael J Tildesley, Anna Vassall, Steven Riley, Mark Jit, Frank Sandmann, **Edw
 **Schools**
 * [An analysis of school absences in England during the Covid-19 pandemic][school_absence_paper]{:target="_blank"}<br/>
 Emma R Southall, Alex Holmes, **Edward M Hill**, Benjamin D Atkins, Trystan Leng, Robin N Thompson, Louise Dyson, Matt J Keeling, Michael J Tildesley. (2021)<br/>
-*BMC Medicine* **19**: 137. doi:[10.1186/s12916-021-01990-x.][school_absence_doi]{:target="_blank"}<br/>
+*BMC Medicine*, **19**: 137. doi:[10.1186/s12916-021-01990-x.][school_absence_doi]{:target="_blank"}<br/>
 
 * [The impact of school reopening on the spread of COVID-19 in England][SchoolReopen_paper]{:target="_blank"}<br/>
 Matt J Keeling, Michael J Tildesley, Benjamin D Atkins, Bridget Penman, Emma Southall, Glen Guyver-Fletcher, Alex Holmes, Hector McKimm, Erin E Gorsich, **Edward M Hill**, Louise Dyson. (2021)<br/>
-*Phil Trans B* **376**(1829): 20200261. doi:[10.1098/rstb.2020.0261.][SchoolReopen_doi]{:target="_blank"}<br/>
+*Phil Trans B*, **376**(1829): 20200261. doi:[10.1098/rstb.2020.0261.][SchoolReopen_doi]{:target="_blank"}<br/>
 
 * [Assessing the impact of secondary school reopening strategies on within-school COVID-19 transmission and absences: a modelling study.][school_model_paper]{:target="_blank"}<br/>
 Trystan Leng, **Edward M Hill**, Robin N Thompson, Michael J Tildesley, Matt J Keeling, Louise Dyson. (2021)<br/>
@@ -100,20 +100,20 @@ Trystan Leng, **Edward M Hill**, Robin N Thompson, Michael J Tildesley, Matt J K
 
 * [Quantifying within-school SARS-CoV-2 transmission and the impact of lateral flow testing in secondary schools in England.][school_model_LFTs_paper]{:target="_blank"}<br/>
 Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, Michael J Tildesley, Matt J Keeling, Louise Dyson. (2022)<br/>
-*Nature Communications*  **13**: 1106. doi:[10.1038/s41467-022-28731-9.][school_model_LFTs_doi]{:target="_blank"}<br/>
+*Nature Communications*, **13**: 1106. doi:[10.1038/s41467-022-28731-9.][school_model_LFTs_doi]{:target="_blank"}<br/>
 
 **Vaccination**
 * [Modelling optimal vaccination strategy for SARS-CoV-2 in the UK][VaccUK_paper]{:target="_blank"}<br/>
 Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2021)<br/>
-*PLoS Comput Biol* **17**(5): e1008849. doi:[10.1371/journal.pcbi.1008849.][VaccUK_doi]{:target="_blank"}<br/>
+*PLoS Comput Biol*, **17**(5): e1008849. doi:[10.1371/journal.pcbi.1008849.][VaccUK_doi]{:target="_blank"}<br/>
 
 * [Vaccination and non-pharmaceutical interventions for COVID-19: a mathematical modelling study][VaccUK_twodose_paper]{:target="_blank"}<br/>
 Sam Moore, **Edward M Hill**, Michael J Tildesley, Louise Dyson, Matt J Keeling. (2021)<br/>
-*Lancet Infectious Diseases* **21**(6): 793-802. doi:[10.1016/S1473-3099(21)00143-2.][VaccUK_twodose_doi]{:target="_blank"}<br/>
+*Lancet Infectious Diseases*, **21**(6): 793-802. doi:[10.1016/S1473-3099(21)00143-2.][VaccUK_twodose_doi]{:target="_blank"}<br/>
 
 * [Comparison between one and two dose SARS-CoV-2 vaccine prioritization for a fixed number of vaccine doses][VaccUK_onevstwodoses_paper]{:target="_blank"}<br/>
 **Edward M Hill**, Matt J Keeling. (2021)<br/>
-*J. R. Soc. Interface* **18**(182): 20210214. doi:[10.1098/rsif.2021.0214.][VaccUK_onevstwodoses_doi]{:target="_blank"}<br/>
+*J. R. Soc. Interface*, **18**(182): 20210214. doi:[10.1098/rsif.2021.0214.][VaccUK_onevstwodoses_doi]{:target="_blank"}<br/>
 
 * [Waning, Boosting and a Path to Endemicity for SARS-CoV-2][booster_vacc_paper]{:target="_blank"}<br/>
 Matt J Keeling, Amy C Thomas, **Edward M Hill**, Robin N Thompson, Louise Dyson, Michael J Tildesley, Sam Moore. (2021)<br/>
@@ -130,7 +130,7 @@ Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson
 
 * [Possible future waves of SARS-CoV-2 infection generated by variants of concern with a range of characteristics][LD_variants_paper]{:target="_blank"}<br/>
 Louise Dyson\*, **Edward M Hill**\*, Sam Moore, Jacob Curran-Sebastian, Michael J Tildesley, Katrina A Lythgoe, Thomas House, Lorenzo Pellis, Matt J Keeling. (2021)<br/>
-*Nature Communications*  **12**: 5730. doi:[10.1038/s41467-021-25915-7.][LD_variants_doi]{:target="_blank"}<br/>
+*Nature Communications*, **12**: 5730. doi:[10.1038/s41467-021-25915-7.][LD_variants_doi]{:target="_blank"}<br/>
 \* denotes joint first authors
 
 * [Early epidemiological signatures of novel SARS-CoV-2 variants: establishment of B.1.617.2 in England][RC_variants_paper]{:target="_blank"}<br/>
@@ -140,7 +140,7 @@ Robert Challen *et al*. (2021)<br/>
 **Workplaces**
 * [A network modelling approach to assess non-pharmaceutical disease controls in a worker population: An application to SARS-CoV-2][worker_pattern_paper]{:target="_blank"}<br/>
 **Edward M Hill**\*, Benjamin D Atkins\*, Matt J Keeling, Louise Dyson, Michael J Tildesley. (2021)<br/>
-*PLoS Comput Biol* **17**(6): e1009058. doi:[10.1371/journal.pcbi.1009058.][worker_pattern_doi]{:target="_blank"}<br/>
+*PLoS Comput Biol*, **17**(6): e1009058. doi:[10.1371/journal.pcbi.1009058.][worker_pattern_doi]{:target="_blank"}<br/>
 \* denotes joint first authors
 
 

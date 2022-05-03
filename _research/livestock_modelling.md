@@ -38,7 +38,7 @@ Our research partners at the [University of Nottingham][UoN_link]{:target="_blan
 **Peer-reviewed publications**:
 * [Cattle farmer psychosocial profiles and their association with control strategies for bovine viral diarrhea](https://www.journalofdairyscience.org/article/S0022-0302(22)00053-4/fulltext){:target="_blank"}<br/>
 Naomi S Prosser, Martin J Green, Eamonn Ferguson, Michael J Tildesley, **Edward M Hill**, Matt J Keeling, Jasmeet Kaler. (2022)<br/>
-*Journal of Dairy Science*. doi:[10.3168/jds.2021-21386.](https://doi.org/10.3168/jds.2021-21386){:target="_blank"}<br/>
+*Journal of Dairy Science*, **105**(4): 3559-3573. doi:[10.3168/jds.2021-21386.](https://doi.org/10.3168/jds.2021-21386){:target="_blank"}<br/>
 
 **Preprints**:
 
