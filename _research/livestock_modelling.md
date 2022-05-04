@@ -20,6 +20,7 @@ order_number: 50
 [MG_link]: https://www.nottingham.ac.uk/vet/people/martin.green
 [EF_link]: https://www.nottingham.ac.uk/news/expertiseguide/psychology/professor-eamonn-ferguson.aspx
 [JK_link]: https://www.nottingham.ac.uk/news/expertiseguide/veterinary-medicine-science/dr-jasmeet-kaler.aspx
+[NP_link]: https://www.nottingham.ac.uk/research/groups/biobank/people/naomi.prosser
 
 From October 2019 I have been part of a collaborative team (joint with colleagues from the [University of Warwick][UoW_link]{:target="_blank"}, [University of Nottingham][UoN_link]{:target="_blank"} & [University of Bristol][UoB_link]{:target="_blank"}) working on the [BBSRC][BBSRC_link]{:target="_blank"} funded project "[Investigating the impact of farmer behaviour and farmer-led control of infectious disease outbreaks in livestock][FEED_link]{:target="_blank"}".
 
@@ -33,7 +34,7 @@ Our primary objective in this project is to quantify, predict and hence mitigate
 
 The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael Tildesley][MT_link]{:target="_blank"} & [Matt Keeling][MK_link]{:target="_blank"}. Our modelling work is also done in collaboration with [Ellen Brooks- Pollock][EBP_link]{:target="_blank"} ([University of Bristol][UoB_link]{:target="_blank"}).
 
-Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Martin Green][MG_link]{:target="_blank"}, [Eamonn Ferguson][EF_link]{:target="_blank"} & [Jasmeet Kaler][JK_link]{:target="_blank"}.
+Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Martin Green][MG_link]{:target="_blank"}, [Eamonn Ferguson][EF_link]{:target="_blank"}, [Jasmeet Kaler][JK_link]{:target="_blank"} and [Naomi Prosser][NP_link]{:target="_blank"}.
 
 **Peer-reviewed publications**:
 * [Cattle farmer psychosocial profiles and their association with control strategies for bovine viral diarrhea](https://www.journalofdairyscience.org/article/S0022-0302(22)00053-4/fulltext){:target="_blank"}<br/>
