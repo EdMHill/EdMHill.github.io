@@ -31,7 +31,7 @@ Our primary objective in this project is to quantify, predict and hence mitigate
 * Bovine tuberculosis (bTB)
 * Bovine viral diarrhea (BVD)
 
-The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael Tildesley][MT_link]{:target="_blank"} & [Matt Keeling][MK_link]{:target="_blank"}. Our modelling work is also done in collaboration with [Ellen-Brooks Pollock][EBP_link]{:target="_blank"} ([University of Bristol][UoB_link]{:target="_blank"}).
+The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael Tildesley][MT_link]{:target="_blank"} & [Matt Keeling][MK_link]{:target="_blank"}. Our modelling work is also done in collaboration with [Ellen Brooks- Pollock][EBP_link]{:target="_blank"} ([University of Bristol][UoB_link]{:target="_blank"}).
 
 Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Martin Green][MG_link]{:target="_blank"}, [Eamonn Ferguson][EF_link]{:target="_blank"} & [Jasmeet Kaler][JK_link]{:target="_blank"}.
 
