@@ -11,4 +11,7 @@ I am a member of the [Warwick Institute of Engagement](https://warwick.ac.uk/wie
 
 I have been a co-organiser of [Databeers Warwick](https://databeerswrik.tumblr.com){:target="_blank"}, a series of public engagement events around the topic of data science. These events brought together data experts from industry and academia with talks at a level accessible to a wide audience in the West Midlands.
 
-For [Pint of Science](https://pintofscience.co.uk){:target="_blank"}, a science festival which brings researchers to local venues to share their scientific discoveries with the public, I have been an event venue volunteer.
+For [Pint of Science](https://pintofscience.co.uk){:target="_blank"}, a science festival which brings researchers to local venues to share their scientific discoveries with the public, at events in Coventry & Warwickshire I have made the following contributions:
+
+* 2019: Event venue volunteer
+* 2022: Presenter at the ["Our Amazing Body" event](https://pintofscience.co.uk/event/our-amazing-body){:target="_blank"}. Delivered a talk titled "Disease detectives: how maths can help us against disease outbreaks".
