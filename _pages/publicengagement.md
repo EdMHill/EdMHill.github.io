@@ -14,4 +14,4 @@ I have been a co-organiser of [Databeers Warwick](https://databeerswrik.tumblr.c
 For [Pint of Science](https://pintofscience.co.uk){:target="_blank"}, a science festival which brings researchers to local venues to share their scientific discoveries with the public, at events in Coventry & Warwickshire I have made the following contributions:
 
 * 2019: Event venue volunteer
-* 2022: Presenter at the ["Our Amazing Body" event](https://pintofscience.co.uk/event/our-amazing-body){:target="_blank"}. Delivered a talk titled "Disease detectives: how maths can help us against disease outbreaks".
+* 2022: Presenter at the ["Our Amazing Body" event](https://pintofscience.co.uk/event/our-amazing-body){:target="_blank"}. Delivered a talk titled "Disease detectives: how maths can help us against disease outbreaks". For further details, visit the associated [blog post](https://edmhill.github.io/posts/PoS2022/){:target="_blank"}.
