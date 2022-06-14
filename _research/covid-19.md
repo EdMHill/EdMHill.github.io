@@ -94,9 +94,9 @@ Emma R Southall, Alex Holmes, **Edward M Hill**, Benjamin D Atkins, Trystan Leng
 Matt J Keeling, Michael J Tildesley, Benjamin D Atkins, Bridget Penman, Emma Southall, Glen Guyver-Fletcher, Alex Holmes, Hector McKimm, Erin E Gorsich, **Edward M Hill**, Louise Dyson. (2021)<br/>
 *Phil Trans B*, **376**(1829): 20200261. doi:[10.1098/rstb.2020.0261.][SchoolReopen_doi]{:target="_blank"}<br/>
 
-* [Assessing the impact of secondary school reopening strategies on within-school COVID-19 transmission and absences: a modelling study.][school_model_paper]{:target="_blank"}<br/>
-Trystan Leng, **Edward M Hill**, Robin N Thompson, Michael J Tildesley, Matt J Keeling, Louise Dyson. (2021)<br/>
-*medRxiv*. doi:[10.1101&#47;2021.02.12.21251484.][school_model_doi]{:target="_blank"}<br/>
+* [Assessing the impact of lateral flow testing strategies on within-school SARS-CoV-2 transmission and absences: A modelling study.][school_model_paper]{:target="_blank"}<br/>
+Trystan Leng, **Edward M Hill**, Robin N Thompson, Michael J Tildesley, Matt J Keeling, Louise Dyson. (2022)<br/>
+*PLoS Comput Biol*, **18**(6): e1010158. doi:[10.1371/journal.pcbi.1010158.][school_model_doi]{:target="_blank"}<br/>
 
 * [Quantifying within-school SARS-CoV-2 transmission and the impact of lateral flow testing in secondary schools in England.][school_model_LFTs_paper]{:target="_blank"}<br/>
 Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, Michael J Tildesley, Matt J Keeling, Louise Dyson. (2022)<br/>
@@ -171,8 +171,8 @@ Robert Challen *et al*. (2021)<br/>
 [HE_INI_paper]: https://royalsocietypublishing.org/doi/10.1098/rsos.210310
 [HE_INI_doi]: https://doi.org/10.1098/rsos.210310
 
-[school_model_paper]: https://www.medrxiv.org/content/10.1101/2021.02.11.21251587
-[school_model_doi]: https://doi.org/10.1101/2021.02.11.21251587
+[school_model_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010158
+[school_model_doi]: https://doi.org/10.1371/journal.pcbi.1010158
 
 [school_model_LFTs_paper]: https://www.nature.com/articles/s41467-022-28731-9
 [school_model_LFTs_doi]: https://doi.org/10.1038/s41467-022-28731-9
