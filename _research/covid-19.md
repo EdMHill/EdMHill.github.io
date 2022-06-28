@@ -25,8 +25,8 @@ Listed below are associated peer-reviewed publications and preprints, split into
 
 **Contact tracing mobile apps**
 * [The effect of notification window length on the epidemiological impact of COVID-19 contact tracing mobile applications.][app_notif_window_paper]{:target="_blank"}<br/>
-Trystan Leng, **Edward M Hill**, Matt J Keeling, Michael J Tildesley, Robin N Thompson. (2021)<br/>
-*medRxiv*. doi:[10.1101&#47;2021.11.08.21266079.][app_notif_window_doi]{:target="_blank"}<br/>
+Trystan Leng, **Edward M Hill**, Matt J Keeling, Michael J Tildesley, Robin N Thompson. (2022)<br/>
+*Communications Medicine*. doi:[10.1038/s43856-022-00143-2.][app_notif_window_doi]{:target="_blank"}<br/>
 
 **Fitting to the UK outbreak**
 * [Predictions of COVID-19 dynamics in the UK: short-term forecasting and analysis of potential exit strategies][WarwickModel_paper]{:target="_blank"}<br/>
@@ -144,8 +144,8 @@ Robert Challen *et al*. (2021)<br/>
 \* denotes joint first authors
 
 
-[app_notif_window_paper]: https://www.medrxiv.org/content/10.1101/2021.11.08.21266079
-[app_notif_window_doi]: https://doi.org/10.1101/2021.11.08.21266079
+[app_notif_window_paper]: https://www.nature.com/articles/s43856-022-00143-2
+[app_notif_window_doi]: https://doi.org/10.1038/s43856-022-00143-2
 
 [early_omicron_modelling_paper]: https://www.medrxiv.org/content/10.1101/2021.12.30.21268307
 [early_omicron_modelling_doi]: https://doi.org/10.1101/2021.12.30.21268307
