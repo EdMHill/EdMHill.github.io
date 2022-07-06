@@ -21,7 +21,7 @@ The team includes [Matt Keeling][MK_link]{:target="_blank"}, [Michael Tildesley]
 
 I am also a participant of the [Scientific Pandemic Influenza Group on Modelling (SPI-M)](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling){:target="_blank"}. SPI-M has been reporting to the [Scientific Advisory Group for Emergencies (SAGE)](https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies){:target="_blank"}, providing advice (based on infectious disease modelling and epidemiology) on scientific matters related to the UK’s response to the COVID-19 pandemic.
 
-Listed below are associated peer-reviewed publications and preprints, split into nine broad themes (in alphabetical order): Contact tracing mobile apps, fitting to the UK outbreak, higher education, immune escape, precautionary breaks (circuit breakers), schools, vaccination, Variants of Concern (VOCs), workplaces.
+Listed below are associated peer-reviewed publications and preprints, split into ten broad themes (in alphabetical order): Contact tracing mobile apps, fitting to the UK outbreak, higher education, households, immune escape, precautionary breaks (circuit breakers), schools, vaccination, Variants of Concern (VOCs), workplaces.
 
 **Contact tracing mobile apps**
 * [The effect of notification window length on the epidemiological impact of COVID-19 contact tracing mobile applications.][app_notif_window_paper]{:target="_blank"}<br/>
@@ -66,6 +66,11 @@ Jessica Enright\*, **Edward M Hill**\*, Helena B Stage, Kirsty J Bolton, Emily J
 * [Coughs, Colds and "Freshers' Flu" Survey in the University of Cambridge, 2007-2008][freshers_flu_paper]{:target="_blank"}<br/>
 Ken TD Eames, Maria L Tang, **Edward M Hill**, Michael J Tildesley, Jonathan M Read, Matt J Keeling, Julia R Gog. (2021)<br/>
 *medRxiv*. doi:[10.1101&#47;2021.03.31.21251220.][freshers_flu_doi]{:target="_blank"}<br/>
+
+**Households**
+* [Modelling the epidemiological implications for SARS-CoV-2 of Christmas household bubbles in England][christmas_bubbles_paper]{:target="_blank"}<br/>
+**Edward M Hill**. (2022)<br/>
+*medRxiv*. doi:[10.1101&#47;2022.07.04.22277231.][christmas_bubbles_doi]{:target="_blank"}<br/>
 
 **Immune escape**
 * [SARS-CoV-2 incidence and vaccine escape][vacc_escape_letter]{:target="_blank"}<br/>
@@ -224,3 +229,6 @@ Robert Challen *et al*. (2021)<br/>
 
 [Roadmap_retrospective_paper]: https://www.medrxiv.org/content/10.1101/2022.03.17.22272535
 [Roadmap_retrospective_doi]: https://doi.org/10.1101/2022.03.17.22272535
+
+[christmas_bubbles_paper]: https://www.medrxiv.org/content/10.1101/2022.07.04.22277231
+[christmas_bubbles_doi]: https://doi.org/10.1101/2022.07.04.22277231
