@@ -41,11 +41,12 @@ Our research partners at the [University of Nottingham][UoN_link]{:target="_blan
 Naomi S Prosser, Martin J Green, Eamonn Ferguson, Michael J Tildesley, **Edward M Hill**, Matt J Keeling, Jasmeet Kaler. (2022)<br/>
 *Journal of Dairy Science*, **105**(4): 3559-3573. doi:[10.3168/jds.2021-21386.](https://doi.org/10.3168/jds.2021-21386){:target="_blank"}<br/>
 
-**Preprints**:
-
 * [Modelling livestock infectious disease control policy under differing social perspectives on vaccination behaviour][vacc_behaviour_generic_model_paper]{:target="_blank"}<br/>
-**Edward M Hill**, Naomi S Prosser, Eamonn Ferguson, Jasmeet Kaler, Martin J Green, Matt J Keeling, Michael J Tildesley (2021)<br/>
-*agriRxiv*. doi:[10.31220/agriRxiv.2021.00100.][vacc_behaviour_generic_model_doi]{:target="_blank"}
+**Edward M Hill**, Naomi S Prosser, Eamonn Ferguson, Jasmeet Kaler, Martin J Green, Matt J Keeling, Michael J Tildesley (2022)<br/>
+*PLoS Computational Biology* **18**(7): e1010235.  
+doi:[10.1371/journal.pcbi.1010235.][vacc_behaviour_generic_model_doi]{:target="_blank"}
+
+**Preprints**:
 
 * [Descriptive analysis of national bovine viral diarrhoea test data in England][BVD_data_paper]{:target="_blank"}<br/>
 Naomi S Prosser\*, **Edward M Hill**\*, Derek Armstrong, Lorna Gow, Michael J Tildesley, Matt J Keeling, Jasmeet Kaler, Eamonn Ferguson, Martin J Green (2021)<br/>
@@ -53,8 +54,8 @@ Naomi S Prosser\*, **Edward M Hill**\*, Derek Armstrong, Lorna Gow, Michael J Ti
 \* denotes joint first authors
 
 
-[vacc_behaviour_generic_model_paper]: https://agrirxiv.org/search-details/?pan=20210479185
-[vacc_behaviour_generic_model_doi]: https://doi.org/10.31220/agriRxiv.2021.00100
+[vacc_behaviour_generic_model_paper]: https://doi.org/10.1371/journal.pcbi.1010235
+[vacc_behaviour_generic_model_doi]: https://doi.org/10.1371/journal.pcbi.1010235
 
 [BVD_data_paper]: https://agrirxiv.org/search-details/?pan=20210468434
 [BVD_data_doi]: https://doi.org/10.31220/agriRxiv.2021.00095
