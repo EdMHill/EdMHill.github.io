@@ -46,16 +46,14 @@ Naomi S Prosser, Martin J Green, Eamonn Ferguson, Michael J Tildesley, **Edward 
 *PLoS Computational Biology* **18**(7): e1010235.  
 doi:[10.1371/journal.pcbi.1010235.][vacc_behaviour_generic_model_doi]{:target="_blank"}
 
-**Preprints**:
-
-* [Descriptive analysis of national bovine viral diarrhoea test data in England][BVD_data_paper]{:target="_blank"}<br/>
-Naomi S Prosser\*, **Edward M Hill**\*, Derek Armstrong, Lorna Gow, Michael J Tildesley, Matt J Keeling, Jasmeet Kaler, Eamonn Ferguson, Martin J Green (2021)<br/>
-*agriRxiv*. doi:[10.31220/agriRxiv.2021.00095.][BVD_data_doi]{:target="_blank"}<br/>
+* [Descriptive analysis of national bovine viral diarrhoea test data in England (2016–2020)][BVD_data_paper]{:target="_blank"}<br/>
+Naomi S Prosser\*, **Edward M Hill**\*, Derek Armstrong, Lorna Gow, Michael J Tildesley, Matt J Keeling, Jasmeet Kaler, Eamonn Ferguson, Martin J Green (2022)<br/>
+*Veterinary Record*. e1854. doi:[10.1002/vetr.1854.][BVD_data_doi]{:target="_blank"}<br/>
 \* denotes joint first authors
 
 
 [vacc_behaviour_generic_model_paper]: https://doi.org/10.1371/journal.pcbi.1010235
 [vacc_behaviour_generic_model_doi]: https://doi.org/10.1371/journal.pcbi.1010235
 
-[BVD_data_paper]: https://agrirxiv.org/search-details/?pan=20210468434
-[BVD_data_doi]: https://doi.org/10.31220/agriRxiv.2021.00095
+[BVD_data_paper]: https://bvajournals.onlinelibrary.wiley.com/doi/full/10.1002/vetr.1854
+[BVD_data_doi]: https://doi.org/10.1002/vetr.1854
