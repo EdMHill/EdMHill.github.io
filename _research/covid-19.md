@@ -87,8 +87,8 @@ Matt J Keeling, Glen Guyver-Fletcher, Alex Holmes, Louise Dyson, Michael J Tilde
 *Epidemics*, **37**: 100526. doi:[10.1016/j.epidem.2021.100526.][CircuitBreaker_doi]{:target="_blank"}<br/>
 
 * [Optimal health and economic impact of non-pharmaceutical intervention measures prior and post vaccination in England: a mathematical modelling study][health_econ_PB_paper]{:target="_blank"}<br/>
-Michael J Tildesley, Anna Vassall, Steven Riley, Mark Jit, Frank Sandmann, **Edward M Hill**, Robin N Thompson, Benjamin D Atkins, John Edmunds, Louise Dyson, Matt J Keeling. (2021)<br/>
-*medRxiv*. doi:[10.1101&#47;2021.04.22.21255949.][health_econ_PB_doi]{:target="_blank"}<br/>
+Michael J Tildesley, Anna Vassall, Steven Riley, Mark Jit, Frank Sandmann, **Edward M Hill**, Robin N Thompson, Benjamin D Atkins, John Edmunds, Louise Dyson, Matt J Keeling. (2022)<br/>
+*Royal Society Open Science*, **9**(8): 211746. doi:[10.1098/rsos.211746.][health_econ_PB_doi]{:target="_blank"}<br/>
 
 **Schools**
 * [An analysis of school absences in England during the Covid-19 pandemic][school_absence_paper]{:target="_blank"}<br/>
@@ -164,8 +164,8 @@ Robert Challen *et al*. (2021)<br/>
 [vacc_escape_letter]: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00202-4/fulltext
 [vacc_escape_letter_doi]: https://doi.org/10.1016/S1473-3099(21)00202-4
 
-[health_econ_PB_paper]: https://www.medrxiv.org/content/10.1101/2021.04.22.21255949v1
-[health_econ_PB_doi]: https://doi.org/10.1101/2021.04.22.21255949
+[health_econ_PB_paper]: https://royalsocietypublishing.org/doi/10.1098/rsos.211746
+[health_econ_PB_doi]: https://doi.org/10.1098/rsos.211746
 
 [freshers_flu_paper]: https://www.medrxiv.org/content/10.1101/2021.03.31.21251220
 [freshers_flu_doi]: https://doi.org/10.1101/2021.03.31.21251220
