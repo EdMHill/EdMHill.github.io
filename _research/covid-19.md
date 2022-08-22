@@ -49,9 +49,9 @@ Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson
 Laura Guzman-Rincon, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
 *medRxiv*. doi:[10.1101&#47;2022.01.01.21268131.][growth_rate_estimation_doi]{:target="_blank"}<br/>
 
-* [Comparison of the 2021 COVID-19 'Roadmap' Projections against Public Health Data][Roadmap_retrospective_paper]{:target="_blank"}<br/>
+* [Comparison of the 2021 COVID-19 roadmap projections against public health data in England][Roadmap_retrospective_paper]{:target="_blank"}<br/>
 Matt J Keeling, Louise Dyson, Michael J Tildesley, **Edward M Hill**, Sam Moore. (2022)<br/>
-*medRxiv*. doi:[10.1101&#47;2022.03.17.22272535.][Roadmap_retrospective_doi]{:target="_blank"}<br/>
+*Nature Communications*, **13**: 4924. doi:[10.1038/s41467-022-31991-0.][Roadmap_retrospective_doi]{:target="_blank"}<br/>
 
 **Higher education**
 * [Modelling SARS-CoV-2 transmission in a UK university setting][UniUK_paper]{:target="_blank"}<br/>
@@ -227,8 +227,8 @@ Robert Challen *et al*. (2021)<br/>
 [Omicron_England_paper]: https://www.medrxiv.org/content/10.1101/2021.12.30.21268307
 [Omicron_England_doi]: https://doi.org/10.1101/2021.12.30.21268307
 
-[Roadmap_retrospective_paper]: https://www.medrxiv.org/content/10.1101/2022.03.17.22272535
-[Roadmap_retrospective_doi]: https://doi.org/10.1101/2022.03.17.22272535
+[Roadmap_retrospective_paper]: https://www.nature.com/articles/s41467-022-31991-0
+[Roadmap_retrospective_doi]: https://doi.org/10.1038/s41467-022-31991-0
 
 [christmas_bubbles_paper]: https://www.medrxiv.org/content/10.1101/2022.07.04.22277231
 [christmas_bubbles_doi]: https://doi.org/10.1101/2022.07.04.22277231
