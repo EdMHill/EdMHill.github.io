@@ -128,6 +128,10 @@ Matt J Keeling, Amy C Thomas, **Edward M Hill**, Robin N Thompson, Louise Dyson,
 Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
 *medRxiv*. doi:[10.1101&#47;2022.01.26.22269877.][global_vacc_sharing_doi]{:target="_blank"}<br/>
 
+* [The Impact of SARS-CoV-2 Vaccine Dose Separation and Dose Targeting on Hospital Admissions and Deaths from COVID-19 in England][retrospective_vacc_dose_separation_paper]{:target="_blank"}<br/>
+Matt J Keeling, Bridget Penman, **Edward M Hill**, Sam Moore. (2022)<br/>
+*medRxiv*. doi:[10.1101&#47;2022.08.22.22278973.][retrospective_vacc_dose_separation_doi]{:target="_blank"}<br/>
+
 **Variants of Concern (VOCs)**
 * [Short-term Projections based on Early Omicron Variant Dynamics in England][early_omicron_modelling_paper]{:target="_blank"}<br/>
 Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson, Julia R Gog, Laura Guzman-Rincon, **Edward M Hill**, Lorenzo M Pellis, Jonathan M Read, Michael J Tildesley. (2021)<br/>
@@ -232,3 +236,6 @@ Robert Challen *et al*. (2021)<br/>
 
 [christmas_bubbles_paper]: https://www.medrxiv.org/content/10.1101/2022.07.04.22277231
 [christmas_bubbles_doi]: https://doi.org/10.1101/2022.07.04.22277231
+
+[retrospective_vacc_dose_separation_paper]: https://www.medrxiv.org/content/10.1101/2022.08.22.22278973v1
+[retrospective_vacc_dose_separation_doi]: https://doi.org/10.1101/2022.08.22.22278973
