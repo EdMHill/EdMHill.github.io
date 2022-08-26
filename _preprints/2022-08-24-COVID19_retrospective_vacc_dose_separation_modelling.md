@@ -1,7 +1,7 @@
 ---
 title: "The Impact of SARS-CoV-2 Vaccine Dose Separation and Dose Targeting on Hospital Admissions and Deaths from COVID-19 in England"
 collection: preprints
-permalink: /preprints/2022-08-24-COVID19_retrospective_vacc_dose_separation_modelling
+permalink: /preprints/2022-08-24-COVID19_vacc_dose_separation_modelling_retrospective
 date: 2022-08-24
 venue: 'medRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2022.08.22.22278973v1.full.pdf'
