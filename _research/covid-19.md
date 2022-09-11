@@ -35,7 +35,7 @@ Matt J Keeling, **Edward M Hill**, Erin E Gorsich, Bridget Penman, Glen Guyver-F
 
 * [Fitting to the UK COVID-19 outbreak, short-term forecasts and estimating the reproductive number][ModelFitting_paper]{:target="_blank"}<br/>
 Matt J Keeling, Louise Dyson, Glen Guyver-Fletcher, Alex Holmes, Malcolm G Semple, ISARIC4C Investigators, Michael J Tildesley, **Edward M Hill**. (2022)<br/>
-*Statistical Methods in Medical Research*. doi:[10.1177/09622802211070257.][ModelFitting_doi]{:target="_blank"}<br/>
+*Statistical Methods in Medical Research*, **31**(9): 1716-1737. doi:[10.1177/09622802211070257.][ModelFitting_doi]{:target="_blank"}<br/>
 
 * [Short-term forecasts to inform the response to the COVID-19 epidemic in the UK][SF_paper]{:target="_blank"}<br/>
 Sebastian Funk *et al*. (2020)<br/>
