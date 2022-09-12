@@ -24,15 +24,15 @@ A downloadable PDF of my thesis entitled "Mathematical modelling approaches for 
 
 * [The impact of surveillance and control on highly pathogenic avian influenza outbreaks in poultry in Dhaka division, Bangladesh][BangH5N1Control_paper]{:target="_blank"} <br/>
 **Edward M Hill**, Thomas House, Madhur S Dhingra, Wantanee Kalpravidh, Subhash Morzaria, Muzaffar G. Osmani, Eric Brum, Mat Yamage, Md. A Kalam, Diann J Prosser, John Y Takekawa, Xiangming Xiao, Marius Gilbert, Michael J Tildesley (2018) <br/>
-*PLoS Computational Biology* **14**(9): e1006439.  doi:[10.1371/journal.pcbi.1006439][BangH5N1Control_doi]{:target="_blank"}.
+*PLoS Computational Biology* **14**(9): e1006439.  doi:[10.1371/journal.pcbi.1006439][BangH5N1Control_doi]{:target="_blank"}
 
 * [Modelling H5N1 in Bangladesh across spatial scales: Model complexity and zoonotic transmission risk][BangH5N1Model_paper]{:target="_blank"} <br/>
 **Edward M Hill**, Thomas House, Madhur S Dhingra, Wantanee Kalpravidh, Subhash Morzaria, Muzaffar G Osmani, Mat Yamage, Xiangming Xiao, Marius Gilbert, Michael J Tildesley (2017) <br/>
-*Epidemics*, **20C**: 37-55. doi:[10.1016/j.epidem.2017.02.007][BangH5N1Model_doi]{:target="_blank"}.
+*Epidemics*, **20C**: 37-55. doi:[10.1016/j.epidem.2017.02.007][BangH5N1Model_doi]{:target="_blank"}
 
 * [Evidence for history-dependence of influenza pandemic emergence][HistoricPandemic_paper]{:target="_blank"}<br/>
 **Edward M. Hill**, Michael J Tildesley and Thomas House (2017) <br/>
-*Scientific Reports*, **7**: 43623. doi:[10.1038/srep43623][HistoricPandemic_doi]{:target="_blank"}.
+*Scientific Reports*, **7**: 43623. doi:[10.1038/srep43623][HistoricPandemic_doi]{:target="_blank"}
 
 [HistoricPandemic_paper]: https://www.nature.com/articles/srep43623
 [HistoricPandemic_doi]: http://dx.doi.org/10.1038/srep43623

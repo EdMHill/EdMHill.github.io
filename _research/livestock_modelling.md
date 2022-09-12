@@ -39,16 +39,16 @@ Our research partners at the [University of Nottingham][UoN_link]{:target="_blan
 **Peer-reviewed publications**:
 * [Cattle farmer psychosocial profiles and their association with control strategies for bovine viral diarrhea](https://www.journalofdairyscience.org/article/S0022-0302(22)00053-4/fulltext){:target="_blank"}<br/>
 Naomi S Prosser, Martin J Green, Eamonn Ferguson, Michael J Tildesley, **Edward M Hill**, Matt J Keeling, Jasmeet Kaler. (2022)<br/>
-*Journal of Dairy Science*, **105**(4): 3559-3573. doi:[10.3168/jds.2021-21386.](https://doi.org/10.3168/jds.2021-21386){:target="_blank"}<br/>
+*Journal of Dairy Science*, **105**(4): 3559-3573. doi:[10.3168/jds.2021-21386](https://doi.org/10.3168/jds.2021-21386){:target="_blank"}<br/>
 
 * [Modelling livestock infectious disease control policy under differing social perspectives on vaccination behaviour][vacc_behaviour_generic_model_paper]{:target="_blank"}<br/>
 **Edward M Hill**, Naomi S Prosser, Eamonn Ferguson, Jasmeet Kaler, Martin J Green, Matt J Keeling, Michael J Tildesley (2022)<br/>
-*PLoS Computational Biology* **18**(7): e1010235.  
-doi:[10.1371/journal.pcbi.1010235.][vacc_behaviour_generic_model_doi]{:target="_blank"}
+*PLoS Computational Biology*, **18**(7): e1010235.  
+doi:[10.1371/journal.pcbi.1010235][vacc_behaviour_generic_model_doi]{:target="_blank"}
 
 * [Descriptive analysis of national bovine viral diarrhoea test data in England (2016–2020)][BVD_data_paper]{:target="_blank"}<br/>
 Naomi S Prosser\*, **Edward M Hill**\*, Derek Armstrong, Lorna Gow, Michael J Tildesley, Matt J Keeling, Jasmeet Kaler, Eamonn Ferguson, Martin J Green (2022)<br/>
-*Veterinary Record*. e1854. doi:[10.1002/vetr.1854.][BVD_data_doi]{:target="_blank"}<br/>
+*Veterinary Record*, **191**(5): e1854. doi:[10.1002/vetr.1854][BVD_data_doi]{:target="_blank"}<br/>
 \* denotes joint first authors
 
 
