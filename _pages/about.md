@@ -14,7 +14,7 @@ redirect_from:
 [SBIDER_link]: https://www2.warwick.ac.uk/fac/cross_fac/zeeman_institute/
 [MK-link]: https://www2.warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/
 
-Hi! I am a postdoctoral researcher at the [University of Warwick][Warwick_link]{:target="_blank"}, working in the [School of Life Sciences][SLS_link]{:target="_blank"} and [Mathematics Institute][WMI_link]{:target="_blank"}. I am a member of the [Zeeman Institute: Systems Biology & Infectious Disease Epidemiology Research (SBIDER) group][SBIDER_link]{:target="_blank"}.
+Hi! I am a Warwick Zeeman Lecturer at the [University of Warwick][Warwick_link]{:target="_blank"}, working in the [Mathematics Institute][WMI_link]{:target="_blank"} and a member of the [Zeeman Institute: Systems Biology & Infectious Disease Epidemiology Research (SBIDER) group][SBIDER_link]{:target="_blank"}.
 
 I am also a member of [JUNIPER (Joint UNIversities Pandemic and Epidemiological Research)](https://maths.org/juniper/){:target="_blank"}, a consortium of epidemiological modelling groups from seven universities: Bristol, Cambridge, Exeter, Lancaster, Manchester, Oxford and Warwick. The JUNIPER consortium is funded by [UK Research and Innovation (UKRI)](https://www.ukri.org){:target="_blank"}. JUNIPER aims to embed scientific activities within an open and collaborative framework (including public outreach so that scientific assumptions and findings are effectively communicated), build national capacity and contribute to training the next generation of applied epidemiological modellers.
 
