@@ -9,6 +9,8 @@ author_profile: true
 [PopnDyn_link]: https://warwick.ac.uk/fac/sci/maths/undergrad/ughandbook/year4/ma4e7/
 [readgroup_link]: https://warwick.ac.uk/fac/cross_fac/complexity/people/students/dtc/students2012/hill/epi_reading_group/
 [Publons_link]: https://publons.com/author/1514993/edward-m-hill
+[WOS_link]: https://www.webofscience.com/wos/author/record/172620
+[ORCID_link]: https://orcid.org/0000-0002-2992-2004
 [JTB_link]: https://www.journals.elsevier.com/journal-of-theoretical-biology
 
 ## Funding awards
@@ -46,14 +48,16 @@ author_profile: true
 ## Editor and reviewer roles
 I am an Editorial Board member for the [Journal of Theoretical Biology][JTB_link]{:target="_blank"}.
 
-In 2022 I am guest editing a Pandemics Special Issue of [Mathematics Today](https://ima.org.uk/publications/mathematics-today/){:target="_blank"}, the magazine of the [Institute of Mathematics and its Applications](https://ima.org.uk/about-us/){:target="_blank"}.
+I was a guest editor of a Pandemics Special Issue of [Mathematics Today](https://ima.org.uk/publications/mathematics-today/){:target="_blank"}, the magazine of the [Institute of Mathematics and its Applications](https://ima.org.uk/about-us/){:target="_blank"}. The Special Issue was published in October 2022, with the Editorial available to view online [here](https://ima.org.uk/20322/pandemics-special-issue-editorial/){:target="_blank"}.
 
-For an overview of my reviewing history, please visit my [Publons profile][Publons_link]{:target="_blank"}.
+For an overview of my reviewing history, please visit my Peer Review record on [Web of Science][Publons_link]{:target="_blank"} and [ORCID][ORCID_link]{:target="_blank"}.
 
 ## Teaching
 I have performed the following duties at the University of Warwick:
 
-**2017-present** Lecturer/workshop assistant for Mathematical Modelling, delivered to postgraduate students in the [Midland Integrative Biosciences Training Partnership (MIBTP) doctoral training programme][MIBTP_link]{:target="_blank"}.
+**2022-** Module co-organiser for [MA4K8 MA4K9 Projects](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year4/ma469/){:target="_blank"}.
+
+**2017-2021** Lecturer/workshop assistant for Mathematical Modelling, delivered to postgraduate students in the [Midland Integrative Biosciences Training Partnership (MIBTP) doctoral training programme][MIBTP_link]{:target="_blank"}.
 
 **2015-2016** Teaching Assistant for [MA4E7 Population Dynamics: Ecology and Epidemiology][PopnDyn_link]{:target="_blank"}.
 
