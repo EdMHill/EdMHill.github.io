@@ -13,7 +13,11 @@ author_profile: true
 [ORCID_link]: https://orcid.org/0000-0002-2992-2004
 [JTB_link]: https://www.journals.elsevier.com/journal-of-theoretical-biology
 
-## Funding awards
+## Awards and prizes
+
+**2022** SPI-M-O Award for Modelling and Data Support.
+
+* Recognition of those who made an exceptional contribution, during the COVID-19 pandemic, to the work of SPI-M-O outside of their usual work activity.
 
 **2022** RAMP (Rapid Assistance for Modelling the Pandemic) Outreach Innovation Award.
 
@@ -25,6 +29,10 @@ author_profile: true
 
 * Facilitation and organisation of a virtual workshop event on [Behaviour and Policy During Pandemics: Models and Methods](https://gateway.newton.ac.uk/event/tgm114){:target="_blank"}
 * Hosted by the [Newton Gateway to Mathematics](https://gateway.newton.ac.uk/about){:target="_blank"}, the impact initiative of the [Isaac Newton Institute for Mathematical Sciences](https://www.newton.ac.uk/){:target="_blank"}.
+
+**2021** RAMP Early Career Investigator Award from the Royal Society.
+
+* Recognition of early career researchers who have made exceptional contributions towards RAMP's activities.
 
 **2021** RAMP Continuity funding: Early Career Researcher Knowledge Exchange Project Award (2500 GBP).
 
