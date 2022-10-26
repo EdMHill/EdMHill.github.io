@@ -70,7 +70,7 @@ Ken TD Eames, Maria L Tang, **Edward M Hill**, Michael J Tildesley, Jonathan M R
 **Households**
 * [Modelling the epidemiological implications for SARS-CoV-2 of Christmas household bubbles in England][christmas_bubbles_paper]{:target="_blank"}<br/>
 **Edward M Hill**. (2022)<br/>
-*medRxiv*. doi:[10.1101&#47;2022.07.04.22277231][christmas_bubbles_doi]{:target="_blank"}<br/>
+*Epidemics*, 111331. doi:[10.1016/j.jtbi.2022.111331][christmas_bubbles_doi]{:target="_blank"}<br/>
 
 **Immune escape**
 * [SARS-CoV-2 incidence and vaccine escape][vacc_escape_letter]{:target="_blank"}<br/>
@@ -234,8 +234,8 @@ Robert Challen *et al*. (2021)<br/>
 [Roadmap_retrospective_paper]: https://www.nature.com/articles/s41467-022-31991-0
 [Roadmap_retrospective_doi]: https://doi.org/10.1038/s41467-022-31991-0
 
-[christmas_bubbles_paper]: https://www.medrxiv.org/content/10.1101/2022.07.04.22277231
-[christmas_bubbles_doi]: https://doi.org/10.1101/2022.07.04.22277231
+[christmas_bubbles_paper]: https://www.sciencedirect.com/science/article/pii/S0022519322003228
+[christmas_bubbles_doi]: https://doi.org/10.1016/j.jtbi.2022.111331
 
 [retrospective_vacc_dose_separation_paper]: https://www.medrxiv.org/content/10.1101/2022.08.22.22278973v1
 [retrospective_vacc_dose_separation_doi]: https://doi.org/10.1101/2022.08.22.22278973
