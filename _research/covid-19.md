@@ -124,9 +124,9 @@ Sam Moore, **Edward M Hill**, Michael J Tildesley, Louise Dyson, Matt J Keeling.
 Matt J Keeling, Amy C Thomas, **Edward M Hill**, Robin N Thompson, Louise Dyson, Michael J Tildesley, Sam Moore. (2021)<br/>
 *medRxiv*. doi:[10.1101&#47;2021.11.05.21265977][booster_vacc_doi]{:target="_blank"}<br/>
 
-* [The impacts of increased global vaccine sharing on the COVID-19 pandemic; a retrospective modelling study][global_vacc_sharing_paper]{:target="_blank"}<br/>
+* [Retrospectively modeling the effects of increased global vaccine sharing on the COVID-19 pandemic][global_vacc_sharing_paper]{:target="_blank"}<br/>
 Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
-*medRxiv*. doi:[10.1101&#47;2022.01.26.22269877][global_vacc_sharing_doi]{:target="_blank"}<br/>
+*Nature Medicine*. doi:[10.1038/s41591-022-02064-y][global_vacc_sharing_doi]{:target="_blank"}<br/>
 
 * [The Impact of SARS-CoV-2 Vaccine Dose Separation and Dose Targeting on Hospital Admissions and Deaths from COVID-19 in England][retrospective_vacc_dose_separation_paper]{:target="_blank"}<br/>
 Matt J Keeling, Bridget Penman, **Edward M Hill**, Sam Moore. (2022)<br/>
@@ -192,8 +192,8 @@ Robert Challen *et al*. (2021)<br/>
 [booster_vacc_paper]: https://www.medrxiv.org/content/10.1101/2021.11.05.21265977
 [booster_vacc_doi]: https://doi.org/10.1101/2021.11.05.21265977
 
-[global_vacc_sharing_paper]: https://www.medrxiv.org/content/10.1101/2022.01.26.22269877
-[global_vacc_sharing_doi]: https://doi.org/10.1101/2022.01.26.22269877
+[global_vacc_sharing_paper]: https://www.nature.com/articles/s41591-022-02064-y
+[global_vacc_sharing_doi]: https://doi.org/10.1038/s41591-022-02064-y
 
 [VaccUK_twodose_paper]: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00143-2/fulltext
 [VaccUK_twodose_doi]: https://doi.org/10.1016/S1473-3099(21)00143-2
