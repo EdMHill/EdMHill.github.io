@@ -21,7 +21,7 @@ The team includes [Matt Keeling][MK_link]{:target="_blank"}, [Michael Tildesley]
 
 I was also a participant of the [Scientific Pandemic Influenza Group on Modelling, Operational subgroup (SPI-M-O)](https://www.gov.uk/government/publications/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response-membership/list-of-participants-of-sage-and-related-sub-groups){:target="_blank"} of the [Scientific Advisory Group for Emergencies (SAGE)](https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies){:target="_blank"}, providing advice (based on infectious disease modelling and epidemiology) on scientific matters related to the UK’s response to the COVID-19 pandemic.
 
-Listed below are associated peer-reviewed publications and preprints, split into ten broad themes (in alphabetical order): Contact tracing mobile apps, fitting to the UK outbreak, higher education, households, immune escape, precautionary breaks (circuit breakers), schools, vaccination, Variants of Concern (VOCs), workplaces.
+Listed below are associated peer-reviewed publications and preprints, split into eleven broad themes (in alphabetical order): Contact tracing mobile apps, fitting to the UK outbreak, higher education, households, immune escape, impact on other pathogens, precautionary breaks (circuit breakers), schools, vaccination, Variants of Concern (VOCs), workplaces.
 
 **Contact tracing mobile apps**
 * [The effect of notification window length on the epidemiological impact of COVID-19 contact tracing mobile applications.][app_notif_window_paper]{:target="_blank"}<br/>
@@ -80,6 +80,11 @@ Robin N Thompson, **Edward M Hill**, Julia R Gog. (2021)<br/>
 * [Vaccine escape in a heterogeneous population: insights for SARS-CoV-2 from a simple model][vaccine_escape_2popn_paper]{:target="_blank"}<br/>
 Julia R Gog, **Edward M Hill**, Leon Danon, Robin N Thompson. (2021)<br/>
 *Royal Society Open Science*, **8**(7): 210530. doi:[10.1098/rsos.210530][vaccine_escape_2popn_doi]{:target="_blank"}<br/>
+
+**Impact on other pathogens**
+* [Scenario modelling for diminished influenza seasons during 2020/2021 and 2021/2022 in England][diminished_flu_paper]{:target="_blank"}<br/>
+**Edward M Hill**, Matt J Keeling. (2022)<br/>
+*medRxiv*. doi:[10.1101&#47;2022.10.27.22281628][diminished_flu_doi]{:target="_blank"}<br/>
 
 **Precautionary breaks (circuit breakers)**
 * [Precautionary breaks: Planned, limited duration circuit breaks to control the prevalence of SARS-CoV-2 and the burden of COVID-19 disease][CircuitBreaker_paper]{:target="_blank"}<br/>
@@ -239,3 +244,6 @@ Robert Challen *et al*. (2021)<br/>
 
 [retrospective_vacc_dose_separation_paper]: https://www.medrxiv.org/content/10.1101/2022.08.22.22278973v1
 [retrospective_vacc_dose_separation_doi]: https://doi.org/10.1101/2022.08.22.22278973
+
+[diminished_flu_paper]: https://www.medrxiv.org/content/10.1101/2022.10.27.22281628v1
+[diminished_flu_doi]: https://doi.org/10.1101/2022.10.27.22281628
