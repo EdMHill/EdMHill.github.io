@@ -15,6 +15,12 @@ author_profile: true
 
 ## Awards and prizes
 
+**2022** Weldon Memorial Prize.
+
+* Awarded to the Scientific Pandemic Influenza Group on Modelling, Operational sub-group (SPI-M-O) for the Scientific Advisory Group for Emergencies (SAGE) in the UK during the COVID-19 pandemic.
+* The Weldon Memorial Prizes recognises noteworthy contributions to the development of mathematical or statistical methods applied to problems in Biology.
+* The award recognises the epidemiological modelling conducted by SPI-M-O that supported the UK’s policy response to the COVID-19 pandemic.
+
 **2022** SPI-M-O Award for Modelling and Data Support.
 
 * Recognition of those who made an exceptional contribution, during the COVID-19 pandemic, to the work of SPI-M-O outside of their usual work activity.
