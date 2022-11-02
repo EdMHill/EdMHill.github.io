@@ -70,7 +70,7 @@ Ken TD Eames, Maria L Tang, **Edward M Hill**, Michael J Tildesley, Jonathan M R
 **Households**
 * [Modelling the epidemiological implications for SARS-CoV-2 of Christmas household bubbles in England][christmas_bubbles_paper]{:target="_blank"}<br/>
 **Edward M Hill**. (2022)<br/>
-*Epidemics*, 111331. doi:[10.1016/j.jtbi.2022.111331][christmas_bubbles_doi]{:target="_blank"}<br/>
+*Journal of Theoretical Biology*, **557**: 111331. doi:[10.1016/j.jtbi.2022.111331][christmas_bubbles_doi]{:target="_blank"}<br/>
 
 **Immune escape**
 * [SARS-CoV-2 incidence and vaccine escape][vacc_escape_letter]{:target="_blank"}<br/>
