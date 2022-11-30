@@ -131,7 +131,7 @@ Matt J Keeling, Amy C Thomas, **Edward M Hill**, Robin N Thompson, Louise Dyson,
 
 * [Retrospectively modeling the effects of increased global vaccine sharing on the COVID-19 pandemic][global_vacc_sharing_paper]{:target="_blank"}<br/>
 Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
-*Nature Medicine*. doi:[10.1038/s41591-022-02064-y][global_vacc_sharing_doi]{:target="_blank"}<br/>
+*Nature Medicine*, **28**: 2416-2423. doi:[10.1038/s41591-022-02064-y][global_vacc_sharing_doi]{:target="_blank"}<br/>
 
 * [The Impact of SARS-CoV-2 Vaccine Dose Separation and Dose Targeting on Hospital Admissions and Deaths from COVID-19 in England][retrospective_vacc_dose_separation_paper]{:target="_blank"}<br/>
 Matt J Keeling, Sam Moore, Bridget Penman, **Edward M Hill**. (2022)<br/>
