@@ -19,4 +19,4 @@ author_profile: true
 
 * [**Lauren Adams**](https://www.vet.cam.ac.uk/staff/lauren-adams){:target="_blank"}, Masters in Public Health dissertation on "Would it be cost effective to implement social
 distancing measures during the influenza season: An SEIR modelling approach".
-    * Destination: PhD at the Universtiy of Cambridge, working in epidemiology and modelling to support infant immunisation programmes.
+    * Destination: PhD project at the Universtiy of Cambridge, working in epidemiology and modelling to support infant immunisation programmes.
