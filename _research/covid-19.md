@@ -63,9 +63,9 @@ Jessica Enright\*, **Edward M Hill**\*, Helena B Stage, Kirsty J Bolton, Emily J
 *Royal Society Open Science*, **8**(8): 210310. doi:[10.1098/rsos.210310][HE_INI_doi]{:target="_blank"}<br/>
 \* denotes joint first authors
 
-* [Coughs, Colds and "Freshers' Flu" Survey in the University of Cambridge, 2007-2008][freshers_flu_paper]{:target="_blank"}<br/>
-Ken TD Eames, Maria L Tang, **Edward M Hill**, Michael J Tildesley, Jonathan M Read, Matt J Keeling, Julia R Gog. (2021)<br/>
-*medRxiv*. doi:[10.1101&#47;2021.03.31.21251220][freshers_flu_doi]{:target="_blank"}<br/>
+* [Coughs, colds and "freshers' flu" survey in the University of Cambridge, 2007-2008][freshers_flu_paper]{:target="_blank"}<br/>
+Ken TD Eames, Maria L Tang, **Edward M Hill**, Michael J Tildesley, Jonathan M Read, Matt J Keeling, Julia R Gog. (2022)<br/>
+*Epidemics*. 100659. doi:[10.1016/j.epidem.2022.100659][freshers_flu_doi]{:target="_blank"}<br/>
 
 **Households**
 * [Modelling the epidemiological implications for SARS-CoV-2 of Christmas household bubbles in England][christmas_bubbles_paper]{:target="_blank"}<br/>
@@ -176,8 +176,8 @@ Robert Challen *et al*. (2021)<br/>
 [health_econ_PB_paper]: https://royalsocietypublishing.org/doi/10.1098/rsos.211746
 [health_econ_PB_doi]: https://doi.org/10.1098/rsos.211746
 
-[freshers_flu_paper]: https://www.medrxiv.org/content/10.1101/2021.03.31.21251220
-[freshers_flu_doi]: https://doi.org/10.1101/2021.03.31.21251220
+[freshers_flu_paper]: https://www.sciencedirect.com/science/article/pii/S1755436522000998
+[freshers_flu_doi]: https://doi.org/10.1016/j.epidem.2022.100659
 
 [vaccine_escape_2popn_paper]:https://royalsocietypublishing.org/doi/10.1098/rsos.210530
 [vaccine_escape_2popn_doi]: https://doi.org/10.1098/rsos.210530
