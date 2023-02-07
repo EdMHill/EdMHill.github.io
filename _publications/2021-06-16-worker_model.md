@@ -7,5 +7,5 @@ venue: 'PLoS Computational Biology'
 paperurl: 'https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1009058&type=printable'
 link: 'https://doi.org/10.1371/journal.pcbi.1009058'
 github: 'https://github.com/EdMHill/covid19_worker_network_model'
-citation: '<b>Edward M Hill</b><sup>*</sup>, Benjamin D. Atkins<sup>*</sup>, Matt J. Keeling, Louise Dyson, Michael J Tildesley. (2021). &quot;A network modelling approach to assess non-pharmaceutical disease controls in a worker population: An application to SARS-CoV-2.&quot; <i>PLoS Computational Biology</i>. <b>17</b>(6): e1009058. doi:10.1371/journal.pcbi.1009058.'
+citation: '<b>Edward M Hill</b><sup>*</sup>, Benjamin D. Atkins<sup>*</sup>, Matt J. Keeling, Louise Dyson, Michael J Tildesley. (2021). &quot;A network modelling approach to assess non-pharmaceutical disease controls in a worker population: An application to SARS-CoV-2.&quot; <i>PLoS Computational Biology</i>, <b>17</b>(6): e1009058. doi:10.1371/journal.pcbi.1009058.'
 ---
