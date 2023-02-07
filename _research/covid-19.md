@@ -65,7 +65,7 @@ Jessica Enright\*, **Edward M Hill**\*, Helena B Stage, Kirsty J Bolton, Emily J
 
 * [Coughs, colds and "freshers' flu" survey in the University of Cambridge, 2007-2008][freshers_flu_paper]{:target="_blank"}<br/>
 Ken TD Eames, Maria L Tang, **Edward M Hill**, Michael J Tildesley, Jonathan M Read, Matt J Keeling, Julia R Gog. (2022)<br/>
-*Epidemics*. 100659. doi:[10.1016/j.epidem.2022.100659][freshers_flu_doi]{:target="_blank"}<br/>
+*Epidemics*, **42**: 100659. doi:[10.1016/j.epidem.2022.100659][freshers_flu_doi]{:target="_blank"}<br/>
 
 **Households**
 * [Modelling the epidemiological implications for SARS-CoV-2 of Christmas household bubbles in England][christmas_bubbles_paper]{:target="_blank"}<br/>
