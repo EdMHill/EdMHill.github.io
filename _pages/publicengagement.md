@@ -24,3 +24,4 @@ For [Pint of Science](https://pintofscience.co.uk){:target="_blank"}, a science 
 Another method of communicating my research with the general public has been through `Behind the Paper' articles:
 
 * [SARS-CoV-2 variants of concern and possible future waves of infection](https://healthcommunity.nature.com/posts/sars-cov-2-variants-of-concern-and-possible-future-waves-of-infection-9d42ca1e-6f46-42c0-9aa5-606e732a2cfb){:target="_blank"}
+* [Re-examining SARS-CoV-2 vaccine targeting and dose separation in England](https://healthcommunity.nature.com/posts/re-examining-sars-cov-2-vaccine-targeting-and-dose-separation-in-england){:target="_blank"}

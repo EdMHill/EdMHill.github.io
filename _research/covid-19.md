@@ -133,9 +133,9 @@ Matt J Keeling, Amy C Thomas, **Edward M Hill**, Robin N Thompson, Louise Dyson,
 Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
 *Nature Medicine*, **28**: 2416-2423. doi:[10.1038/s41591-022-02064-y][global_vacc_sharing_doi]{:target="_blank"}<br/>
 
-* [The Impact of SARS-CoV-2 Vaccine Dose Separation and Dose Targeting on Hospital Admissions and Deaths from COVID-19 in England][retrospective_vacc_dose_separation_paper]{:target="_blank"}<br/>
-Matt J Keeling, Sam Moore, Bridget Penman, **Edward M Hill**. (2022)<br/>
-*medRxiv*. doi:[10.1101&#47;2022.08.22.22278973][retrospective_vacc_dose_separation_doi]{:target="_blank"}<br/>
+* [The impacts of SARS-CoV-2 vaccine dose separation and targeting on the COVID-19 epidemic in England][retrospective_vacc_dose_separation_paper]{:target="_blank"}<br/>
+Matt J Keeling, Sam Moore, Bridget Penman, **Edward M Hill**. (2023)<br/>
+*Nature Communications*, **14**: 740. doi:[10.1038/s41467-023-35943-0][retrospective_vacc_dose_separation_doi]{:target="_blank"}<br/>
 
 **Variants of Concern (VOCs)**
 * [Short-term Projections based on Early Omicron Variant Dynamics in England][early_omicron_modelling_paper]{:target="_blank"}<br/>
@@ -242,8 +242,8 @@ Robert Challen *et al*. (2021)<br/>
 [christmas_bubbles_paper]: https://www.sciencedirect.com/science/article/pii/S0022519322003228
 [christmas_bubbles_doi]: https://doi.org/10.1016/j.jtbi.2022.111331
 
-[retrospective_vacc_dose_separation_paper]: https://www.medrxiv.org/content/10.1101/2022.08.22.22278973
-[retrospective_vacc_dose_separation_doi]: https://doi.org/10.1101/2022.08.22.22278973
+[retrospective_vacc_dose_separation_paper]: https://www.nature.com/articles/s41467-023-35943-0
+[retrospective_vacc_dose_separation_doi]: https://doi.org/10.1038/s41467-023-35943-0
 
 [diminished_flu_paper]: https://www.medrxiv.org/content/10.1101/2022.10.27.22281628
 [diminished_flu_doi]: https://doi.org/10.1101/2022.10.27.22281628
