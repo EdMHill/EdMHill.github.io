@@ -21,7 +21,8 @@ For [Pint of Science](https://pintofscience.co.uk){:target="_blank"}, a science 
 * 2019: Event venue volunteer
 * 2022: Presenter at the ["Our Amazing Body" event](https://pintofscience.co.uk/event/our-amazing-body){:target="_blank"}. Delivered a talk titled "Disease detectives: how maths can help us against disease outbreaks". For further details, visit the associated [blog post](https://edmhill.github.io/posts/PoS2022/){:target="_blank"}.
 
-Another method of communicating my research with the general public has been through `Behind the Paper' articles:
+Another method of communicating my research with the general public has been through `Behind the Paper' type articles:
 
 * [SARS-CoV-2 variants of concern and possible future waves of infection](https://healthcommunity.nature.com/posts/sars-cov-2-variants-of-concern-and-possible-future-waves-of-infection-9d42ca1e-6f46-42c0-9aa5-606e732a2cfb){:target="_blank"}
 * [Re-examining SARS-CoV-2 vaccine targeting and dose separation in England](https://healthcommunity.nature.com/posts/re-examining-sars-cov-2-vaccine-targeting-and-dose-separation-in-england){:target="_blank"}
+* [Consider individual farmers when modelling livestock disease outbreak control measures](https://link.growkudos.com/1n8yivl61vk){:target="_blank"}
