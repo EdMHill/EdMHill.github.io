@@ -20,9 +20,9 @@ location: "University of Warwick, UK"
 This was an annual meeting, providing an opportunity for JUNIPER consortium members to hear about recent work and discuss future directions of research.
 
 ## Talk content
-My talk summarised a recent study from the [Farmer-led Epidemic and Endemic Disease-management (FEED) project][https://feed.warwick.ac.uk]{:target="_blank"}, exploring the role of heterogeneous farmer behaviour to inform epidemiological models of livestock vaccination.
+My talk summarised a recent study from the [Farmer-led Epidemic and Endemic Disease-management (FEED) project](https://feed.warwick.ac.uk){:target="_blank"}, exploring the role of heterogeneous farmer behaviour to inform epidemiological models of livestock vaccination.
 
-For more on this study, see the associated [preprint][https://doi.org/10.21203/rs.3.rs-2547595/v1]{:target="_blank"}.
+For more on this study, see the associated [preprint](https://doi.org/10.21203/rs.3.rs-2547595/v1){:target="_blank"}.
 
 <figure>
   <img src="/images/TalkImages/JUNIPER_Mar2023_talk_photo.jpeg" alt="Presenting photo"/>
