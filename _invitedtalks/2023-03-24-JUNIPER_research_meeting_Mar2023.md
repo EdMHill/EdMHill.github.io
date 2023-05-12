@@ -2,7 +2,7 @@
 title: "Incorporating heterogeneity in farmer disease control behaviour into a livestock disease transmission model"
 collection: invitedtalks
 type: "Invited talk"
-permalink: /talks/JUNIPER_research_meeting_May2021
+permalink: /talks/JUNIPER_research_meeting_Mar2023
 venue: "JUNIPER Research Meeting March 2023"
 date: 2023-03-24
 location: "University of Warwick, UK"
