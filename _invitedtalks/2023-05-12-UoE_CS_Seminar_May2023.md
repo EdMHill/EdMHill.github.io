@@ -13,9 +13,9 @@ My talk overviewed a modelling study originally conducted in late 2020 within th
 
 For more on this study, see the associated [paper in the Journal of Theoretical Biology](https://doi.org/10.1016/j.jtbi.2022.111331){:target="_blank"}.
 
-<!-- <figure>
-  <img src="/images/TalkImages/JUNIPER_Mar2023_talk_photo.jpeg" alt="Presenting photo"/>
-</figure> -->
+<figure>
+  <img src="/images/TalkImages/UoE_CS_seminar_12May2023_talk_photo.jpeg" alt="Presenting photo"/>
+</figure>
 
 ## Presentation slides
 You can download a PDF copy of the presentation slides [here](/files/TalkSlides/UniOfExeter_CS_seminar_12May2023.pdf){:target="_blank"}.
