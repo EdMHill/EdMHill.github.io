@@ -21,7 +21,7 @@ The team includes [Matt Keeling][MK_link]{:target="_blank"}, [Michael Tildesley]
 
 I was also a participant of the [Scientific Pandemic Influenza Group on Modelling, Operational subgroup (SPI-M-O)](https://www.gov.uk/government/publications/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response-membership/list-of-participants-of-sage-and-related-sub-groups){:target="_blank"} of the [Scientific Advisory Group for Emergencies (SAGE)](https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies){:target="_blank"}, providing advice (based on infectious disease modelling and epidemiology) on scientific matters related to the UK’s response to the COVID-19 pandemic.
 
-Listed below are associated peer-reviewed publications and preprints, split into eleven broad themes (in alphabetical order): Contact tracing mobile apps, fitting to the UK outbreak, higher education, households, immune escape, impact on other pathogens, precautionary breaks (circuit breakers), schools, vaccination, Variants of Concern (VOCs), workplaces.
+Listed below are associated peer-reviewed publications and preprints, split into twelve broad themes (in alphabetical order): Contact tracing mobile apps, fitting to the UK outbreak, higher education, households, immune escape, impact on other pathogens, impact on the infectious disease modelling community, precautionary breaks (circuit breakers), schools, vaccination, Variants of Concern (VOCs), workplaces.
 
 **Contact tracing mobile apps**
 * [The effect of notification window length on the epidemiological impact of COVID-19 contact tracing mobile applications.][app_notif_window_paper]{:target="_blank"}<br/>
@@ -85,6 +85,11 @@ Julia R Gog, **Edward M Hill**, Leon Danon, Robin N Thompson. (2021)<br/>
 * [Scenario modelling for diminished influenza seasons during 2020/2021 and 2021/2022 in England][diminished_flu_paper]{:target="_blank"}<br/>
 **Edward M Hill**, Matt J Keeling. (2022)<br/>
 *medRxiv*. doi:[10.1101&#47;2022.10.27.22281628][diminished_flu_doi]{:target="_blank"}<br/>
+
+**Impact on the infectious disease modelling community**
+* [Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic][Modelling_community_reflection_paper]{:target="_blank"}<br/>
+Katharine Sherratt, Anna C Carnegie, Adam Kucharski, Anne Cori, Carl AB Pearson, Christopher I Jarvis, Christopher Overton, Dale Weston, **Edward M Hill**, Edward Knock, Elizabeth Fearon, Emily Nightingale, Joel Hellewell, W John Edmunds, Julian Villabona Arenas, Kiesha Prem, Li Pi, Marc Baguelin, Michelle Kendall, Neil Ferguson, Nicholas Davies, Rosalind M Eggo, Sabine van Elsland, Timothy Russell, Sebastian Funk, Yang Liu, Sam Abbott. (2023)<br/>
+*bioRxiv*. doi:[10.1101&#47;2023.06.12.544667][Modelling_community_reflection_doi]{:target="_blank"}<br/>
 
 **Precautionary breaks (circuit breakers)**
 * [Precautionary breaks: Planned, limited duration circuit breaks to control the prevalence of SARS-CoV-2 and the burden of COVID-19 disease][CircuitBreaker_paper]{:target="_blank"}<br/>
@@ -247,3 +252,6 @@ Robert Challen *et al*. (2021)<br/>
 
 [diminished_flu_paper]: https://www.medrxiv.org/content/10.1101/2022.10.27.22281628
 [diminished_flu_doi]: https://doi.org/10.1101/2022.10.27.22281628
+
+[Modelling_community_reflection_paper]: https://www.biorxiv.org/content/10.1101/2023.06.12.544667
+[Modelling_community_reflection_doi]: https://doi.org/10.1101/2023.06.12.544667
