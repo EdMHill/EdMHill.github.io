@@ -45,9 +45,9 @@ Sebastian Funk *et al*. (2020)<br/>
 Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson, Julia R Gog, Laura Guzman-Rincon, **Edward M Hill**, Lorenzo M Pellis, Jonathan M Read, Michael J Tildesley. (2021)<br/>
 *medRxiv*. doi:[10.1101&#47;2021.12.30.21268307][Omicron_England_doi]{:target="_blank"}<br/>
 
-* [Bayesian Estimation of real-time Epidemic Growth Rates using Gaussian Processes: local dynamics of SARS-CoV-2 in England][growth_rate_estimation_paper]{:target="_blank"}<br/>
-Laura Guzman-Rincon, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2022)<br/>
-*medRxiv*. doi:[10.1101&#47;2022.01.01.21268131][growth_rate_estimation_doi]{:target="_blank"}<br/>
+* [Bayesian estimation of real-time epidemic growth rates using Gaussian processes: local dynamics of SARS-CoV-2 in England][growth_rate_estimation_paper]{:target="_blank"}<br/>
+Laura Guzman-Rincon, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2023)<br/>
+*Journal of the Royal Statistical Society Series C: Applied Statistics*. doi:[10.1093/jrsssc/qlad056][growth_rate_estimation_doi]{:target="_blank"}<br/>
 
 * [Comparison of the 2021 COVID-19 roadmap projections against public health data in England][Roadmap_retrospective_paper]{:target="_blank"}<br/>
 Matt J Keeling, Louise Dyson, Michael J Tildesley, **Edward M Hill**, Sam Moore. (2022)<br/>
@@ -235,8 +235,8 @@ Robert Challen *et al*. (2021)<br/>
 [WarwickModel_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008619
 [WarwickModel_doi]: https://doi.org/10.1371/journal.pcbi.1008619
 
-[growth_rate_estimation_paper]: https://www.medrxiv.org/content/10.1101/2022.01.01.21268131
-[growth_rate_estimation_doi]: https://doi.org/10.1101/2022.01.01.21268131
+[growth_rate_estimation_paper]: https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlad056/7209012
+[growth_rate_estimation_doi]: https://doi.org/10.1093/jrsssc/qlad056
 
 [Omicron_England_paper]: https://www.medrxiv.org/content/10.1101/2021.12.30.21268307
 [Omicron_England_doi]: https://doi.org/10.1101/2021.12.30.21268307
