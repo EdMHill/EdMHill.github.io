@@ -51,11 +51,9 @@ Naomi S Prosser\*, **Edward M Hill**\*, Derek Armstrong, Lorna Gow, Michael J Ti
 *Veterinary Record*, **191**(5): e1854. doi:[10.1002/vetr.1854][BVD_data_doi]{:target="_blank"}<br/>
 \* denotes joint first authors
 
-
-**Preprints**:
-* [Incorporating heterogeneity in farmer disease control behaviour into a livestock disease transmission model](https://www.researchsquare.com/article/rs-2547595/v1){:target="_blank"}<br/>
+* [Incorporating heterogeneity in farmer disease control behaviour into a livestock disease transmission model](https://www.sciencedirect.com/science/article/pii/S0167587723001836){:target="_blank"}<br/>
 **Edward M Hill**\*, Naomi S Prosser\*, Paul E Brown, Eamonn Ferguson, Martin J Green, Jasmeet Kaler, Matt J Keeling, Michael J Tildesley (2023)<br/>
-*Research Square*. doi:[10.21203/rs.3.rs-2547595/v1](https://doi.org/10.21203/rs.3.rs-2547595/v1){:target="_blank"}<br/>
+*Preventive Veterinary Medicine*. doi:[10.1016/j.prevetmed.2023.106019](https://doi.org/10.1016/j.prevetmed.2023.106019){:target="_blank"}<br/>
 \* denotes joint first authors
 
 
