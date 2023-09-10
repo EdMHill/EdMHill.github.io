@@ -47,7 +47,7 @@ Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson
 
 * [Bayesian estimation of real-time epidemic growth rates using Gaussian processes: local dynamics of SARS-CoV-2 in England][growth_rate_estimation_paper]{:target="_blank"}<br/>
 Laura Guzman-Rincon, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2023)<br/>
-*Journal of the Royal Statistical Society Series C: Applied Statistics*. doi:[10.1093/jrsssc/qlad056][growth_rate_estimation_doi]{:target="_blank"}<br/>
+*Journal of the Royal Statistical Society Series C: Applied Statistics*, qlad056. doi:[10.1093/jrsssc/qlad056][growth_rate_estimation_doi]{:target="_blank"}<br/>
 
 * [Comparison of the 2021 COVID-19 roadmap projections against public health data in England][Roadmap_retrospective_paper]{:target="_blank"}<br/>
 Matt J Keeling, Louise Dyson, Michael J Tildesley, **Edward M Hill**, Sam Moore. (2022)<br/>
