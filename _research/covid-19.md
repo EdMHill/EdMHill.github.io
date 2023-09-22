@@ -158,7 +158,7 @@ Robert Challen *et al*. (2021)<br/>
 
 * [Emergence of SARS-CoV-2 Delta Variant and Effect of Nonpharmaceutical Interventions, British Columbia, Canada][BC_modelling_paper]{:target="_blank"}<br/>
 Y.L. Elaine Chan, Michael A. Irvine, Natalie Prystajecky, Hind Sbihi, Marsha Taylor, Yayuk Joffres, Andrea Schertzer, Caren Rose, Louise Dyson, **Edward M. Hill**, Michael Tildesley, John R. Tyson, Linda M.N. Hoang, Eleni Galanis. (2023)<br/>
-*Emerging Infectious Diseases*. doi:[10.3201/eid2710.230055][BC_modelling_doi]{:target="_blank"}<br/>
+*Emerging Infectious Diseases*, **29**(10): 1999-2007. doi:[10.3201/eid2910.230055][BC_modelling_doi]{:target="_blank"}<br/>
 
 **Workplaces**
 * [A network modelling approach to assess non-pharmaceutical disease controls in a worker population: An application to SARS-CoV-2][worker_pattern_paper]{:target="_blank"}<br/>
@@ -261,4 +261,4 @@ Y.L. Elaine Chan, Michael A. Irvine, Natalie Prystajecky, Hind Sbihi, Marsha Tay
 [Modelling_community_reflection_doi]: https://doi.org/10.1101/2023.06.12.544667
 
 [BC_modelling_paper]: https://wwwnc.cdc.gov/eid/article/29/10/23-0055_article
-[BC_modelling_doi]: https://doi.org/10.3201/eid2710.230055
+[BC_modelling_doi]: https://doi.org/10.3201/eid2910.230055
