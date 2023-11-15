@@ -21,9 +21,7 @@ On 14 November 2023, the 10th anniversary was celebrated with an afternoon of ta
 ## Presentation recording
 I was asked to speak about being a recipient of a RAMP Outreach Innovation Award and the subsequent establishment of the SBIDER Podcast Hub. This contributed to the session where Early Career Researchers talked about their engagement opportunities through Gateway events and activities.
 
-The link to the talk recording will be added here when available.
-
-<!-- The talk may be viewed [here](https://youtu.be/KikcUbk3Hp4){:target="_blank"}. -->
+The talk may be viewed [here](https://www.youtube.com/live/MGi6V-NgeSg?si=oTkg5Dslv28wEWg2&t=9525){:target="_blank"}.
 
 ## Presentation slides
 You can download a PDF copy of the presentation slides [here](/files/TalkSlides/EdHill_INI_Newton_Gateway_10th_Anniversary_14Nov2023.pdf){:target="_blank"}.
