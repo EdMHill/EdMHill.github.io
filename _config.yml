@@ -176,7 +176,10 @@ kramdown:
 
 # Collections
 collections:
-  research:
+  activeresearch:
+    output: true
+    permalink: /:collection/:path/
+  priorresearch:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -242,7 +245,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _activeresearch
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _priorresearch
   - scope:
       path: ""
       type: research
