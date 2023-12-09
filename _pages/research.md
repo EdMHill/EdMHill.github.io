@@ -15,6 +15,7 @@ author_profile: true
 
 [**Quantifying the impact of HPAI in wild bird and domestic poultry populations:**]({{ site.baseurl }}{% link _activeresearch/wildbird_HPAI.md %}){:target="_blank"} Using mathematical modelling to understand the spread and inform the control of Highly Pathogenic Avian Influenza (HPAI) in wild birds and domestic poultry in the UK.
 
+</br>
 {% include base_path %}
 
 {% assign ordered_pages = site.activeresearch | sort:"order_number" %}
@@ -22,6 +23,7 @@ author_profile: true
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+</br>
 
 ## Previous projects
 

@@ -15,9 +15,9 @@ order_number: 10
 [SS_link]: https://www2.warwick.ac.uk/fac/med/research/hscience/wrn/staff/sophie_staniszewska
 [TS_link]: https://www2.warwick.ac.uk/fac/med/staff/tshiri/
 
-The [MEMVIE (Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation)][MEMVIE_link]{:target="_blank"} project involves the construction of novel mathematical and statistical models for simulating the spread of infectious diseases in humans, and evaluating the cost-effectiveness of different vaccination interventions. The outputs of the models are used in conjunction with independent modelling done by the UK Health Security Agency (part of the Department of Health), to advise on future vaccination policy in the UK. Another pioneering aspect of the MEMVIE project is the development of a framework for public involvemenet in mathematical and health economic modelling.
+The [MEMVIE (Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation)][MEMVIE_link]{:target="_blank"} project involves the construction of novel mathematical and statistical models for simulating the spread of infectious diseases in humans, and evaluating the cost-effectiveness of different vaccination interventions. The outputs of the models are used in conjunction with independent modelling done by the UK Health Security Agency (part of the Department of Health), to advise on future vaccination policy in the UK. Another pioneering aspect of the MEMVIE project is the development of a framework for public involvement in mathematical and health economic modelling.
 
-The project teams leads are [Matt Keeling][MK_link]{:target="_blank"} (epidemiolocal modelling lead), [Stavros Petrou][SP_link]{:target="_blank"} (health economic modelling lead) and [Sophie Staniszewska][SS_link]{:target="_blank"} (public involvement lead).
+The project teams leads are [Matt Keeling][MK_link]{:target="_blank"} (epidemiological modelling lead), [Stavros Petrou][SP_link]{:target="_blank"} (health economic modelling lead) and [Sophie Staniszewska][SS_link]{:target="_blank"} (public involvement lead).
 
 <!-- [Graham Medley][GM_link]{:target="_blank"}(London School of Hygiene and Tropical Medicine), [Martin Underwood][MU_link]{:target="_blank"}, and [Tinevimbo Shiri][TS_link]{:target="_blank"} (Warwick Medical School). -->
 
