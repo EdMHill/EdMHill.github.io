@@ -3,7 +3,7 @@ title: "Social contagion"
 layout: single-portfolio
 excerpt: "<img src='/images/research/people-network.jpg' alt=''>"
 collection: research
-order_number: 40
+order_number: 20
 ---
 
 [TH_link]: https://www.research.manchester.ac.uk/portal/thomas.house.html

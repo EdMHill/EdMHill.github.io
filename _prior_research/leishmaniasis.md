@@ -3,7 +3,7 @@ title: "Modelling visceral leishmaniasis in Brazil"
 layout: single-portfolio
 excerpt: "<img src='/images/research/VL.jpg' alt=''>"
 collection: research
-order_number: 60
+order_number: 40
 ---
 
 [EBJ_link]: https://ebucksjeff.github.io

@@ -5,23 +5,37 @@ permalink: /research/
 author_profile: true
 ---
 
-Previous and current modelling work has undertaken problems in the following areas of mathematical epidemiology.
+## Active projects
 
-[**Response to the COVID-19 pandemic:**]({{ site.baseurl }}{% link _research/covid-19.md %}){:target="_blank"} Using real time data on the UK COVID-19 outbreak to provide robust predictions, gauging the ability of a model to predict future epidemic behaviour.
+[**Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation (MEMVIE):**]({{ site.baseurl }}{% link _active_research/MEMVIE.md %}){:target="_blank"} Epidemiologcal modelling and health economic modelling to underpin vaccination policy for the Department of Health.
 
-[**Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation (MEMVIE):**]({{ site.baseurl }}{% link _research/MEMVIE.md %}){:target="_blank"} Mathematical modelling and analysis of seasonal influenza to underpin vaccination policy for the Department of Health.
+[**Farmer-led Epidemic & Endemic Disease-management (FEED):**]({{ site.baseurl }}{% link _active_research/livestock_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of the impact on livestock disease outbreaks of farmer-led control and variation in livestock disease management behaviours amongst farmers. We can then use this knowledge to take farmer-led control into account and develop effective control strategies for livestock disease outbreaks.
 
-[**Influenza A at the human-animal interface:**]({{ site.baseurl }}{% link _research/zoonotic_flu.md %}){:target="_blank"} Influenza inhabits many hosts and has many strains, but there is a worrying gap in the modelling of spillover transmission from animals to humans. Looking at addressing the lack of established modelling tools that represent this interface, with the applied aim of aiding the design and performance assessment of control strategies for influenza among livestock and across the animal-human interface.
+[**Investigating the impact of Symptom Propagation on Health Economic Outcomes:**]({{ site.baseurl }}{% link _active_research/symptom_propagation.md %}){:target="_blank"} Using mathematical models as a tool to explore the extent to which symptom propagation exists and its subsequent impact on health economic assessments.
 
-[**Social contagion:**]({{ site.baseurl }}{% link _research/social_contagion.md %}){:target="_blank"} Spread of behaviour-linked health problems are amenable to being represented with methodological approaches typically used to model infectious diseases. We explore this with regards to depression, developing novel models that exploit the dynamical behaviour of mood over time to ascertain which mood states spread on social networks, via a contagion-like mechanism, and which do not.
-
-[**Farmer-led Epidemic & Endemic Disease-management (FEED):**]({{ site.baseurl }}{% link _research/livestock_modelling.md %}){:target="_blank"} Predicting the differences between national-level and farmer-level optimisation of controls using mathematical models that combine disease spread and farmer behaviour.
-
-[**Visceral leishmaniasis in Brazil:**]({{ site.baseurl }}{% link _research/leishmaniasis.md %}){:target="_blank"} Developing a mathematical model of visceral leishmaniasis in Brazil; a vector borne disease with canines being an animal reservoir.
+[**Quantifying the impact of HPAI in wild bird and domestic poultry populations:**]({{ site.baseurl }}{% link _active_research/wildbird_HPAI.md %}){:target="_blank"} Using mathematical modelling to understand the spread and inform the control of Highly Pathogenic Avian Influenza (HPAI) in wild birds and domestic poultry in the UK.
 
 {% include base_path %}
 
-{% assign ordered_pages = site.research | sort:"order_number" %}
+{% assign ordered_pages = site.active_research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
+## Previous projects
+
+[**Response to the COVID-19 pandemic:**]({{ site.baseurl }}{% link _prior_research/covid-19.md %}){:target="_blank"} Using real time data on the UK COVID-19 outbreak to provide robust predictions, gauging the ability of a model to predict future epidemic behaviour.
+
+[**Social contagion:**]({{ site.baseurl }}{% link _prior_research/social_contagion.md %}){:target="_blank"} Spread of behaviour-linked health problems are amenable to being represented with methodological approaches typically used to model infectious diseases. We explore this with regards to depression, developing novel models that exploit the dynamical behaviour of mood over time to ascertain which mood states spread on social networks, via a contagion-like mechanism, and which do not.
+
+[**Influenza A at the human-animal interface:**]({{ site.baseurl }}{% link _prior_research/zoonotic_flu.md %}){:target="_blank"} Influenza inhabits many hosts and has many strains, but there is a worrying gap in the modelling of spillover transmission from animals to humans. Looking at addressing the lack of established modelling tools that represent this interface, with the applied aim of aiding the design and performance assessment of control strategies for influenza among livestock and across the animal-human interface.
+
+[**Visceral leishmaniasis in Brazil:**]({{ site.baseurl }}{% link _prior_research/leishmaniasis.md %}){:target="_blank"} Developing a mathematical model of visceral leishmaniasis in Brazil; a vector borne disease with canines being an animal reservoir.
+
+{% include base_path %}
+
+{% assign ordered_pages = site.prior_research | sort:"order_number" %}
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}

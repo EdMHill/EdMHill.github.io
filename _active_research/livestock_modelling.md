@@ -3,7 +3,7 @@ title: "Farmer-led Epidemic & Endemic Disease-management (FEED)"
 layout: single-portfolio
 excerpt: "<img src='/images/research/LivestockImage.jpg' alt=''>"
 collection: research
-order_number: 50
+order_number: 20
 ---
 
 [UoW_link]: https://warwick.ac.uk
@@ -26,13 +26,12 @@ From October 2019 I have been part of a collaborative team (joint with colleague
 
 In the event of an outbreak of infectious disease on livestock farms, tensions may arise when inaction may be the most cost-effective strategy for an individual farmer even though this could lead to local protracted epidemics. As an extreme example, an individual farmer is in most instances better to risk infection than proactively cull their livestock; yet culling may be a powerful tool to prevent large-scale outbreaks of some diseases.
 
-Our primary objective in this project is to quantify, predict and hence mitigate this inevitable tension between local (farmer-led) and global (nationally-enforced) control of livestock diseases. This will be achieved by predicting the differences between national-level and farmer-level optimisation of controls using mathematical models that combine disease spread and farmer behaviour. Specific livestock infections that pose a threat to the UK livestock industry that we may explore include:
+Our primary objective in this project is to quantify, predict and hence mitigate this inevitable tension between local (farmer-led) and global (nationally-enforced) control of livestock diseases. This will be achieved by predicting the differences between national-level and farmer-level optimisation of controls using mathematical models that combine disease spread and farmer behaviour. Specific livestock infections that pose a threat to the UK livestock industry that we have explored are:
 
 * Foot-and-mouth disease (FMD)
-* Bovine tuberculosis (bTB)
 * Bovine viral diarrhea (BVD)
 
-The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael Tildesley][MT_link]{:target="_blank"} & [Matt Keeling][MK_link]{:target="_blank"}. Our modelling work is also done in collaboration with [Ellen Brooks- Pollock][EBP_link]{:target="_blank"} ([University of Bristol][UoB_link]{:target="_blank"}).
+The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael Tildesley][MT_link]{:target="_blank"} & [Matt Keeling][MK_link]{:target="_blank"}.
 
 Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Martin Green][MG_link]{:target="_blank"}, [Eamonn Ferguson][EF_link]{:target="_blank"}, [Jasmeet Kaler][JK_link]{:target="_blank"} and [Naomi Prosser][NP_link]{:target="_blank"}.
 

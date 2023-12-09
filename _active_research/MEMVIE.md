@@ -3,20 +3,28 @@ title: "MEMVIE (Mathematical & Economic Modelling for Vaccination and Immunisati
 layout: single-portfolio
 excerpt: "<img src='/images/research/fluvaccine.jpg' alt=''>"
 collection: research
-order_number: 20
+order_number: 10
 ---
 
 [MEMVIE_link]: https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/memvie/
+[flu_work_link]: https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/seasonalflu/
 [MK_link]: https://www2.warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/
 [GM_link]: https://www.lshtm.ac.uk/aboutus/people/medley.graham
 [MU_link]: https://www2.warwick.ac.uk/fac/med/staff/underwood/
-[SP_link]: https://www2.warwick.ac.uk/fac/med/staff/petrou/
+[SP_link]: https://www.phc.ox.ac.uk/team/stavros-petrou
 [SS_link]: https://www2.warwick.ac.uk/fac/med/research/hscience/wrn/staff/sophie_staniszewska
 [TS_link]: https://www2.warwick.ac.uk/fac/med/staff/tshiri/
 
-In June 2017 I began work on a project between Warwick and the UK Department of Health, entitled [MEMVIE (Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation)][MEMVIE_link]{:target="_blank"}. The project involved the construction of novel mathematical and statistical models for simulating the spread of infectious diseases in humans, and evaluating the cost-effectiveness of different vaccination interventions.
+The [MEMVIE (Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation)][MEMVIE_link]{:target="_blank"} project involves the construction of novel mathematical and statistical models for simulating the spread of infectious diseases in humans, and evaluating the cost-effectiveness of different vaccination interventions. The outputs of the models are used in conjunction with independent modelling done by the UK Health Security Agency (part of the Department of Health), to advise on future vaccination policy in the UK. Another pioneering aspect of the MEMVIE project is the development of a framework for public involvemenet in mathematical and health economic modelling.
 
-My focus was on seasonal influenza. The outputs of the models were used in conjunction with independent modelling done by Public Health England (part of the Department of Health), to advise on future vaccination policy in the UK. The project is headed by [Matt Keeling][MK_link]{:target="_blank"} and my research partners included: [Graham Medley][GM_link]{:target="_blank"}(London School of Hygiene and Tropical Medicine), [Martin Underwood][MU_link]{:target="_blank"}, [Stavros Petrou][SP_link]{:target="_blank"}, [Sophie Staniszewska][SS_link]{:target="_blank"} and [Tinevimbo Shiri][TS_link]{:target="_blank"} (Warwick Medical School).
+The project teams leads are [Matt Keeling][MK_link]{:target="_blank"} (epidemiolocal modelling lead), [Stavros Petrou][SP_link]{:target="_blank"} (health economic modelling lead) and [Sophie Staniszewska][SS_link]{:target="_blank"} (public involvement lead).
+
+<!-- [Graham Medley][GM_link]{:target="_blank"}(London School of Hygiene and Tropical Medicine), [Martin Underwood][MU_link]{:target="_blank"}, and [Tinevimbo Shiri][TS_link]{:target="_blank"} (Warwick Medical School). -->
+
+As a Postdoctoral Researcher, I worked on the MEMVIE project between June 2017 - September 2019. My focus at that time was on modelling [seasonal influenza][flu_work_link]{:target="_blank"}.
+
+Since September 2023, I am a co-investigator on the latest iteration of the MEMVIE project.
+
 
 **Peer-reviewed publications**:
 
