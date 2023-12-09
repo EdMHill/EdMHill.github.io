@@ -1,7 +1,7 @@
 ---
 title: "Quantifying the impact of HPAI in wild bird and domestic poultry populations"
 layout: single-portfolio
-excerpt: "<img src='/images/research/fluvirus.jpg' alt=''>"
+excerpt: "<img src='/images/research/wildbirds.jpg' alt=''>"
 collection: research
 order_number: 40
 ---
