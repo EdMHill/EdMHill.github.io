@@ -13,7 +13,7 @@ Since 2022, there has been an unprecedented decline in many wild bird population
 To further our understanding of the intercontinental transmission dynamics of avian influenza, with funding support from the BBSRC International Partnership Fund I established an international networking group that held monthly meetings during October 2022 - March 2023. This culminated in a two-day meeting at the University of Warwick in March 2023. Networking group participants included [Diann Prosser](https://www.usgs.gov/staff-profiles/diann-prosser){:target="_blank"} (U.S. Geological Survey), [Ben Golas](https://www.linkedin.com/in/benjamin-golas-vmd-phd-87196a1b){:target="_blank"} (U.S. Geological Survey), [Ryan Miller](https://rsmiller.net/index.html){:target="_blank"} (USDA Centers for Epidemiology and Animal Health), [Amandine Gamble](https://amandinegamble.netlify.app){:target="_blank"} (University of Glasgow), [Marie-Cécile Dupas](https://spell.ulb.be/person/mariececile-dupas/){:target="_blank"} (Université Libre de Bruxelles) and Claudia Pittiglio (FAO). For further details, listen to the SBIDER Presents podcast episode [``Avian influenza: An international perspective''](https://sbiderpresents.podbean.com/e/sbider-presents-episode-6/){:target="_blank"}. 
 
 <figure>
-  <img src="/images/hpai_networking_meeting_March2023/hpai_networking_group_photo.jpg" alt="Networking_group photo" width="200" height="100">
+  <img src="/images/hpai_networking_meeting_March2023/hpai_networking_group_photo.jpg" alt="Networking_group photo">
   <figcaption> From my international HPAI networking group meeting at the University of Warwick in March 2023. From left to right: Ed Hill, Diann Prosser, Marie-Cécile Dupas, Amandine Gamble, Ben Golas.
  </figcaption>
 </figure>
