@@ -1,5 +1,5 @@
 ---
-title: "Investigating the impact of Symptom Propagation on Health Economic Outcomes"
+title: "Investigating the impact of symptom propagation on health economic outcomes"
 layout: single-portfolio
 excerpt: "<img src='/images/research/symptom_propagation_schematic.png' alt=''>"
 collection: research
@@ -16,10 +16,10 @@ These avenues of research are being explored as part of [Phoebe Asplin's][PA_lin
 
 **Preprints**:
 
-* [Symptom propagation in respiratory pathogens of public health concern: a review of the evidence.][PPI_paper]{:target="_blank"}<br/>
+* [Symptom propagation in respiratory pathogens of public health concern: a review of the evidence.](https://www.medrxiv.org/content/10.1101/2024.01.05.24300898v1){:target="_blank"}<br/>
 Phoebe Asplin, Rebecca Mancy, Thomas Finnie, Fergus Cumming, Matt J Keeling, **Edward M Hill**. (2024)<br/>
 *medRxiv*. doi:[10.1101&#47;2024.01.05.24300898](https://doi.org/10.1101/2024.01.05.24300898){:target="_blank"}<br/>
 
-* [Epidemiological and health economic implications of symptom propagation in respiratory pathogens: A mathematical modelling investigation.][PPI_paper]{:target="_blank"}<br/>
+* [Epidemiological and health economic implications of symptom propagation in respiratory pathogens: A mathematical modelling investigation.](https://www.medrxiv.org/content/10.1101/2023.07.12.23292544v1){:target="_blank"}<br/>
 Phoebe Asplin, Matt J Keeling, Rebecca Mancy, **Edward M Hill**. (2023)<br/>
 *medRxiv*. doi:[10.1101&#47;2023.07.12.23292544](https://doi.org/10.1101/2023.07.12.23292544){:target="_blank"}<br/>
