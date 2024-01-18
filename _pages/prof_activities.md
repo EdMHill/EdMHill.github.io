@@ -69,7 +69,7 @@ For an overview of my reviewing history, please visit my Peer Review record on [
 ## Teaching
 I have performed the following duties at the University of Warwick:
 
-**2023-** Sole lecturer for [MA4E7 Population Dynamics](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year4/ma4e7){:target="_blank"}.
+**2023-** Sole lecturer for [MA4E7 Population Dynamics: Ecology & Epidemiology](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year4/ma4e7){:target="_blank"}.
 
 **2022-** Module co-organiser for [MA4K8 MA4K9 Projects](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year4/ma469/){:target="_blank"}.
 
