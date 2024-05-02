@@ -4,7 +4,7 @@ collection: invitedtalks
 type: "Invited talk"
 permalink: /talks/uni_of_oxford_seminar_May2024
 venue: "Mathematical Biology and Ecology seminar"
-date: 2024-05-04
+date: 2024-05-03
 location: "Mathematical Institute, University of Oxford, UK"
 ---
 
