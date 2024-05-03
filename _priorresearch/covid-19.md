@@ -88,8 +88,8 @@ Julia R Gog, **Edward M Hill**, Leon Danon, Robin N Thompson. (2021)<br/>
 
 **Impact on the infectious disease modelling community**
 * [Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic][Modelling_community_reflection_paper]{:target="_blank"}<br/>
-Katharine Sherratt, Anna C Carnegie, Adam Kucharski, Anne Cori, Carl AB Pearson, Christopher I Jarvis, Christopher Overton, Dale Weston, **Edward M Hill**, Edward Knock, Elizabeth Fearon, Emily Nightingale, Joel Hellewell, W John Edmunds, Julian Villabona Arenas, Kiesha Prem, Li Pi, Marc Baguelin, Michelle Kendall, Neil Ferguson, Nicholas Davies, Rosalind M Eggo, Sabine van Elsland, Timothy Russell, Sebastian Funk, Yang Liu, Sam Abbott. (2023)<br/>
-*bioRxiv*. doi:[10.1101&#47;2023.06.12.544667][Modelling_community_reflection_doi]{:target="_blank"}<br/>
+Katharine Sherratt, Anna C Carnegie, Adam Kucharski, Anne Cori, Carl AB Pearson, Christopher I Jarvis, Christopher Overton, Dale Weston, **Edward M Hill**, Edward Knock, Elizabeth Fearon, Emily Nightingale, Joel Hellewell, W John Edmunds, Julian Villabona Arenas, Kiesha Prem, Li Pi, Marc Baguelin, Michelle Kendall, Neil Ferguson, Nicholas Davies, Rosalind M Eggo, Sabine van Elsland, Timothy Russell, Sebastian Funk, Yang Liu, Sam Abbott. (2024)<br/>
+*Wellcome Open Research*, **9**: 12. doi:[10.12688/wellcomeopenres.19601.1][Modelling_community_reflection_doi]{:target="_blank"}<br/>
 
 **Precautionary breaks (circuit breakers)**
 * [Precautionary breaks: Planned, limited duration circuit breaks to control the prevalence of SARS-CoV-2 and the burden of COVID-19 disease][CircuitBreaker_paper]{:target="_blank"}<br/>
@@ -257,8 +257,8 @@ Y.L. Elaine Chan, Michael A. Irvine, Natalie Prystajecky, Hind Sbihi, Marsha Tay
 [diminished_flu_paper]: https://www.medrxiv.org/content/10.1101/2022.10.27.22281628
 [diminished_flu_doi]: https://doi.org/10.1101/2022.10.27.22281628
 
-[Modelling_community_reflection_paper]: https://www.biorxiv.org/content/10.1101/2023.06.12.544667
-[Modelling_community_reflection_doi]: https://doi.org/10.1101/2023.06.12.544667
+[Modelling_community_reflection_paper]: https://wellcomeopenresearch.org/articles/9-12
+[Modelling_community_reflection_doi]: https://doi.org/10.12688/wellcomeopenres.19601.1
 
 [BC_modelling_paper]: https://wwwnc.cdc.gov/eid/article/29/10/23-0055_article
 [BC_modelling_doi]: https://doi.org/10.3201/eid2910.230055

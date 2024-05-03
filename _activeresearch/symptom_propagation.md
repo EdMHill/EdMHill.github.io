@@ -14,12 +14,14 @@ In traditional models of infectious diseases, the symptom severity of an infecte
 
 These avenues of research are being explored as part of [Phoebe Asplin's][PA_link]{:target="_blank"} PhD project at the University of Warwick. The project is being done in collaboration with [Matt Keeling][MK_link]{:target="_blank"} (University of Warwick) and [Rebecca Mancy][RM_link]{:target="_blank"} (University of Glasgow).
 
+**Peer-reviewed publications**:
+
+* [Epidemiological and health economic implications of symptom propagation in respiratory pathogens: A mathematical modelling investigation.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012096){:target="_blank"}<br/>
+Phoebe Asplin, Matt J Keeling, Rebecca Mancy, **Edward M Hill**. (2024)<br/>
+*PLoS Computational Biology*, <b>20</b>(5): e1012096. doi:[10.1371/journal.pcbi.1012096](https://doi.org/10.1371/journal.pcbi.1012096){:target="_blank"}<br/>
+
 **Preprints**:
 
 * [Symptom propagation in respiratory pathogens of public health concern: a review of the evidence.](https://www.medrxiv.org/content/10.1101/2024.01.05.24300898v1){:target="_blank"}<br/>
 Phoebe Asplin, Rebecca Mancy, Thomas Finnie, Fergus Cumming, Matt J Keeling, **Edward M Hill**. (2024)<br/>
 *medRxiv*. doi:[10.1101&#47;2024.01.05.24300898](https://doi.org/10.1101/2024.01.05.24300898){:target="_blank"}<br/>
-
-* [Epidemiological and health economic implications of symptom propagation in respiratory pathogens: A mathematical modelling investigation.](https://www.medrxiv.org/content/10.1101/2023.07.12.23292544v1){:target="_blank"}<br/>
-Phoebe Asplin, Matt J Keeling, Rebecca Mancy, **Edward M Hill**. (2023)<br/>
-*medRxiv*. doi:[10.1101&#47;2023.07.12.23292544](https://doi.org/10.1101/2023.07.12.23292544){:target="_blank"}<br/>
