@@ -15,7 +15,7 @@ My talk summarised two studies. The first overviewed a modelling study originall
 The second was from the [Farmer-led Epidemic and Endemic Disease-management (FEED) project](https://feed.warwick.ac.uk){:target="_blank"}, exploring the role of heterogeneous farmer behaviour to inform epidemiological models of livestock vaccination. For more on this study, please see the associated [publication in Preventive Veterinary Medicine](https://doi.org/10.1016/j.prevetmed.2023.106019){:target="_blank"}.
 
 <figure>
-  <img src="/images/TalkImages/UniOfOxford_MathBioEcologySeminar_May2024_TalkPhoto" alt="Presenting photo"/>
+  <img src="/images/TalkImages/UniOfOxford_MathBioEcologySeminar_May2024_TalkPhoto.jpeg" alt="Presenting photo"/>
 </figure>
 
 ## Presentation slides
