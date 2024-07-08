@@ -15,6 +15,8 @@ order_number: 10
 [SP_link]: https://www.phc.ox.ac.uk/team/stavros-petrou
 [SS_link]: https://www2.warwick.ac.uk/fac/med/research/hscience/wrn/staff/sophie_staniszewska
 [TS_link]: https://www2.warwick.ac.uk/fac/med/staff/tshiri/
+[SciAni_link]: https://www.youtube.com/@SciAni
+[animation_link]: https://www.youtube.com/watch?v=-ucOuW3K5J0
 
 The [MEMVIE (Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation)][MEMVIE_link]{:target="_blank"} project involves the construction of novel mathematical and statistical models for simulating the spread of infectious diseases in humans, and evaluating the cost-effectiveness of different vaccination interventions. The outputs of the models are used in conjunction with independent modelling done by the UK Health Security Agency (part of the Department of Health), to advise on future vaccination policy in the UK. Another pioneering aspect of the MEMVIE project is the development of a framework for public involvement in mathematical and health economic modelling - see the [MEMVIE Pubic and Patient Involvement and Engagement webpage][MEMVIE_PPIE_link]{:target="_blank"}. 
 
@@ -25,6 +27,8 @@ The project teams leads are [Matt Keeling][MK_link]{:target="_blank"} (epidemiol
 As a Postdoctoral Researcher, I worked on the MEMVIE project between June 2017 - September 2019. My focus at that time was on modelling [seasonal influenza][flu_work_link]{:target="_blank"}.
 
 Since September 2023, I am a co-investigator on the latest iteration of the MEMVIE project.
+
+Find out more about the MEMVIE project and its interdisciplinary collaboration in our animation, available on the [Science Animated YouTube channel][SciAni_link]{:target="_blank"}: [https://www.youtube.com/watch?v=-ucOuW3K5J0][animation_link]{:target="_blank"}.
 
 
 **Peer-reviewed publications**:
