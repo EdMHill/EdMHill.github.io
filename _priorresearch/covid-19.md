@@ -145,7 +145,6 @@ Matt J Keeling, Sam Moore, Bridget Penman, **Edward M Hill**. (2023)<br/>
 * [Prioritising older individuals for COVID-19 booster vaccination leads to optimal public health outcomes in a range of socio-economic settings][WHO_vacc_paper]{:target="_blank"}<br/>
 Ioana Bouros, **Edward M Hill**, Matt J Keeling, Sam Moore, Robin N Thompson. (2024)<br/>
 *PLoS Comput Biol*, **20**(8): e1012309. doi:[10.1371/journal.pcbi.1012309][WHO_vacc_doi]{:target="_blank"}<br/>
-1012309
 
 **Variants of Concern (VOCs)**
 * [Short-term Projections based on Early Omicron Variant Dynamics in England][early_omicron_modelling_paper]{:target="_blank"}<br/>
