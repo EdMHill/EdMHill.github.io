@@ -142,6 +142,11 @@ Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling.
 Matt J Keeling, Sam Moore, Bridget Penman, **Edward M Hill**. (2023)<br/>
 *Nature Communications*, **14**: 740. doi:[10.1038/s41467-023-35943-0][retrospective_vacc_dose_separation_doi]{:target="_blank"}<br/>
 
+* [Prioritising older individuals for COVID-19 booster vaccination leads to optimal public health outcomes in a range of socio-economic settings][WHO_vacc_paper]{:target="_blank"}<br/>
+Ioana Bouros, **Edward M Hill**, Matt J Keeling, Sam Moore, Robin N Thompson. (2024)<br/>
+*PLoS Comput Biol*, **20**(8): e1012309. doi:[10.1371/journal.pcbi.1012309][WHO_vacc_doi]{:target="_blank"}<br/>
+1012309
+
 **Variants of Concern (VOCs)**
 * [Short-term Projections based on Early Omicron Variant Dynamics in England][early_omicron_modelling_paper]{:target="_blank"}<br/>
 Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson, Julia R Gog, Laura Guzman-Rincon, **Edward M Hill**, Lorenzo M Pellis, Jonathan M Read, Michael J Tildesley. (2021)<br/>
@@ -217,6 +222,9 @@ Y.L. Elaine Chan, Michael A. Irvine, Natalie Prystajecky, Hind Sbihi, Marsha Tay
 
 [VaccUK_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008849
 [VaccUK_doi]: https://doi.org/10.1371/journal.pcbi.1008849
+
+[WHO_vacc_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012309
+[WHO_vacc_doi]: https://doi.org/10.1371/journal.pcbi.1012309
 
 [worker_pattern_paper]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009058
 [worker_pattern_doi]: https://doi.org/10.1371/journal.pcbi.1009058
