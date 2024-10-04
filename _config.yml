@@ -78,63 +78,45 @@ analytics:
     tracking_id          :
 
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
-  avatar           : "avatar.png"
   name             : "Ed Hill"
-  pronouns         : # example: "she/her"  
+  avatar           : "avatar.png"
   bio              : "Tenure Track Fellow in Health Protection Data Science"
   location         : "UK"
-  employer         : "University of Liverpool"
-  uri              : # URL
-  email            : "Edward.Hill@liverpool.ac.uk" 
-
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.co.uk/citations?user=pSqcG9UAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-2992-2004"
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Edward-Hill-2"
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  employer         :
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=pSqcG9UAAAAJ&hl=en&oi=sra"
+  email            : "Edward.Hill@warwick.ac.uk"
+  researchgate     :  "https://www.researchgate.net/profile/Edward-Hill-2"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "EdMHill"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  bluesky          : "edmhill.bsky.social" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # "fediscience.org/@EdMHill"
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  mastodon         : "fediscience.org/@EdMHill"
+  orcid            : "https://orcid.org/0000-0002-2992-2004"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
   twitter          : "@EdMHill"
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # Reading Files
 include:
