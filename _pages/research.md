@@ -7,7 +7,7 @@ author_profile: true
 
 ## Active projects
 
-[**Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation (MEMVIE):**]({{ site.baseurl }}{% link _activeresearch/MEMVIE.md %}){:target="_blank"} Epidemiologcal modelling and health economic modelling to underpin vaccination policy for the Department of Health.
+[**Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation (MEMVIE):**]({{ site.baseurl }}{% link _activeresearch/MEMVIE.md %}){:target="_blank"} Epidemiological modelling and health economic modelling to underpin vaccination policy for the Department of Health.
 
 [**Farmer-led Epidemic & Endemic Disease-management (FEED):**]({{ site.baseurl }}{% link _activeresearch/livestock_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of the impact on livestock disease outbreaks of farmer-led control and variation in livestock disease management behaviours amongst farmers. We can then use this knowledge to take farmer-led control into account and develop effective control strategies for livestock disease outbreaks.
 
