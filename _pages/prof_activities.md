@@ -60,9 +60,14 @@ author_profile: true
 
 
 ## Editor and reviewer roles
-I am an Editorial Board member for the [Journal of Theoretical Biology][JTB_link]{:target="_blank"}.
 
-I was a guest editor of a Pandemics Special Issue of [Mathematics Today](https://ima.org.uk/publications/mathematics-today/){:target="_blank"}, the magazine of the [Institute of Mathematics and its Applications](https://ima.org.uk/about-us/){:target="_blank"}. The Special Issue was published in October 2022, with the Editorial available to view online [here](https://ima.org.uk/20322/pandemics-special-issue-editorial/){:target="_blank"}.
+**Oct 2024 - present:** Academic Editor for the Epidemiology & Public Health section of [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/){:target="_blank"}.
+
+**2024:** I am also currently a Guest Editor for a [Special Issue on Behavioural Epidemiology](https://www.tandfonline.com/doi/full/10.1080/29937574.2024.2321740){:target="_blank"} in the journal [Mathematics in Medical and Life Sciences](https://www.tandfonline.com/journals/tmls20){:target="_blank"}.
+
+**Feb 2021 - Oct 2024:** Editorial Board member for the [Journal of Theoretical Biology][JTB_link]{:target="_blank"}.
+
+**2022:** Guest Editor of a Pandemics Special Issue of [Mathematics Today](https://ima.org.uk/publications/mathematics-today/){:target="_blank"}, the magazine of the [Institute of Mathematics and its Applications](https://ima.org.uk/about-us/){:target="_blank"}. The Special Issue was published in October 2022, with the Editorial available to view online [here](https://ima.org.uk/20322/pandemics-special-issue-editorial/){:target="_blank"}.
 
 For an overview of my reviewing history, please visit my Peer Review record on [Web of Science][Publons_link]{:target="_blank"} and [ORCID][ORCID_link]{:target="_blank"}.
 
@@ -84,9 +89,9 @@ During my PhD I organised an epidemiology reading group within the [Centre for C
 
 ## Professional and academic affiliations
 **2024 - present:** Management Board member for the [JUNIPER partnership](https://maths.org/juniper/){:target="_blank"}. <br/>
-**2024 - present:** Management Board member for the [UK Pandemic Sciences Network](https://www.thepandemicinstitute.org/work-with-us/uk-pandemic-sciences-network/){:target="_blank"}. <br/>
+**2024:** Management Board member for the [UK Pandemic Sciences Network](https://www.thepandemicinstitute.org/work-with-us/uk-pandemic-sciences-network/){:target="_blank"}. <br/>
 **2020 - 2022:** Participant of [SPI-M-O](https://www.gov.uk/government/publications/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response-membership/list-of-participants-of-sage-and-related-sub-groups#scientific-pandemic-influenza-group-on-modelling-spi-m){:target="_blank"}. <br/>
-**2018 - present:** Member of the [Society for Mathematical Biology (SMB)](https://www.smb.org){:target="_blank"}. <br/>
+**2018 - 2024:** Member of the [Society for Mathematical Biology (SMB)](https://www.smb.org){:target="_blank"}. <br/>
 **2016 - present:** Member of the [European Society for Mathematical and Theoretical Biology (ESMTB)](https://www.esmtb.org){:target="_blank"}.
 
 ## Conference session chair
