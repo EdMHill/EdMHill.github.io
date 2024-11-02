@@ -9,11 +9,11 @@ author_profile: true
 
 [**Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation (MEMVIE):**]({{ site.baseurl }}{% link _activeresearch/MEMVIE.md %}){:target="_blank"} Epidemiological modelling and health economic modelling to underpin vaccination policy for the Department of Health.
 
-[**Farmer-led Epidemic & Endemic Disease-management (FEED):**]({{ site.baseurl }}{% link _activeresearch/livestock_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of the impact on livestock disease outbreaks of farmer-led control and variation in livestock disease management behaviours amongst farmers. We can then use this knowledge to take farmer-led control into account and develop effective control strategies for livestock disease outbreaks.
+[**Quantifying the impact of HPAI in wild bird and domestic poultry populations:**]({{ site.baseurl }}{% link _activeresearch/wildbird_HPAI.md %}){:target="_blank"} Using mathematical modelling to understand the spread and inform the control of Highly Pathogenic Avian Influenza (HPAI) in wild birds and domestic poultry in the UK.
+
+[**Epidemiological-behavioural modelling applied to public, veterinary and plant health:**]({{ site.baseurl }}{% link _activeresearch/livestock_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of disease management behaviour and its incorporation into epidemiological models.
 
 [**Investigating the impact of symptom propagation on health economic outcomes:**]({{ site.baseurl }}{% link _activeresearch/symptom_propagation.md %}){:target="_blank"} Using mathematical models as a tool to explore the extent to which symptom propagation exists and its subsequent impact on health economic assessments.
-
-[**Quantifying the impact of HPAI in wild bird and domestic poultry populations:**]({{ site.baseurl }}{% link _activeresearch/wildbird_HPAI.md %}){:target="_blank"} Using mathematical modelling to understand the spread and inform the control of Highly Pathogenic Avian Influenza (HPAI) in wild birds and domestic poultry in the UK.
 
 ## Previous projects
 
