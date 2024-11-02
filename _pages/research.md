@@ -11,7 +11,7 @@ author_profile: true
 
 [**Quantifying the impact of HPAI in wild bird and domestic poultry populations:**]({{ site.baseurl }}{% link _activeresearch/wildbird_HPAI.md %}){:target="_blank"} Using mathematical modelling to understand the spread and inform the control of Highly Pathogenic Avian Influenza (HPAI) in wild birds and domestic poultry in the UK.
 
-[**Epidemiological-behavioural modelling applied to public, veterinary and plant health:**]({{ site.baseurl }}{% link _activeresearch/livestock_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of disease management behaviour and its incorporation into epidemiological models.
+[**Epidemiological-behavioural modelling applied to public, veterinary and plant health:**]({{ site.baseurl }}{% link _activeresearch/epi_behaviour_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of disease management behaviour and its incorporation into epidemiological models.
 
 [**Investigating the impact of symptom propagation on health economic outcomes:**]({{ site.baseurl }}{% link _activeresearch/symptom_propagation.md %}){:target="_blank"} Using mathematical models as a tool to explore the extent to which symptom propagation exists and its subsequent impact on health economic assessments.
 

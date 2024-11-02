@@ -1,5 +1,5 @@
 ---
-title: "Epidemiological-behavioural modelling applied to in public, veterinary and plant health"
+title: "Epidemiological-behavioural modelling applied to public, veterinary and plant health"
 layout: single-portfolio
 excerpt: "<img src='/images/research/LivestockImage.jpg' alt=''>"
 collection: research
