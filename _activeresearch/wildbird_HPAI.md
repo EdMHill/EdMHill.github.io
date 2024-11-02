@@ -3,7 +3,7 @@ title: "Quantifying the impact of HPAI in wild bird and domestic poultry populat
 layout: single-portfolio
 excerpt: "<img src='/images/research/wildbirds.jpg' alt=''>"
 collection: research
-order_number: 40
+order_number: 20
 ---
 
 Highly Pathogenic Avian Influenza (HPAI) has long been associated with substantial outbreaks and losses in poultry farms, with occasional spill-over into human populations. Wild waterfowl (Anseriformes) are well documented reservoirs, as they are regularly infected with low pathogenic avian influenza viruses (LPAI). Highly pathogenic strains continue to emerge, often in southeast Asia, and spread globally via waterfowl migratory routes, resulting in repeated incursions of HPAI into the UK.

@@ -3,7 +3,7 @@ title: "Investigating the impact of symptom propagation on health economic outco
 layout: single-portfolio
 excerpt: "<img src='/images/research/symptom_propagation_schematic.png' alt=''>"
 collection: research
-order_number: 30
+order_number: 40
 ---
 
 [PA_link]: https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/asplin/

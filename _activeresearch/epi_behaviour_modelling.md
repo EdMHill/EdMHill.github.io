@@ -3,7 +3,7 @@ title: "Epidemiological-behavioural modelling applied to public, veterinary and 
 layout: single-portfolio
 excerpt: "<img src='/images/research/LivestockImage.jpg' alt=''>"
 collection: research
-order_number: 20
+order_number: 30
 ---
 
 [UoW_link]: https://warwick.ac.uk
