@@ -275,4 +275,4 @@ Y.L. Elaine Chan, Michael A. Irvine, Natalie Prystajecky, Hind Sbihi, Marsha Tay
 [BC_modelling_doi]: https://doi.org/10.3201/eid2910.230055
 
 [COVID19_vacc_cost_effectiveness_paper]: https://www.medrxiv.org/content/10.1101/2024.11.08.24316972
-[COVID19_vacc_cost_effectiveness_doi]: https://doi.org/10.1101/2022.10.27.22281628
+[COVID19_vacc_cost_effectiveness_doi]: https://doi.org/10.1101/2024.11.08.24316972
