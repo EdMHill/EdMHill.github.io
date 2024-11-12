@@ -118,6 +118,10 @@ Trystan Leng, **Edward M Hill**, Alex Holmes, Emma Southall, Robin N Thompson, M
 *Nature Communications*, **13**: 1106. doi:[10.1038/s41467-022-28731-9][school_model_LFTs_doi]{:target="_blank"}<br/>
 
 **Vaccination**
+* [Cost-effectiveness of routine COVID-19 adult vaccination programmes in England][COVID19_vacc_cost_effectiveness_paper]{:target="_blank"}<br/>
+ Matt J Keeling, **Edward M Hill**, Stavros Petrou, Phuong Bich Tran, May Ee Png, Sophie Staniszewska, Corinna Clark, Katie Hassel, Julia Stowe, Nick Andrews. (2024)<br/>
+*medRxiv*. doi:[10.1101&#47;2024.11.08.24316972][COVID19_vacc_cost_effectiveness_doi]{:target="_blank"}<br/>
+
 * [Modelling optimal vaccination strategy for SARS-CoV-2 in the UK][VaccUK_paper]{:target="_blank"}<br/>
 Sam Moore, **Edward M Hill**, Louise Dyson, Michael J Tildesley, Matt J Keeling. (2021)<br/>
 *PLoS Comput Biol*, **17**(5): e1008849. doi:[10.1371/journal.pcbi.1008849][VaccUK_doi]{:target="_blank"}<br/>
@@ -269,3 +273,6 @@ Y.L. Elaine Chan, Michael A. Irvine, Natalie Prystajecky, Hind Sbihi, Marsha Tay
 
 [BC_modelling_paper]: https://wwwnc.cdc.gov/eid/article/29/10/23-0055_article
 [BC_modelling_doi]: https://doi.org/10.3201/eid2910.230055
+
+[COVID19_vacc_cost_effectiveness_paper]: https://www.medrxiv.org/content/10.1101/2024.11.08.24316972
+[COVID19_vacc_cost_effectiveness_doi]: https://doi.org/10.1101/2022.10.27.22281628
