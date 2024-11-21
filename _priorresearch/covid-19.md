@@ -154,7 +154,6 @@ Ioana Bouros, **Edward M Hill**, Matt J Keeling, Sam Moore, Robin N Thompson. (2
 * [Probability of Extinction and Peak Time for Multi-Type Epidemics with Application to Covid-19 Variants of Concern](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5021345){:target="_blank"}<br/>
 Jacob Curran-Sebastian, Louise Dyson, **Edward M Hill**, Lorenzo Pellis, Ian Hall, Thomas House. (2024)<br/>
 Available at SSRN: [10.1038/s41467-021-25915-7](https://ssrn.com/abstract=5021345https://ssrn.com/abstract=5021345){:target="_blank"}<br/>
-<br/>
 
 * [Short-term Projections based on Early Omicron Variant Dynamics in England][early_omicron_modelling_paper]{:target="_blank"}<br/>
 Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson, Julia R Gog, Laura Guzman-Rincon, **Edward M Hill**, Lorenzo M Pellis, Jonathan M Read, Michael J Tildesley. (2021)<br/>
