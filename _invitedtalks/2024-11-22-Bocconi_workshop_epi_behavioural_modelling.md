@@ -12,7 +12,7 @@ location: "COVID crisis lab and Dondena centre, Bocconi University, Milan, Italy
 I was an invited speaker at this two-day workshop on Infectious Disease Modelling with Human Behaviour, held as part of the [IMMUNE project](https://cordis.europa.eu/project/id/101003183){:target="_blank"}. The IMMUNE project, led by [Prof. Alessia Melegaro](https://faculty.unibocconi.eu/alessiamelegaro/){:target="_blank"} at [Bocconi University (Milan, Italy)](https://www.unibocconi.it/en){:target="_blank"}, aims to provide an interdisciplinary modelling framework that will explore the dynamics of human behaviour on infections’ spread (with a particular focus on vaccination behaviour), through the lens of social sciences.
 
 You can view a PDF copy of the workshop programme [here](/files/Programmes/2024-11-21-Bocconi-workshop.pdf){:target="_blank"}.
-<!-- <iframe src="/files/Programmes/2024-11-21-Bocconi-workshop.pdf)" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
+<iframe src="/files/Programmes/2024-11-21-Bocconi-workshop.pdf" width="100%" height="810" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 ## Talk content
 My talk summarised a recent study from the [Farmer-led Epidemic and Endemic Disease-management (FEED) project](https://feed.warwick.ac.uk){:target="_blank"}, exploring the role of heterogeneous farmer behaviour to inform epidemiological models of livestock vaccination.
