@@ -24,6 +24,12 @@ order_number: 30
 
 One of my research interests is addressing interdisciplinary problems in epidemiology that involve the dynamics of behaviour. Application areas span public, veterinary and plant health policy. I refer to quantitative models that incorporate both epidemiological and behavioural dynamics as epidemiological-behavioural models.
 
+**Peer-reviewed publications**:
+* [Integrating human behaviour and epidemiological modelling: unlocking the remaining challenges](https://www.tandfonline.com/doi/full/10.1080/29937574.2024.2429479){:target="_blank"}<br/>
+**Edward M Hill**, Matthew Ryan, David Haw, Mark P Lynch, Ruth McCabe, Alice E. Milne, Matthew S. Turner, Kavita Vedhara, Fanqi Zeng, Martine J Barons, Emily J Nixon, Stephen Parnell, Kirsty J Bolton. (2024)<br/>
+*Mathematics in Medical and Life Sciences*, **1**(1): 2429479. doi:[10.1080/29937574.2024.2429479](https://doi.org/10.1080/29937574.2024.2429479){:target="_blank"}<br/>
+
+**FEED project**:
 One such example is my involvement in the [BBSRC][BBSRC_link]{:target="_blank"} funded project [Farmer-led Epidemic & Endemic Disease-management (FEED)][FEED_link]{:target="_blank"} project. The FEED project began in October 2019. I have been part of a collaborative team, joint with colleagues from the [University of Warwick][UoW_link]{:target="_blank"} and [University of Nottingham][UoN_link]{:target="_blank"}.
 
 The FEED project studied the impact on livestock disease outbreaks of farmer-led control and variation in livestock disease management behaviours amongst farmers. In the event of an outbreak of infectious disease on livestock farms, tensions may arise when inaction may be the most cost-effective strategy for an individual farmer even though this could lead to local protracted epidemics. As an extreme example, an individual farmer is in most instances better to risk infection than proactively cull their livestock; yet culling may be a powerful tool to prevent large-scale outbreaks of some diseases.
@@ -37,7 +43,7 @@ The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael 
 
 Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Martin Green][MG_link]{:target="_blank"}, [Eamonn Ferguson][EF_link]{:target="_blank"}, [Jasmeet Kaler][JK_link]{:target="_blank"} and [Naomi Prosser][NP_link]{:target="_blank"}.
 
-**Peer-reviewed publications**:
+**FEED project publications**:
 * [Cattle farmer psychosocial profiles and their association with control strategies for bovine viral diarrhea](https://www.journalofdairyscience.org/article/S0022-0302(22)00053-4/fulltext){:target="_blank"}<br/>
 Naomi S Prosser, Martin J Green, Eamonn Ferguson, Michael J Tildesley, **Edward M Hill**, Matt J Keeling, Jasmeet Kaler. (2022)<br/>
 *Journal of Dairy Science*, **105**(4): 3559-3573. doi:[10.3168/jds.2021-21386](https://doi.org/10.3168/jds.2021-21386){:target="_blank"}<br/>
