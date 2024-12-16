@@ -1,5 +1,5 @@
 ---
-title: "Investigating the impact of symptom propagation on health economic outcomes"
+title: "Investigating the impact of symptom propagation on epidemiological and health economic outcomes"
 layout: single-portfolio
 excerpt: "<img src='/images/research/symptom_propagation_schematic.png' alt=''>"
 collection: research
@@ -10,7 +10,7 @@ order_number: 40
 [MK_link]: https://www2.warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/
 [RM_link]: https://www.gla.ac.uk/research/az/boydorr/people/byname/rebeccamancy/
 
-In traditional models of infectious diseases, the symptom severity of an infected individual does not impact the symptom severity of those infected by them. However, there is evidence in the literature that an individual's disease severity may pass on to those they infect, meaning that symptoms propagate with infection. The extent to which a symptom propagation exists and its subsequent impact on health economic outcomes are still relatively unknown.
+In traditional models of infectious diseases, the symptom severity of an infected individual does not impact the symptom severity of those infected by them. However, there is evidence in the literature that an individual's disease severity may pass on to those they infect, meaning that symptoms propagate with infection. The extent to which a symptom propagation exists and its subsequent impact on epidemiological and health economic outcomes are still relatively unknown.
 
 These avenues of research are being explored as part of [Phoebe Asplin's][PA_link]{:target="_blank"} PhD project at the University of Warwick. The project is being done in collaboration with [Matt Keeling][MK_link]{:target="_blank"} (University of Warwick) and [Rebecca Mancy][RM_link]{:target="_blank"} (University of Glasgow).
 
