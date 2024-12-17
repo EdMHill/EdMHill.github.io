@@ -8,7 +8,6 @@ date: 2024-12-17
 location: "School of Mathematical Sciences, University of Lancaster, UK"
 ---
 
-
 ## Talk content
 This talk summarised two studies related to symptom propagation. The first was a scoping review on symptom propagation in respiratory pathogens of public health concern. For more on this study, see the associated [publication in the Journal of the Royal Society Interface](https://doi.org/10.1098/rsif.2024.0009){:target="_blank"}.
 
