@@ -3,7 +3,7 @@ title: "Modelling symptom propagation in pathogens infecting via the respiratory
 collection: invitedtalks
 type: "Invited talk"
 permalink: /talks/lancaster_uni_seminar_Dec2024
-venue: "Lancaster Epidemics Seminar Series."
+venue: "Lancaster Epidemics Seminar Series"
 date: 2024-12-17
 location: "School of Mathematical Sciences, University of Lancaster, UK"
 ---
