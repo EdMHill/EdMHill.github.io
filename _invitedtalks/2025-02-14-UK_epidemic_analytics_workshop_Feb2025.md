@@ -25,4 +25,4 @@ As the representative at the workshop from the Unveristy of Liverpool, my talk s
 
 ## Presentation slides
 You can download a PDF copy of the presentation slides [here](/files/TalkSlides/2025-02-14-UoL_HPRUEZI_TPI_slideset.pdf){:target="_blank"}.
-<iframe src="/files/TalkSlides/2025-02-14-UoL_HPRUEZI_TPI_slideset.pdf" width="100%" height="450" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/TalkSlides/2025-02-14-UoL_HPRUEZI_TPI_slideset.pdf" width="100%" height="325" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
