@@ -1,7 +1,7 @@
 ---
 title: "Modelling the effectiveness of Integrated Pest Management strategies for the control of *Septoria tritici*"
 collection: preprints
-permalink: /preprints/2025-03-IPM_septoria_modelling
+permalink: /preprints/2025-03-01-IPM_septoria_modelling
 date: 2025-03
 venue: 'bioRxiv'
 # paperurl: 'https://papers.ssrn.com/sol3/Delivery.cfm/c343d551-46be-4b0c-b6f2-c234c7ddeb16-MECA.pdf?abstractid=5021345&mirid=1'
