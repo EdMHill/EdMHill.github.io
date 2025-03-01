@@ -32,10 +32,9 @@ Find out more about the MEMVIE project and its interdisciplinary collaboration i
 
 
 **Peer-reviewed publications**:
-
-* [Cost-effectiveness of routine COVID-19 adult vaccination programmes in England.][COVID19_VE_paper]{:target="_blank"}<br/>
+* [Cost-effectiveness of routine COVID-19 adult vaccination programmes in England.][COVID19_CE_paper]{:target="_blank"}<br/>
 Matt J Keeling, **Edward M Hill**, Stavros Petrou, Phuong Bich Tran, May Ee Png, Sophie Staniszewska, Corinna Clark, Katie Hassel, Julia Stowe, Nick Andrews. (2025)<br/>
-*Vaccine* **54**: 126948. doi:[10.1016/j.vaccine.2025.126948][COVID19_VE_doi]{:target="_blank"}<br/>
+*Vaccine* **54**: 126948. doi:[10.1016/j.vaccine.2025.126948][COVID19_CE_doi]{:target="_blank"}<br/>
 
 * [Developing a Framework for Public Involvement in Mathematical and Economic Modelling: Bringing New Dynamism to Vaccination Policy Recommendations.][PPI_paper]{:target="_blank"}<br/>
 Sophie Stanizewska, **Edward M Hill**, Richard Grant, Peter Grove, Jarina Porter, Tinevimbo Shiri, Sue Tulip, Jane Whitehurst, Claire Wright, Samik Datta, Stavros Petrou, Matt J Keeling. (2021)<br/>
