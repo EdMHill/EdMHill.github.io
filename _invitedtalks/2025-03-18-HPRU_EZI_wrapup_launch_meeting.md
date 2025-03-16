@@ -1,5 +1,5 @@
 ---
-title: "Incorporating behaviour into infectious disease models: Challenges and Question"
+title: "Incorporating behaviour into infectious disease models: Challenges and questions"
 collection: invitedtalks
 type: "Invited talk"
 permalink: /talks/2025-03-18-HPRU_EZI_wrapup_launch_meeting
