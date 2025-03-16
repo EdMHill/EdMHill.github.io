@@ -15,14 +15,16 @@ author_profile: true
 * [**Elliot Vincent**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/vincent/){:target="_blank"} (PhD), October 2023 - present. Working on spatial and epidemiological modelling for wildlife and agricultural health. Co-supervised by [Erin Gorisch](https://warwick.ac.uk/fac/sci/lifesci/people/egorsich/), [Matt Keeling](https://warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/){:target="_blank"} and [Stephen Parnell](https://warwick.ac.uk/fac/sci/lifesci/people/sparnell/).
 * [**Reanna Gregory**](https://warwick.ac.uk/fac/cross_fac/igpp/ab101/104/){:target="_blank"} (PhD), April 2024 - present. Working on assessing the risk levels posed by different potential pandemic influenza strains, bridging between lab-based virology work and mathematical epidemiology. The aim is to generate data that informs the modelling process and can support conclusions made in silico. Co-supervised by [Craig Thompson](https://warwick.ac.uk/fac/sci/med/research/biomedical/labs/cthompson/){:target="_blank"}.
 * [**Fateen Yasir**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/fateen_yasir){:target="_blank"} (PhD), August 2024 - present. Working on modelling, parameter inference and policy recommendations for measles. Co-supervised by [Matt Keeling](https://warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/){:target="_blank"}.
+* [**Praise Ilechukwu**](https://www.linkedin.com/in/praise-ilechukwu){:target="_blank"} (Data Science and Analytics for Health MSc), 2025. Co-supervised by [Dan Hungerford](https://www.liverpool.ac.uk/people/dan-hungerford){:target="_blank"}.
+    * Dissertation: "Examining trends and inequalities in childhood pneumococcal vaccine uptake in England".
 
 ## Former Group Members
 
 ### Postgraduate
 
-* [**Lauren Adams**](https://www.vet.cam.ac.uk/staff/lauren-adams){:target="_blank"} (Masters in Public Health), 2021. 
+* [**Lauren Adams**](https://www.vet.cam.ac.uk/staff/lauren-adams){:target="_blank"} (Masters in Public Health, University of Warwick), 2021. 
     * Dissertation: "Would it be cost effective to implement social distancing measures during the influenza season: An SEIR modelling approach".
     * Destination: PhD project at the Universtiy of Cambridge, working in epidemiology and modelling to support infant immunisation programmes.
-* **Alec Hodgson** (MSc in Mathematics), 2023. Working on modelling social contagion of smoking behaviour.  
+* **Alec Hodgson** (MSc in Mathematics, University of Warwick), 2023. Working on modelling social contagion of smoking behaviour.  
     * Dissertation: "Evaluating the Suitability of a Social Contagion Framework to Model Smoking Habits".
     * Destination: Aurora Energy Research, Oxford.

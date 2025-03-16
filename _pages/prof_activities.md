@@ -72,6 +72,11 @@ author_profile: true
 For an overview of my reviewing history, please visit my Peer Review record on [Web of Science][Publons_link]{:target="_blank"} and [ORCID][ORCID_link]{:target="_blank"}.
 
 ## Teaching
+I have performed the following duties at the University of Liverpool:
+
+**2025** Delivered interactive lectures for two MSc level modules: [DASC505 Actionable Healthcare Data Analytics](https://www.liverpool.ac.uk/courses/health-data-science-msc/modules/dasc505){:target="_blank"} and [IVES724 Understanding models and data](https://www.liverpool.ac.uk/courses/planetary-and-one-health-msc/modules/ives724){:target="_blank"}.
+
+
 I have performed the following duties at the University of Warwick:
 
 **2023-2024** Sole lecturer for [MA4E7 Population Dynamics: Ecology & Epidemiology](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year4/ma4e7){:target="_blank"}.
