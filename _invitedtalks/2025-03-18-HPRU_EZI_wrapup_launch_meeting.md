@@ -13,7 +13,7 @@ This event shared work from existing projects and future project plans for the [
 
 The [National Institute for Health Research (NIHR) Health Protection Reserch Units (HPRUs)](https://www.nihr.ac.uk/about-us/what-we-do/infrastructure/research-units/health-protection-research-units){:target="_blank"} undertake high quality research that enhances the ability of the [UK Health Security Agency (UKHSA)](https://www.gov.uk/government/organisations/uk-health-security-agency){:target="_blank"} to protect the public’s health and minimise the health impact of emergencies. From 01 April 2025 there are 13 HPRUs across England. along with two NIHR Health Protection Research Focus Awards for emergency preparedness and response, and vaccines and immunisation.
 
-You can view a PDF copy of the workshop programme [here](/files/Programmes/2025-03-17-HPRU_EZI_Meeting_Programme){:target="_blank"}.
+You can view a PDF copy of the workshop programme [here](/files/Programmes/2025-03-17-HPRU_EZI_Meeting_Programme.pdf){:target="_blank"}.
 <iframe src="/files/Programmes/2025-03-17-HPRU_EZI_Meeting_Programme.pdf" width="100%" height="810" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 ## Talk content
