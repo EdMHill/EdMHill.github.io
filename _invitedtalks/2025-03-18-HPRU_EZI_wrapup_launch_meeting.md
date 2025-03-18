@@ -12,7 +12,7 @@ location: "Spaces at The Spine, Liverpool, UK."
 This event shared work from existing projects and future project plans for the [HPRU in emerging and zoonotic infections (HPRU-EZI)](http://hpruezi.nihr.ac.uk){:target="_blank"}. The HPRU-EZI is a partnership between the [University of Liverpool](https://www.liverpool.ac.uk){:target="_blank"}, [Liverpool School of Tropical Medicine (LSTM)](https://www.lstmed.ac.uk){:target="_blank"}, [University of Oxford](https://www.ox.ac.uk){:target="_blank"}, [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk){:target="_blank"} and [UKHSA](https://www.gov.uk/government/organisations/uk-health-security-agency){:target="_blank"}, in collaboration with [University of Glasgow](https://www.gla.ac.uk){:target="_blank"}. HPRU-EZI has been running since 2014, and supports and strengthens UKHSA in its role protecting England from emerging infections and zoonoses (i.e. those which spread from animals to humans). HPRU-EZI has played significant roles in the past in the UK response to Ebola, Zika, COVID-19 and mpox. The HPRU-EZI will continue to address the major emerging threats; these are transmitted by mosquitoes and ticks (e.g. dengue and Lyme), the respiratory route (e.g. COVID-19 and influenza), or directly through contact (e.g. Lassa fever).
 
 <figure>
-  <img src="/images/HPRU-EZI-2025/HPRU_EZI_history_slide.jpeg" alt=""/>
+  <img src="/images/HPRU-EZI-2025/HPRU_EZI_history_slide.jpg" alt=""/>
    <figcaption> Presentation slide by Tom Solomon on the HPRU-EZI 'Story so far 20214-2025'.</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ You can view a PDF copy of the workshop programme [here](/files/Programmes/2025-
 <iframe src="/files/Programmes/2025-03-17-HPRU_EZI_Meeting_Programme.pdf" width="100%" height="810" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 <figure>
-  <img src="/images/HPRU-EZI-2025/2025-03-18-HPRU_EZI_group_photo.jpeg" alt=""/>
+  <img src="/images/HPRU-EZI-2025/2025-03-18-HPRU_EZI_group_photo.jpg" alt=""/>
    <figcaption> Group photo from the HPRU-EZI 2025 meeting.</figcaption>
 </figure>
 
