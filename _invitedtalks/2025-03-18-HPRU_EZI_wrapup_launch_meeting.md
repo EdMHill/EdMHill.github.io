@@ -5,7 +5,7 @@ type: "Invited talk"
 permalink: /talks/2025-03-18-HPRU_EZI_wrapup_launch_meeting
 venue: "National Institute for Health Research (NIHR) HPRU in emerging and zoonotic infections: Wrap-up/launch meeting"
 date: 2025-03-18
-location: "Spaces at The Spine, Liverpool, United Kingdom."
+location: "Spaces at The Spine, Liverpool, UK."
 ---
 
 ## Event overview
