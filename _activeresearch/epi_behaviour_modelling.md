@@ -38,6 +38,10 @@ Matthew Ryan, Roslyn I. Hickson, **Edward M Hill**, Thomas House, Valerie Isham,
 Elliot MR Vincent, **Edward M Hill**, Stephen Parnell. (2025)<br/>
 *bioRxiv*. doi:[10.1101&#47;2025.02.28.639837](https://doi.org/10.1101/2025.02.28.639837){:target="_blank"}<br/>
 
+* [Unifying human infectious disease models and real-time awareness of population- and subpopulation-level intervention effectiveness.](https://www.medrxiv.org/content/10.1101/2024.01.17.24301344){:target="_blank"}<br/>
+Rachel L Seibel, Michael J Tildesley, **Edward M Hill**. (2025)<br/>
+*medRxiv*. doi:[10.1101&#47;2024.01.17.24301344](https://doi.org/10.1101/2024.01.17.24301344){:target="_blank"}<br/>
+
 **FEED project**:
 One such example is my involvement in the [BBSRC][BBSRC_link]{:target="_blank"} funded project [Farmer-led Epidemic & Endemic Disease-management (FEED)][FEED_link]{:target="_blank"} project. The FEED project began in October 2019. I have been part of a collaborative team, joint with colleagues from the [University of Warwick][UoW_link]{:target="_blank"} and [University of Nottingham][UoN_link]{:target="_blank"}.
 
