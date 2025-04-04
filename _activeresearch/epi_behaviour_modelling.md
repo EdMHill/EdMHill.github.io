@@ -30,6 +30,10 @@ One of my research interests is addressing interdisciplinary problems in epidemi
 *Mathematics in Medical and Life Sciences*, **1**(1): 2429479. doi:[10.1080/29937574.2024.2429479](https://doi.org/10.1080/29937574.2024.2429479){:target="_blank"}<br/>
 
 **Preprints**:
+* [A Behaviour and Disease Model of Testing and Isolation](https://arxiv.org/abs/2504.02488){:target="_blank"}<br/>
+Matthew Ryan, Roslyn I. Hickson, **Edward M Hill**, Thomas House, Valerie Isham, Dongni Zhang, Mick G. Roberts. (2025)<br/>
+*arXiv*. doi:[10.48550&#47;arXiv.2504.02488](https://doi.org/10.48550/arXiv.2504.02488){:target="_blank"}<br/>
+
 * [Modelling the effectiveness of Integrated Pest Management strategies for the control of *Septoria tritici*](https://www.biorxiv.org/content/10.1101/2025.02.28.639837){:target="_blank"}<br/>
 Elliot MR Vincent, **Edward M Hill**, Stephen Parnell. (2025)<br/>
 *bioRxiv*. doi:[10.1101&#47;2025.02.28.639837](https://doi.org/10.1101/2025.02.28.639837){:target="_blank"}<br/>
