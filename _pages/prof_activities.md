@@ -91,6 +91,7 @@ I have performed the following duties at the University of Warwick:
 
 ## Professional and academic affiliations
 **2025 - present:** Management Group member for the [Liverpool Centre for Mathematics in Healthcare](https://www.liverpool.ac.uk/mathematical-sciences/research/centre-for-mathematics-in-healthcare/){:target="_blank"}. <br/>
+**2024 - present:** [The Pandemic Institute Internal Scientific Advisory Panel member](https://www.thepandemicinstitute.org/people/internal-scientific-advisory-panel/){:target="_blank"} (University of Liverpool representative). <br/>
 **2024 - present:** Management Board member for the [JUNIPER partnership](https://maths.org/juniper/){:target="_blank"}. <br/>
 **2024:** Management Board member for the [UK Pandemic Sciences Network](https://www.thepandemicinstitute.org/work-with-us/uk-pandemic-sciences-network/){:target="_blank"}. <br/>
 **2020 - 2022:** Participant of [SPI-M-O](https://www.gov.uk/government/publications/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response-membership/list-of-participants-of-sage-and-related-sub-groups#scientific-pandemic-influenza-group-on-modelling-spi-m){:target="_blank"}. <br/>
