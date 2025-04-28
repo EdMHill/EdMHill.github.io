@@ -20,4 +20,7 @@ To further our understanding of the intercontinental transmission dynamics of av
 
 From April 2024, I have a co-investigator role on the BBSRC funded project ``Modelling to inform interventions during Highly Pathogenic Avian Influenza outbreaks in Great Britain''. The project lead is [Robin Thompson](https://www.robin-thompson.co.uk){:target="_blank"} (University of Oxford). The overall goal of the proposed research is to develop a national-scale computational model of Highly Pathogenic Avian Influenza (HPAI) transmission in Great Britain (GB). The model will be used to assess the risk associated with infection from wild migratory birds and spread within the poultry industry. It will be developed by the research team (across University of Oxford and University of Warwick) in close collaboration with the UK Government's [Animal and Plant Health Agency](https://www.gov.uk/government/organisations/animal-and-plant-health-agency){:target="_blank"} (APHA; an executive agency of the [Department for Environment, Food and Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs){:target="_blank"}).
 
-<!-- **Preprints**: -->
+**Preprints**:
+* [A modelling assessment for the impact of control measures on highly pathogenic avian influenza transmission in poultry in Great Britain](https://www.biorxiv.org/content/10.1101/2025.04.24.650264){:target="_blank"}<br/>
+Christopher N Davis, **Edward M Hill**, Chris P Jewell, Kristyna Rysava, Robin N Thompson, Michael J Tildesley. (2025)<br/>
+*bioRxiv*. doi:[10.1101&#47;2025.04.24.650264](https://doi.org/10.1101/2025.04.24.650264){:target="_blank"}<br/>
