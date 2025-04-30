@@ -3,7 +3,7 @@ title: "Modelling the epidemiological implications for SARS-CoV-2 of Christmas h
 collection: publications
 permalink: /publications/2022-10-26-christmas_bubbles
 date: 2022-10-26
-venue: 'Epidemics'
+venue: 'Journal of Theoretical Biology'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0022519322003228/pdfft?md5=4319eaa2af0f973199a79c02cfb14bee&pid=1-s2.0-S0022519322003228-main.pdf'
 link: 'https://doi.org/10.1016/j.jtbi.2022.111331'
 github: 'https://github.com/EdMHill/SARS-CoV-2_Christmas_bubbles_2020'
