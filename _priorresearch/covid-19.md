@@ -153,7 +153,7 @@ Ioana Bouros, **Edward M Hill**, Matt J Keeling, Sam Moore, Robin N Thompson. (2
 **Variants of Concern (VOCs)**
 * [Probability of Extinction and Peak Time for Multi-Type Epidemics with Application to Covid-19 Variants of Concern](https://www.sciencedirect.com/science/article/pii/S0022519325001018){:target="_blank"}<br/>
 Jacob Curran-Sebastian, Louise Dyson, **Edward M Hill**, Ian Hall, Lorenzo Pellis, Thomas House. (2025)<br/>
-*Journal of Theoretical Biology*, 112135. doi:[10.1016/j.jtbi.2025.112135](https://doi.org/10.1016/j.jtbi.2025.112135){:target="_blank"}<br/>
+*Journal of Theoretical Biology*, **608**: 112135. doi:[10.1016/j.jtbi.2025.112135](https://doi.org/10.1016/j.jtbi.2025.112135){:target="_blank"}<br/>
 
 * [Short-term Projections based on Early Omicron Variant Dynamics in England][early_omicron_modelling_paper]{:target="_blank"}<br/>
 Matt J Keeling, Ellen Brooks-Pollock, Robert J Challen, Leon Danon, Louise Dyson, Julia R Gog, Laura Guzman-Rincon, **Edward M Hill**, Lorenzo M Pellis, Jonathan M Read, Michael J Tildesley. (2021)<br/>
