@@ -57,9 +57,10 @@ The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael 
 Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Martin Green][MG_link]{:target="_blank"}, [Eamonn Ferguson][EF_link]{:target="_blank"}, [Jasmeet Kaler][JK_link]{:target="_blank"} and [Naomi Prosser][NP_link]{:target="_blank"}.
 
 **FEED project publications**:
-* [Cattle farmer psychosocial profiles and their association with control strategies for bovine viral diarrhea](https://www.journalofdairyscience.org/article/S0022-0302(22)00053-4/fulltext){:target="_blank"}<br/>
-Naomi S Prosser, Martin J Green, Eamonn Ferguson, Michael J Tildesley, **Edward M Hill**, Matt J Keeling, Jasmeet Kaler. (2022)<br/>
-*Journal of Dairy Science*, **105**(4): 3559-3573. doi:[10.3168/jds.2021-21386](https://doi.org/10.3168/jds.2021-21386){:target="_blank"}<br/>
+* [Incorporating heterogeneity in farmer disease control behaviour into a livestock disease transmission model](https://www.sciencedirect.com/science/article/pii/S0167587723001836){:target="_blank"}<br/>
+**Edward M Hill**\*, Naomi S Prosser\*, Paul E Brown, Eamonn Ferguson, Martin J Green, Jasmeet Kaler, Matt J Keeling, Michael J Tildesley (2023)<br/>
+*Preventive Veterinary Medicine*, **219**: 106019. doi:[10.1016/j.prevetmed.2023.106019](https://doi.org/10.1016/j.prevetmed.2023.106019){:target="_blank"}<br/>
+\* denotes joint first authors
 
 * [Modelling livestock infectious disease control policy under differing social perspectives on vaccination behaviour][vacc_behaviour_generic_model_paper]{:target="_blank"}<br/>
 **Edward M Hill**, Naomi S Prosser, Eamonn Ferguson, Jasmeet Kaler, Martin J Green, Matt J Keeling, Michael J Tildesley (2022)<br/>
@@ -71,11 +72,9 @@ Naomi S Prosser\*, **Edward M Hill**\*, Derek Armstrong, Lorna Gow, Michael J Ti
 *Veterinary Record*, **191**(5): e1854. doi:[10.1002/vetr.1854][BVD_data_doi]{:target="_blank"}<br/>
 \* denotes joint first authors
 
-* [Incorporating heterogeneity in farmer disease control behaviour into a livestock disease transmission model](https://www.sciencedirect.com/science/article/pii/S0167587723001836){:target="_blank"}<br/>
-**Edward M Hill**\*, Naomi S Prosser\*, Paul E Brown, Eamonn Ferguson, Martin J Green, Jasmeet Kaler, Matt J Keeling, Michael J Tildesley (2023)<br/>
-*Preventive Veterinary Medicine*, **219**: 106019. doi:[10.1016/j.prevetmed.2023.106019](https://doi.org/10.1016/j.prevetmed.2023.106019){:target="_blank"}<br/>
-\* denotes joint first authors
-
+* [Cattle farmer psychosocial profiles and their association with control strategies for bovine viral diarrhea](https://www.journalofdairyscience.org/article/S0022-0302(22)00053-4/fulltext){:target="_blank"}<br/>
+Naomi S Prosser, Martin J Green, Eamonn Ferguson, Michael J Tildesley, **Edward M Hill**, Matt J Keeling, Jasmeet Kaler. (2022)<br/>
+*Journal of Dairy Science*, **105**(4): 3559-3573. doi:[10.3168/jds.2021-21386](https://doi.org/10.3168/jds.2021-21386){:target="_blank"}<br/>
 
 [vacc_behaviour_generic_model_paper]: https://doi.org/10.1371/journal.pcbi.1010235
 [vacc_behaviour_generic_model_doi]: https://doi.org/10.1371/journal.pcbi.1010235
