@@ -87,9 +87,9 @@ Robin N Thompson, **Edward M Hill**, Julia R Gog. (2021)<br/>
 *medRxiv*. doi:[10.1101&#47;2022.10.27.22281628][diminished_flu_doi]{:target="_blank"}<br/>
 
 **Impact on the infectious disease modelling community**
-* [Improving modelling for epidemic response: a progress update from a community of UK infectious disease modellers](https://osf.io/37yca){:target="_blank"}<br/>
+* [Improving modelling for epidemic response: a progress update from a community of UK infectious disease modellers](https://doi.org/10.31219/osf.io/bhs9q_v1){:target="_blank"}<br/>
 Katharine Sherratt, Anna C Carnegie, Adam Kucharski, Anne Cori, Carl AB Pearson, **Edward M Hill**, Elizabeth Fearon, Emily Nightingale, Julián Villabona Arenas, Li Pi, Nicholas Davies, Sabine van Elsland, Sebastian Funk, Yang Liu, Sam Abbott. (2025)<br/>
-*OSF Preprints*. URL:[https://osf.io/37yca](https://osf.io/37yca){:target="_blank"}<br/>
+*OSF Preprints*. doi:[10.31219/osf.io/bhs9q_v1](https://doi.org/10.31219/osf.io/bhs9q_v1){:target="_blank"}<br/>
 
 * [Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic][Modelling_community_reflection_paper]{:target="_blank"}<br/>
 Katharine Sherratt, Anna C Carnegie, Adam Kucharski, Anne Cori, Carl AB Pearson, Christopher I Jarvis, Christopher Overton, Dale Weston, **Edward M Hill**, Edward Knock, Elizabeth Fearon, Emily Nightingale, Joel Hellewell, W John Edmunds, Julián Villabona Arenas, Kiesha Prem, Li Pi, Marc Baguelin, Michelle Kendall, Neil Ferguson, Nicholas Davies, Rosalind M Eggo, Sabine van Elsland, Timothy Russell, Sebastian Funk, Yang Liu, Sam Abbott. (2024)<br/>
