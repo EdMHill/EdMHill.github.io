@@ -26,7 +26,7 @@ A downloadable PDF of my thesis entitled "Mathematical modelling approaches for 
 Volume editors: Birgit Breidenbach and Thomas Docherty. doi:[10.4324/9780429259432][MoodVolume_doi]{:target="_blank"}
 * [Spreading of components of mood in adolescent social networks][CompMood_paper]{:target="_blank"}<br/>
 Robert W Eyre, Thomas House, **Edward M Hill**, Frances E Griffiths (2017) <br/>
-*Royal Society Open Science*, **4**: 170336. doi:[10.1098/rsos.170336][CompMood_doi]{:target="_blank"}
+*Royal Society Open Science*, **4**(9): 170336. doi:[10.1098/rsos.170336][CompMood_doi]{:target="_blank"}
 * [Spreading of healthy mood in adolescent social networks][HealthyMood_paper]{:target="_blank"}<br/>
 **Edward M Hill**, Frances E Griffiths and Thomas House (2015) <br/>
 *Proceedings of the Royal Society B*, **282**(1813): 20151180. doi:[10.1098/rspb.2015.1180][HealthyMood_doi]{:target="_blank"}

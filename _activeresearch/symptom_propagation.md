@@ -18,7 +18,7 @@ These avenues of research are being explored as part of [Phoebe Asplin's][PA_lin
 
 * [Symptom propagation in respiratory pathogens of public health concern: a review of the evidence.](https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0009){:target="_blank"}<br/>
 Phoebe Asplin, Rebecca Mancy, Thomas Finnie, Fergus Cumming, Matt J Keeling, **Edward M Hill**. (2024)<br/>
-*Journal of the Royal Society Interface*, <b>21</b>: 20240009. doi:[10.1098/rsif.2024.0009](https://doi.org/10.1098/rsif.2024.0009){:target="_blank"}<br/>
+*Journal of the Royal Society Interface*, <b>21</b>(216): 20240009. doi:[10.1098/rsif.2024.0009](https://doi.org/10.1098/rsif.2024.0009){:target="_blank"}<br/>
 
 * [Epidemiological and health economic implications of symptom propagation in respiratory pathogens: A mathematical modelling investigation.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012096){:target="_blank"}<br/>
 Phoebe Asplin, Matt J Keeling, Rebecca Mancy, **Edward M Hill**. (2024)<br/>

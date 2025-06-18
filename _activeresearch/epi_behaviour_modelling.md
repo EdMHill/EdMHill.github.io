@@ -25,6 +25,10 @@ order_number: 30
 One of my research interests is addressing interdisciplinary problems in epidemiology that involve the dynamics of behaviour. Application areas span public, veterinary and plant health policy. I refer to quantitative models that incorporate both epidemiological and behavioural dynamics as epidemiological-behavioural models.
 
 **Peer-reviewed publications**:
+* [Unifying human infectious disease models and real-time awareness of population- and subpopulation-level intervention effectiveness.](https://royalsocietypublishing.org/doi/10.1098/rsos.241964){:target="_blank"}<br/>
+Rachel L Seibel, Michael J Tildesley, **Edward M Hill**. (2025)<br/>
+*Royal Society Open Science*, **12**(6): 241964. doi:[10.1098/rsos.241964](https://doi.org/10.1098/rsos.241964){:target="_blank"}<br/>
+
 * [Integrating human behaviour and epidemiological modelling: unlocking the remaining challenges](https://www.tandfonline.com/doi/full/10.1080/29937574.2024.2429479){:target="_blank"}<br/>
 **Edward M Hill**, Matthew Ryan, David Haw, Mark P Lynch, Ruth McCabe, Alice E. Milne, Matthew S. Turner, Kavita Vedhara, Fanqi Zeng, Martine J Barons, Emily J Nixon, Stephen Parnell, Kirsty J Bolton. (2024)<br/>
 *Mathematics in Medical and Life Sciences*, **1**(1): 2429479. doi:[10.1080/29937574.2024.2429479](https://doi.org/10.1080/29937574.2024.2429479){:target="_blank"}<br/>
@@ -37,10 +41,6 @@ Matthew Ryan, Roslyn I. Hickson, **Edward M Hill**, Thomas House, Valerie Isham,
 * [Modelling the effectiveness of Integrated Pest Management strategies for the control of *Septoria tritici*](https://www.biorxiv.org/content/10.1101/2025.02.28.639837){:target="_blank"}<br/>
 Elliot MR Vincent, **Edward M Hill**, Stephen Parnell. (2025)<br/>
 *bioRxiv*. doi:[10.1101&#47;2025.02.28.639837](https://doi.org/10.1101/2025.02.28.639837){:target="_blank"}<br/>
-
-* [Unifying human infectious disease models and real-time awareness of population- and subpopulation-level intervention effectiveness.](https://www.medrxiv.org/content/10.1101/2024.01.17.24301344){:target="_blank"}<br/>
-Rachel L Seibel, Michael J Tildesley, **Edward M Hill**. (2025)<br/>
-*medRxiv*. doi:[10.1101&#47;2024.01.17.24301344](https://doi.org/10.1101/2024.01.17.24301344){:target="_blank"}<br/>
 
 **FEED project**:
 One such example is my involvement in the [BBSRC][BBSRC_link]{:target="_blank"} funded project [Farmer-led Epidemic & Endemic Disease-management (FEED)][FEED_link]{:target="_blank"} project. The FEED project began in October 2019. I have been part of a collaborative team, joint with colleagues from the [University of Warwick][UoW_link]{:target="_blank"} and [University of Nottingham][UoN_link]{:target="_blank"}.
