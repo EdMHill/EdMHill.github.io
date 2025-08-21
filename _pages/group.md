@@ -26,6 +26,7 @@ author_profile: true
 * [**Praise Ilechukwu**](https://www.linkedin.com/in/praise-ilechukwu){:target="_blank"} (Data Science and Analytics for Health MSc), 2025.
     * Dissertation: "Examining trends and inequalities in childhood pneumococcal vaccine uptake in England".
     * Co-supervised by [Dan Hungerford](https://www.liverpool.ac.uk/people/dan-hungerford){:target="_blank"}.
+    * Destination: Entered final year of medical course.
 * [**Lauren Adams**](https://www.vet.cam.ac.uk/staff/lauren-adams){:target="_blank"} (Masters in Public Health, University of Warwick), 2021. 
     * Dissertation: "Would it be cost effective to implement social distancing measures during the influenza season: An SEIR modelling approach".
     * Destination: PhD project at the Universtiy of Cambridge, working in epidemiology and modelling to support infant immunisation programmes.
