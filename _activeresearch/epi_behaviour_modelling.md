@@ -25,6 +25,10 @@ order_number: 30
 One of my research interests is addressing interdisciplinary problems in epidemiology that involve the dynamics of behaviour. Application areas span public, veterinary and plant health policy. I refer to quantitative models that incorporate both epidemiological and behavioural dynamics as epidemiological-behavioural models.
 
 **Peer-reviewed publications**:
+* [Modelling the effectiveness of Integrated Pest Management strategies for the control of *Septoria tritici* blotch](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013352){:target="_blank"}<br/>
+Elliot MR Vincent, **Edward M Hill**, Stephen Parnell. (2025)<br/>
+*PLOS Computational Biology*, **21**(8): e1013352. doi:[10.1371/journal.pcbi.1013352](https://doi.org/10.1371/journal.pcbi.1013352){:target="_blank"}<br/>
+
 * [Unifying human infectious disease models and real-time awareness of population- and subpopulation-level intervention effectiveness.](https://royalsocietypublishing.org/doi/10.1098/rsos.241964){:target="_blank"}<br/>
 Rachel L Seibel, Michael J Tildesley, **Edward M Hill**. (2025)<br/>
 *Royal Society Open Science*, **12**(6): 241964. doi:[10.1098/rsos.241964](https://doi.org/10.1098/rsos.241964){:target="_blank"}<br/>
@@ -37,10 +41,6 @@ Rachel L Seibel, Michael J Tildesley, **Edward M Hill**. (2025)<br/>
 * [A Behaviour and Disease Model of Testing and Isolation](https://arxiv.org/abs/2504.02488){:target="_blank"}<br/>
 Matthew Ryan, Roslyn I. Hickson, **Edward M Hill**, Thomas House, Valerie Isham, Dongni Zhang, Mick G. Roberts. (2025)<br/>
 *arXiv*. doi:[10.48550&#47;arXiv.2504.02488](https://doi.org/10.48550/arXiv.2504.02488){:target="_blank"}<br/>
-
-* [Modelling the effectiveness of Integrated Pest Management strategies for the control of *Septoria tritici*](https://www.biorxiv.org/content/10.1101/2025.02.28.639837){:target="_blank"}<br/>
-Elliot MR Vincent, **Edward M Hill**, Stephen Parnell. (2025)<br/>
-*bioRxiv*. doi:[10.1101&#47;2025.02.28.639837](https://doi.org/10.1101/2025.02.28.639837){:target="_blank"}<br/>
 
 **FEED project**:
 One such example is my involvement in the [BBSRC][BBSRC_link]{:target="_blank"} funded project [Farmer-led Epidemic & Endemic Disease-management (FEED)][FEED_link]{:target="_blank"} project. The FEED project began in October 2019. I have been part of a collaborative team, joint with colleagues from the [University of Warwick][UoW_link]{:target="_blank"} and [University of Nottingham][UoN_link]{:target="_blank"}.
