@@ -21,7 +21,7 @@ author_profile: true
 
 * [**Zak Ogi-Gittins**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/gittins/){:target="_blank"} (PhD in Mathematics of Real-World Systems, University of Warwick), 2021-2025. 
     * PhD thesis: "Characterising pathogen transmission in real-time during infectious disease outbreaks".
-    * Co-supervised by [Robin Thompson](https://www.robin-thompson.co.uk/){:target="_blank"}.
+    * Co-supervised by [Robin Thompson](https://www.maths.ox.ac.uk/people/robin.thompson){:target="_blank"}.
     * Destination: Biostatician at Novartis (in a PhD graduate scheme).
 * [**Praise Ilechukwu**](https://www.linkedin.com/in/praise-ilechukwu){:target="_blank"} (Data Science and Analytics for Health MSc), 2025.
     * Dissertation: "Examining trends and inequalities in childhood pneumococcal vaccine uptake in England".
