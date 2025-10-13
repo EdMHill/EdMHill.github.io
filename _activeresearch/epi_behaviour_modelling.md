@@ -57,9 +57,13 @@ The [University of Warwick][UoW_link]{:target="_blank"} team is led by [Michael 
 Our research partners at the [University of Nottingham][UoN_link]{:target="_blank"}, carrying out the elicitation of farmers beliefs, are: [Martin Green][MG_link]{:target="_blank"}, [Eamonn Ferguson][EF_link]{:target="_blank"}, [Jasmeet Kaler][JK_link]{:target="_blank"} and [Naomi Prosser][NP_link]{:target="_blank"}.
 
 **FEED project publications**:
+* [Between-country differences in the psychosocial profiles of British cattle farmers](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5672){:target="_blank"}<br/>
+Naomi S Prosser, Eamonn Ferguson, Jasmeet Kaler, **Edward M Hill**, Michael J Tildesley, Matt J Keeling, Martin J Green. (2025)<br/>
+*Veterinary Record*, e5672. doi:[10.1002/vetr.5672](https://doi.org/10.1002/vetr.5672){:target="_blank"}<br/>
+
 * [Descriptive analysis of national bovine viral diarrhoea test data in England (2016–2023)](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5325){:target="_blank"}<br/>
 Naomi S Prosser, **Edward M Hill**, Lorna Gow, Massimo Cavallaro, Michael J Tildesley, Matt J Keeling, Jasmeet Kaler, Eamonn Ferguson, Martin J Green (2025)<br/>
-*Veterinary Record*, e5325. doi:[10.1002/vetr.5325](https://doi.org/10.1002/vetr.5325){:target="_blank"}<br/>
+*Veterinary Record*, **197**(6): e5325. doi:[10.1002/vetr.5325](https://doi.org/10.1002/vetr.5325){:target="_blank"}<br/>
 
 * [Incorporating heterogeneity in farmer disease control behaviour into a livestock disease transmission model](https://www.sciencedirect.com/science/article/pii/S0167587723001836){:target="_blank"}<br/>
 **Edward M Hill**\*, Naomi S Prosser\*, Paul E Brown, Eamonn Ferguson, Martin J Green, Jasmeet Kaler, Matt J Keeling, Michael J Tildesley (2023)<br/>
