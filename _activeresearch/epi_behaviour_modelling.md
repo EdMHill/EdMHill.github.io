@@ -24,6 +24,14 @@ order_number: 30
 
 One of my research interests is addressing interdisciplinary problems in epidemiology that involve the dynamics of behaviour. Application areas span public, veterinary and plant health policy. I refer to quantitative models that incorporate both epidemiological and behavioural dynamics as epidemiological-behavioural models.
 
+**Workshops and scientific meetings**:
+I have helped organise the following events on this topic. 
+
+* July/August 2026: Co-organiser of a four-week satellite [Isaac Newton Institute](https://www.newton.ac.uk/){:target="_blank"} programme on [Maths of Human Behaviour: modelling sociality, mobility and protectionism](https://www.newton.ac.uk/event/mhb/){:target="_blank"}. Being held at the University of Nottingham, the programme includes two one-week workshops on [The Mathematics of Behaviour: an interdisciplinary school](https://www.newton.ac.uk/event/mhbw01/){:target="_blank"} and
+[Modelling Behaviour for Global Challenges: Epidemics and Energy Systems](https://www.newton.ac.uk/event/mhbw02/){:target="_blank"}.
+
+* 10 June 2024: Lead oragniser of a one-day workshop at the University of Warwick on [Mathematical modelling of behaviour to inform policy for societal challenges](https://warwick.ac.uk/fac/sci/maths/research/miraw/days/modellingbehaviour/){:target="_blank"}. This event was run with the support from [MIR@W (Mathematical Interdisciplinary Research at Warwick)](https://warwick.ac.uk/fac/sci/maths/research/miraw/){:target="_blank"} and the [JUNIPER partnership](https://maths.org/juniper/){:target="_blank"}.
+
 **Peer-reviewed publications**:
 * [Modelling the effectiveness of Integrated Pest Management strategies for the control of *Septoria tritici* blotch](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013352){:target="_blank"}<br/>
 Elliot MR Vincent, **Edward M Hill**, Stephen Parnell. (2025)<br/>

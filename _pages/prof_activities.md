@@ -62,7 +62,9 @@ author_profile: true
 ## Teaching
 I have performed the following duties at the University of Liverpool:
 
-**2025** Delivered interactive lectures for two MSc level modules: [DASC505 Actionable Healthcare Data Analytics](https://www.liverpool.ac.uk/courses/health-data-science-msc/modules/dasc505){:target="_blank"} and [IVES724 Understanding models and data](https://www.liverpool.ac.uk/courses/planetary-and-one-health-msc/modules/ives724){:target="_blank"}.
+**2025-2026** Delivered workshops on 'Health Policy: the role of evidence' to Year 3 students on the [MBChB medicine programme](https://www.liverpool.ac.uk/courses/medicine-and-surgery-mbchb){:target="_blank"}.
+
+**2024-2025** Delivered interactive lectures for two MSc level modules: [DASC505 Actionable Healthcare Data Analytics](https://www.liverpool.ac.uk/courses/health-data-science-msc/modules/dasc505){:target="_blank"} and [IVES724 Understanding models and data](https://www.liverpool.ac.uk/courses/planetary-and-one-health-msc/modules/ives724){:target="_blank"}.
 
 
 I have performed the following duties at the University of Warwick:
