@@ -9,7 +9,6 @@ author_profile: true
 
 ### Postgraduate
 
-* [**Phoebe Asplin**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/asplin/){:target="_blank"} (PhD), October 2022 - present. Working on modelling the impact of symptom severity on health economic outcomes. Co-supervised by [Matt Keeling](https://warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/){:target="_blank"}.
 * [**Rachel Seibel**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/seibel/){:target="_blank"} (PhD), October 2022 - present. Working on how human behaviour influences pathogen dynamics during disease outbreaks. Co-supervised by [Mike Tildesley](https://warwick.ac.uk/fac/sci/lifesci/people/mtildesley/){:target="_blank"}.
 * [**Elliot Vincent**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/vincent/){:target="_blank"} (PhD), October 2023 - present. Working on spatial and epidemiological modelling for wildlife and agricultural health. Co-supervised by [Erin Gorisch](https://warwick.ac.uk/fac/sci/lifesci/people/egorsich/), [Matt Keeling](https://warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/){:target="_blank"} and [Stephen Parnell](https://warwick.ac.uk/fac/sci/lifesci/people/sparnell/).
 * [**Reanna Gregory**](https://warwick.ac.uk/fac/cross_fac/igpp/ab101/104/){:target="_blank"} (PhD), April 2024 - present. Working on assessing the risk levels posed by different potential pandemic influenza strains, bridging between lab-based virology work and mathematical epidemiology. The aim is to generate data that informs the modelling process and can support conclusions made in silico. Co-supervised by [Craig Thompson](https://warwick.ac.uk/fac/sci/med/research/biomedical/labs/cthompson/){:target="_blank"}.
@@ -19,6 +18,10 @@ author_profile: true
 
 ### Postgraduate
 
+* [**Phoebe Asplin**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/asplin/){:target="_blank"} (PhD in Mathematics of Real-World Systems, University of Warwick), 2022-2026.
+    * PhD thesis: "Modelling Symptom Propagation in Respiratory Pathogens".
+    * Co-supervised by [Matt Keeling](https://warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/){:target="_blank"} and [Rebecca Mancy](https://profiles.cardiff.ac.uk/staff/mancyr){:target="_blank"}.
+    * Destination: Senior Mathematical Modeller at the UK Health Security Agency.
 * [**Zak Ogi-Gittins**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/gittins/){:target="_blank"} (PhD in Mathematics of Real-World Systems, University of Warwick), 2021-2025. 
     * PhD thesis: "Characterising pathogen transmission in real-time during infectious disease outbreaks".
     * Co-supervised by [Robin Thompson](https://www.maths.ox.ac.uk/people/robin.thompson){:target="_blank"}.
