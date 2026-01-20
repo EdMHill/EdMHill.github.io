@@ -46,6 +46,10 @@ Rachel L Seibel, Michael J Tildesley, **Edward M Hill**. (2025)<br/>
 *Mathematics in Medical and Life Sciences*, **1**(1): 2429479. doi:[10.1080/29937574.2024.2429479](https://doi.org/10.1080/29937574.2024.2429479){:target="_blank"}<br/>
 
 **Preprints**:
+* [Modelling the adoption of Integrated Pest Management: informing policy approaches to pesticide-reduction targets](https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00395){:target="_blank"}<br/>
+Elliot MR Vincent, Stephen Parnell, **Edward M Hill**. (2026)<br/>
+*agriRxiv*. doi:[10.31220/agriRxiv.2026.00395](https://doi.org/10.31220/agriRxiv.2026.00395){:target="_blank"}<br/>
+
 * [A Behaviour and Disease Model of Testing and Isolation](https://arxiv.org/abs/2504.02488){:target="_blank"}<br/>
 Matthew Ryan, Roslyn I. Hickson, **Edward M Hill**, Thomas House, Valerie Isham, Dongni Zhang, Mick G. Roberts. (2025)<br/>
 *arXiv*. doi:[10.48550&#47;arXiv.2504.02488](https://doi.org/10.48550/arXiv.2504.02488){:target="_blank"}<br/>
