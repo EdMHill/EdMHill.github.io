@@ -7,12 +7,22 @@ author_profile: true
 
 ## Current Group Members
 
-### Postgraduate
+### University of Liverpool
 
-* [**Rachel Seibel**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/seibel/){:target="_blank"} (PhD), October 2022 - present. Working on how human behaviour influences pathogen dynamics during disease outbreaks. Co-supervised by [Mike Tildesley](https://warwick.ac.uk/fac/sci/lifesci/people/mtildesley/){:target="_blank"}.
-* [**Elliot Vincent**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/vincent/){:target="_blank"} (PhD), October 2023 - present. Working on spatial and epidemiological modelling for wildlife and agricultural health. Co-supervised by [Erin Gorisch](https://warwick.ac.uk/fac/sci/lifesci/people/egorsich/), [Matt Keeling](https://warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/){:target="_blank"} and [Stephen Parnell](https://warwick.ac.uk/fac/sci/lifesci/people/sparnell/).
-* [**Reanna Gregory**](https://warwick.ac.uk/fac/cross_fac/igpp/ab101/104/){:target="_blank"} (PhD), April 2024 - present. Working on assessing the risk levels posed by different potential pandemic influenza strains, bridging between lab-based virology work and mathematical epidemiology. The aim is to generate data that informs the modelling process and can support conclusions made in silico. Co-supervised by [Craig Thompson](https://warwick.ac.uk/fac/sci/med/research/biomedical/labs/cthompson/){:target="_blank"}.
-* [**Fateen Yasir**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/fateen_yasir){:target="_blank"} (PhD), August 2024 - present. Working on modelling, parameter inference and policy recommendations for measles. Co-supervised by [Matt Keeling](https://warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/){:target="_blank"}.
+**Name**                                                                                          | **Role**                                 | **Years** | **Dissertation/project**                                                                                                   | **Cosupervisors/collaborators**                                                                                                                         |
+|---------------------------------------------------------------------------------------------------|------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Annie Nagyilles**  | PhD in Health Data Science | 2026 - | Optimising Vaccination Outreach Through epidemiological-behavioural Modelling and artificial intelligence | [Iain Buchan](https://www.liverpool.ac.uk/people/iain-buchan), [Cathy Montgomery](https://profiles.ljmu.ac.uk/582-cathy-montgomery) and [André Charlett](https://researchportal.ukhsa.gov.uk/en/persons/andre-charlett/). |
+
+### University of Warwick
+
+
+**Name**                                                                                          | **Role**                                 | **Years** | **Dissertation/project**                                                                                                   | **Cosupervisors/collaborators**                                                                                                                         |
+|---------------------------------------------------------------------------------------------------|------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Fateen Yasir**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/fateen_yasir)   | PhD in Mathematics of Real-World Systems | 2024 - | Modelling, parameter inference and policy recommendation for measles in England. | [ Matt Keeling ]( https://warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/ ) |
+| [**Reanna Gregory**](https://warwick.ac.uk/fac/cross_fac/igpp/ab101/104/)   | PhD in Pulic Health | 2024 - | Assessing the risk levels posed by different potential pandemic influenza strains, bridging between lab-based virology work and mathematical epidemiology.| [Craig Thompson](https://warwick.ac.uk/fac/sci/med/research/biomedical/labs/cthompson/) |
+| [**Elliot Vincent**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/vincent/)  | PhD in Mathematics of Real-World Systems | 2023 - | Spatial and epidemiological modelling for wildlife and agricultural health | [Erin Gorisch](https://warwick.ac.uk/fac/sci/lifesci/people/egorsich/), [Matt Keeling](https://warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/) and [Stephen Parnell](https://warwick.ac.uk/fac/sci/lifesci/people/sparnell/).|
+| [**Rachel Seibel**](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/seibel/) | PhD in Mathematics of Real-World Systems | 2022 - | Modelling human disease control behaviour in emerging pathogen systems and across host species | [Mike Tildesley](https://warwick.ac.uk/fac/sci/lifesci/people/mtildesley/) |
+
 
 ## Alumni
 
