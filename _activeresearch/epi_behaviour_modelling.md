@@ -71,7 +71,7 @@ Our research partners at the [University of Nottingham][UoN_link]{:target="_blan
 **FEED project publications**:
 * [Between-country differences in the psychosocial profiles of British cattle farmers](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5672){:target="_blank"}<br/>
 Naomi S Prosser, Eamonn Ferguson, Jasmeet Kaler, **Edward M Hill**, Michael J Tildesley, Matt J Keeling, Martin J Green. (2025)<br/>
-*Veterinary Record*, e5672. doi:[10.1002/vetr.5672](https://doi.org/10.1002/vetr.5672){:target="_blank"}<br/>
+*Veterinary Record*, **198**(4): e159-e165. doi:[10.1002/vetr.5672](https://doi.org/10.1002/vetr.5672){:target="_blank"}<br/>
 
 * [Descriptive analysis of national bovine viral diarrhoea test data in England (2016–2023)](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5325){:target="_blank"}<br/>
 Naomi S Prosser, **Edward M Hill**, Lorna Gow, Massimo Cavallaro, Michael J Tildesley, Matt J Keeling, Jasmeet Kaler, Eamonn Ferguson, Martin J Green (2025)<br/>
