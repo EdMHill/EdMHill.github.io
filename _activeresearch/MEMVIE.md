@@ -48,6 +48,11 @@ Sophie Stanizewska, **Edward M Hill**, Richard Grant, Peter Grove, Jarina Porter
 **Edward M Hill**, Stavros Petrou, Simon de Lusignan, Ivelina Yonova, Matt J Keeling. (2019)<br/>
 *PLoS Comput Biol* **15**(10): e1007096. doi:[10.1371/journal.pcbi.1007096][NonAge_doi]{:target="_blank"}<br/>
 
+**Preprints**:
+* [A model-based evaluation of the cost-effectiveness of paediatric and elderly vaccination against pneumococcal infection in England](https://doi.org/10.64898/2026.02.26.26347158){:target="_blank"}<br/>
+Matt J Keeling, Omar J El Deeb, Phuong Bich Tran, Stavros Petrou, **Edward M Hill**. (2026)<br/>
+*medRxiv*. doi:[10.64898/2026.02.26.26347158](https://doi.org/10.64898/2026.02.26.26347158){:target="_blank"}<br/>
+
 [COVID19_CE_paper]: https://www.sciencedirect.com/science/article/pii/S0264410X25002452
 [COVID19_CE_doi]: https://doi.org/10.1016/j.vaccine.2025.126948
 [PPI_paper]: https://link.springer.com/article/10.1007/s40271-020-00476-x
