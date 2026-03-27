@@ -62,9 +62,9 @@ author_profile: true
 ## Teaching
 I have performed the following duties at the University of Liverpool:
 
-**2025-2026** Delivered workshops on 'Health Policy: the role of evidence' to Year 3 students on the [MBChB medicine programme](https://www.liverpool.ac.uk/courses/medicine-and-surgery-mbchb){:target="_blank"}.
+**2025 - present** Delivered workshops on 'Health Policy: the role of evidence' to Year 3 students on the [MBChB medicine programme](https://www.liverpool.ac.uk/courses/medicine-and-surgery-mbchb){:target="_blank"}.
 
-**2024-2025** Delivered interactive lectures for two MSc level modules: [DASC505 Actionable Healthcare Data Analytics](https://www.liverpool.ac.uk/courses/health-data-science-msc/modules/dasc505){:target="_blank"} and [IVES724 Understanding models and data](https://www.liverpool.ac.uk/courses/planetary-and-one-health-msc/modules/ives724){:target="_blank"}.
+**2024 - present** Delivered interactive lectures for two MSc level modules: [DASC505 Actionable Healthcare Data Analytics](https://www.liverpool.ac.uk/courses/health-data-science-msc/modules/dasc505){:target="_blank"} and [IVES724 Understanding models and data](https://www.liverpool.ac.uk/courses/planetary-and-one-health-msc/modules/ives724){:target="_blank"}.
 
 
 I have performed the following duties at the University of Warwick:
@@ -80,16 +80,26 @@ I have performed the following duties at the University of Warwick:
 **2011-2014** Supervisor for 1st year undergraduate Mathematics students.
 
 ## Professional and academic affiliations
-**2026 - present:** [Global Society of Infectious Disease Dynamics (GSIDD)](https://www.gsidd.org/){:target="_blank"}: Social media manager. A role as part of GSIDD subcommittees that are carrying out infrastructure and community-building work -see 'Governance' section of [https://www.gsidd.org/about](https://www.gsidd.org/about){:target="_blank"}.
-**2025 - present:** Deputy member of the Liverpool City Council Health Protection Board (as a representive of the Civic Health Innovation Labs from the University of Liverpool). The Health Protection Board is responsible for oversight of health protection arrangements in Liverpool and to provide assurance to the Health and Wellbeing Board that there are safe, effective, integrated arrangements and plans in place across the whole system to protect the health of the population and to promote reduction in inequalities in health protection <br/>
-**2025 - present:** Standing member of the University of Liverpool Institute of Population Health Communication, Outreach, Engagement & Involvement Committee (ICOEIC). Representative as Departmental Lead for Communication and Engagement for the Department of Public Health, Policy and Systems. <br/>
-**2025 - present:** [Liverpool Centre for Mathematics in Healthcare](https://www.liverpool.ac.uk/mathematical-sciences/research/centre-for-mathematics-in-healthcare/){:target="_blank"}: [Management Group member](https://www.liverpool.ac.uk/mathematical-sciences/research/centre-for-mathematics-in-healthcare/management-group/){:target="_blank"}. <br/>
-**2025 - present:** Steering Group member for the NIHR Health Protection Research Unit in Emerging and Zoonotic Infection (HPRU-EZI). <br/>
-**2024 - present:** [The Pandemic Institute Internal Scientific Advisory Panel member](https://www.thepandemicinstitute.org/people/internal-scientific-advisory-panel/){:target="_blank"} (University of Liverpool representative). <br/>
-**2024 - present:** Management Board member for the [JUNIPER partnership](https://maths.org/juniper/){:target="_blank"}. <br/>
-**2024:** Management Board member for the [UK Pandemic Sciences Network](https://www.thepandemicinstitute.org/work-with-us/uk-pandemic-sciences-network/){:target="_blank"}. <br/>
-**2020 - 2022:** Participant of [SPI-M-O](https://www.gov.uk/government/publications/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response-membership/list-of-participants-of-sage-and-related-sub-groups#scientific-pandemic-influenza-group-on-modelling-spi-m){:target="_blank"}. <br/>
-**2018 - 2024:** Member of the [Society for Mathematical Biology (SMB)](https://www.smb.org){:target="_blank"}. <br/>
+**2026 - present:** [Global Society of Infectious Disease Dynamics (GSIDD)](https://www.gsidd.org/){:target="_blank"}: Social media manager. Includes managing these profiles: [GSIDD Bluesky](https://bsky.app/profile/gs-idd.bsky.social){:target="_blank"} and [GSIDD LinkedIn](www.linkedin.com/company/global-society-for-infectious-disease-dynamics-gsidd){:target="_blank"}. A role as part of GSIDD subcommittees that are carrying out infrastructure and community-building work - see 'Governance' section of [https://www.gsidd.org/about](https://www.gsidd.org/about){:target="_blank"}.
+
+**2025 - present:** Deputy member of the Liverpool City Council Health Protection Board (as a representive of the Civic Health Innovation Labs from the University of Liverpool). The Health Protection Board is responsible for oversight of health protection arrangements in Liverpool and to provide assurance to the Health and Wellbeing Board that there are safe, effective, integrated arrangements and plans in place across the whole system to protect the health of the population and to promote reduction in inequalities in health protection.
+
+**2025 - present:** Standing member of the University of Liverpool Institute of Population Health Communication, Outreach, Engagement & Involvement Committee (ICOEIC). Representative as Departmental Lead for Communication and Engagement for the Department of Public Health, Policy and Systems.
+
+**2025 - present:** [Liverpool Centre for Mathematics in Healthcare](https://www.liverpool.ac.uk/mathematical-sciences/research/centre-for-mathematics-in-healthcare/){:target="_blank"}: [Management Group member](https://www.liverpool.ac.uk/mathematical-sciences/research/centre-for-mathematics-in-healthcare/management-group/){:target="_blank"}.
+
+**2025 - present:** Steering Group member for the NIHR Health Protection Research Unit in Emerging and Zoonotic Infection (HPRU-EZI).
+
+**2024 - present:** [The Pandemic Institute Internal Scientific Advisory Panel member](https://www.thepandemicinstitute.org/people/internal-scientific-advisory-panel/){:target="_blank"} (University of Liverpool representative).
+
+**2024 - present:** Management Board member for the [JUNIPER partnership](https://maths.org/juniper/){:target="_blank"}.
+
+**2024:** Management Board member for the [UK Pandemic Sciences Network](https://www.thepandemicinstitute.org/work-with-us/uk-pandemic-sciences-network/){:target="_blank"}.
+
+**2020 - 2022:** Participant of [SPI-M-O](https://www.gov.uk/government/publications/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response-membership/list-of-participants-of-sage-and-related-sub-groups#scientific-pandemic-influenza-group-on-modelling-spi-m){:target="_blank"}.
+
+**2018 - 2024:** Member of the [Society for Mathematical Biology (SMB)](https://www.smb.org){:target="_blank"}.
+
 **2016 - present:** Member of the [European Society for Mathematical and Theoretical Biology (ESMTB)](https://www.esmtb.org){:target="_blank"}.
 
 ## Editor and reviewer roles
