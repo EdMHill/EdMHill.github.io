@@ -33,6 +33,10 @@ I have helped organise the following events on this topic.
 * 10 June 2024: Lead oragniser of a one-day workshop at the University of Warwick on [Mathematical modelling of behaviour to inform policy for societal challenges](https://warwick.ac.uk/fac/sci/maths/research/miraw/days/modellingbehaviour/){:target="_blank"}. This event was run with the support from [MIR@W (Mathematical Interdisciplinary Research at Warwick)](https://warwick.ac.uk/fac/sci/maths/research/miraw/){:target="_blank"} and the [JUNIPER partnership](https://maths.org/juniper/){:target="_blank"}.
 
 **Peer-reviewed publications**:
+* [A Behaviour and Disease Model of Testing and Isolation](https://www.tandfonline.com/doi/full/10.1080/29937574.2026.2627906){:target="_blank"}<br/>
+Matthew Ryan, Roslyn I. Hickson, **Edward M Hill**, Thomas House, Valerie Isham, Dongni Zhang, Mick G. Roberts. (2026)<br/>
+*Mathematics in Medical and Life Sciences*, **3**(1): 2627906. doi:[10.1080&#47;29937574.2026.2627906](https://doi.org/10.1080/29937574.2026.2627906){:target="_blank"}<br/>
+
 * [Modelling the effectiveness of Integrated Pest Management strategies for the control of *Septoria tritici* blotch](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013352){:target="_blank"}<br/>
 Elliot MR Vincent, **Edward M Hill**, Stephen Parnell. (2025)<br/>
 *PLOS Computational Biology*, **21**(8): e1013352. doi:[10.1371/journal.pcbi.1013352](https://doi.org/10.1371/journal.pcbi.1013352){:target="_blank"}<br/>
@@ -49,10 +53,6 @@ Rachel L Seibel, Michael J Tildesley, **Edward M Hill**. (2025)<br/>
 * [Modelling the adoption of Integrated Pest Management: informing policy approaches to pesticide-reduction targets](https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00395){:target="_blank"}<br/>
 Elliot MR Vincent, Stephen Parnell, **Edward M Hill**. (2026)<br/>
 *agriRxiv*. doi:[10.31220/agriRxiv.2026.00395](https://doi.org/10.31220/agriRxiv.2026.00395){:target="_blank"}<br/>
-
-* [A Behaviour and Disease Model of Testing and Isolation](https://arxiv.org/abs/2504.02488){:target="_blank"}<br/>
-Matthew Ryan, Roslyn I. Hickson, **Edward M Hill**, Thomas House, Valerie Isham, Dongni Zhang, Mick G. Roberts. (2025)<br/>
-*arXiv*. doi:[10.48550&#47;arXiv.2504.02488](https://doi.org/10.48550/arXiv.2504.02488){:target="_blank"}<br/>
 
 **FEED project**:
 One such example is my involvement in the [BBSRC][BBSRC_link]{:target="_blank"} funded project [Farmer-led Epidemic & Endemic Disease-management (FEED)][FEED_link]{:target="_blank"} project. The FEED project began in October 2019. I have been part of a collaborative team, joint with colleagues from the [University of Warwick][UoW_link]{:target="_blank"} and [University of Nottingham][UoN_link]{:target="_blank"}.
