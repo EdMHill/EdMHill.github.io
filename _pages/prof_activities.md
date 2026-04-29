@@ -106,7 +106,7 @@ I have performed the following duties at the University of Warwick:
 
 **Oct 2024 - present:** Academic Editor for the Epidemiology & Public Health section of [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/){:target="_blank"}.
 
-**2024-2025:** Guest Editor for a [Special Issue on Behavioural Epidemiology](https://www.tandfonline.com/journals/tmls20/collections/Behavioural_Epidemiology){:target="_blank"} in the journal [Mathematics in Medical and Life Sciences](https://www.tandfonline.com/journals/tmls20){:target="_blank"}.
+**2024-2026:** Guest Editor for an [Article Collection on Behavioural Epidemiology](https://www.tandfonline.com/journals/tmls20/collections/Behavioural_Epidemiology){:target="_blank"} in the journal [Mathematics in Medical and Life Sciences](https://www.tandfonline.com/journals/tmls20){:target="_blank"}.
 
 **Feb 2021 - Oct 2024:** Editorial Board member for the [Journal of Theoretical Biology][JTB_link]{:target="_blank"}.
 
