@@ -9,11 +9,11 @@ order_number: 10
 [MEMVIE_link]: https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/memvie/
 [MEMVIE_PPIE_link]: https://warwick.ac.uk/fac/sci/med/research/hscience/memvie_ppie/
 [flu_work_link]: https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/seasonalflu/
-[MK_link]: https://www2.warwick.ac.uk/fac/sci/maths/people/staff/matt_keeling/
+[MK_link]: https://profiles.warwick.ac.uk/masfz-matt-keeling
 [GM_link]: https://www.lshtm.ac.uk/aboutus/people/medley.graham
 [MU_link]: https://www2.warwick.ac.uk/fac/med/staff/underwood/
 [SP_link]: https://www.phc.ox.ac.uk/team/stavros-petrou
-[SS_link]: https://www2.warwick.ac.uk/fac/med/research/hscience/wrn/staff/sophie_staniszewska
+[SS_link]: https://profiles.warwick.ac.uk/assgax-sophie-staniszewska
 [TS_link]: https://www2.warwick.ac.uk/fac/med/staff/tshiri/
 [SciAni_link]: https://www.youtube.com/@SciAni
 [animation_link]: https://www.youtube.com/watch?v=-ucOuW3K5J0
