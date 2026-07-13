@@ -92,7 +92,7 @@ I have performed the following duties at the University of Warwick:
 
 **2024 - present:** [The Pandemic Institute Internal Scientific Advisory Panel member](https://www.thepandemicinstitute.org/people/internal-scientific-advisory-panel/){:target="_blank"} (University of Liverpool representative).
 
-**2024 - present:** Management Board member for the [JUNIPER partnership](https://maths.org/juniper/){:target="_blank"}.
+**2024 - 2026:** Management Board member for the [JUNIPER partnership](https://maths.org/juniper/){:target="_blank"}.
 
 **2024:** Management Board member for the [UK Pandemic Sciences Network](https://www.thepandemicinstitute.org/work-with-us/uk-pandemic-sciences-network/){:target="_blank"}.
 
