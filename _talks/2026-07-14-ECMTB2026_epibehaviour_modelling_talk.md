@@ -10,10 +10,10 @@ location: "University of Graz, Graz, Austria."
 
 ## Event webpage
 
-More information here: [https://ecmtb2026.org](https://ecmtb2026.org){:target="_blank"}
+Find our more information about the European Conference on Mathematical and Theoretical Biology (ECMTB) 2026 here: [https://ecmtb2026.org](https://ecmtb2026.org){:target="_blank"}
 
 ## Event overview
-The European Conference on Mathematical and Theoretical Biology (ECMTB) is held every two years. It acts as a conduit of discussion for the field of mathematical biology, aiding researchers to study and understand the complex mechanisms that govern life processes. ECTMB was first held in 1991 in Grenoble, France. Over the years, The ECMTB conference has grown in size and scope, attracting researchers from all over the world. ECMTB has promoted interdisciplinary collaborations between mathematicians, biologists, physicists, and other researchers. ECMTB has also facilitated the development of new techniques and methodologies for modelling complex biological systems.
+ECMTB is held every two years. It acts as a conduit of discussion for the field of mathematical biology, aiding researchers to study and understand the complex mechanisms that govern life processes. ECTMB was first held in 1991 in Grenoble, France. Over the years, The ECMTB conference has grown in size and scope, attracting researchers from all over the world. ECMTB has promoted interdisciplinary collaborations between mathematicians, biologists, physicists, and other researchers. ECMTB has also facilitated the development of new techniques and methodologies for modelling complex biological systems.
 
 ## Talk content
 The talk was part of a minisymposium co-organised by myself and [Matt Ryan](https://people.csiro.au/r/m/matt-ryan) on [Epidemiological-behavioural modelling to address health challenges](https://ecmtb2026.org/contributions/minisymposia/ms67). The minisymposium featured eight talks sharing examples of research tackling interdisciplinary problems in epidemiology and infectious disease modelling that involve the dynamics of behaviour. Application areas cut across public health, veterinary health and plant health.
