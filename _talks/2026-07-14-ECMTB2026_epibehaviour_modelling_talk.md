@@ -26,5 +26,5 @@ For further information on the topic of this talk see an associated [publication
 </figure> -->
 
 ## Presentation slides
-You can download a PDF copy of the presentation slides [here](/files/TalkSlides/2026-07-14-EdHill_MattRyan_ECMTB2026_epi-behavioural_modelling_minisymposium_talk){:target="_blank"}.
+You can download a PDF copy of the presentation slides [here](/files/TalkSlides/2026-07-14-EdHill_MattRyan_ECMTB2026_epi-behavioural_modelling_minisymposium_talk.pdf){:target="_blank"}.
 <iframe src="/files/TalkSlides/2026-07-14-EdHill_MattRyan_ECMTB2026_epi-behavioural_modelling_minisymposium_talk.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>

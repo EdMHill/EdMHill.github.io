@@ -25,5 +25,5 @@ For further information please see the associated [publication in PLOS Computati
 </figure> -->
 
 ## Presentation slides
-You can download a PDF copy of the presentation slides [here](/files/TalkSlides/2026-07-16-EdHill_ECMTB2026_HPAI_minisymposium_talk){:target="_blank"}.
+You can download a PDF copy of the presentation slides [here](/files/TalkSlides/2026-07-16-EdHill_ECMTB2026_HPAI_minisymposium_talk.pdf){:target="_blank"}.
 <iframe src="/files/TalkSlides/2026-07-16-EdHill_ECMTB2026_HPAI_minisymposium_talk.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
