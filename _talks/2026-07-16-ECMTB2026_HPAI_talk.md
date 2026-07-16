@@ -10,7 +10,7 @@ location: "University of Graz, Graz, Austria."
 
 ## Event webpage
 
-More information here: [https://ecmtb2026.org](https://ecmtb2026.org){:target="_blank"}
+Find our more information about the European Conference on Mathematical and Theoretical Biology (ECMTB) 2026 here: [https://ecmtb2026.org](https://ecmtb2026.org){:target="_blank"}
 
 ## Event overview
 The European Conference on Mathematical and Theoretical Biology (ECMTB) is held every two years. It acts as a conduit of discussion for the field of mathematical biology, aiding researchers to study and understand the complex mechanisms that govern life processes. ECTMB was first held in 1991 in Grenoble, France. Over the years, the ECMTB conference has grown in size and scope, attracting researchers from all over the world. ECMTB has promoted interdisciplinary collaborations between mathematicians, biologists, physicists, and other researchers. ECMTB has also facilitated the development of new techniques and methodologies for modelling complex biological systems.
