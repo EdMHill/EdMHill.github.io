@@ -20,9 +20,9 @@ Highly pathogenic avian influenza is an infectious disease that has caused a sub
 
 For further information please see the associated [publication in PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1013874){:target="_blank"}.
 
-<!-- <figure>
-  <img src="/images/TalkImages/ECMTB2024_talk_photo.jpg" alt="Ed Hill presenting a talk at ECMTB 2024 titled Incorporating heterogeneity in farmer disease control behaviour into a livestock disease transmission model."/>
-</figure> -->
+<figure>
+  <img src="/images/TalkImages/ECMTB2026_modelling_HPAI_minisymposium_group_photo.jpg" alt="Speakers at the ECMTB 2026 minisympsoium on Modeling Avian Influenza Dynamics."/>
+</figure>
 
 ## Presentation slides
 You can download a PDF copy of the presentation slides [here](/files/TalkSlides/2026-07-16-EdHill_ECMTB2026_HPAI_minisymposium_talk.pdf){:target="_blank"}.
