@@ -13,7 +13,7 @@ This talk summarised two studies related to symptom propagation. The first was a
 
 The second was a mathematical modelling focused study exploring the epidemiological and health economic implications of symptom propagation in respiratory pathogens. For more on this study, see the associated [publication in PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1012096){:target="_blank"}.
 
-Details of this project may also be found on my research project webpage on [Investigating the impact of symptom propagation on epidemiological and health economic outcomes]({{ site.baseurl }}{% link _activeresearch/symptom_propagation.md %}){:target="_blank"}.
+Details of this project may also be found on my research project webpage on [Investigating the impact of symptom propagation on epidemiological and health economic outcomes]({{ site.baseurl }}{% link _priorresearch/symptom_propagation.md %}){:target="_blank"}.
 
 <!-- <figure>
   <img src="/images/TalkImages/UniOfOxford_MathBioEcologySeminar_May2024_TalkPhoto.jpeg" alt="Presenting photo"/>
