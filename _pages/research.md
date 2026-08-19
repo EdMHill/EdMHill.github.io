@@ -7,7 +7,7 @@ author_profile: true
 
 ## Active projects
 
-[**Epidemiological-behavioural modelling applied to public, veterinary and plant health:**]({{ site.baseurl }}{% link _activeresearch/epi_behaviour_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of disease management behaviour and its incorporation into epidemiological models.
+[**Epidemiological-behavioural modelling applied to public, veterinary and plant health:**]({{ site.baseurl }}{% link _activeresearch/epi_behaviour_modelling.md %}){:target="_blank"} Using interdisciplinary approaches to improve our understanding of disease management behaviour and its incorporation into epidemiological models.
 
 [**Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation (MEMVIE):**]({{ site.baseurl }}{% link _activeresearch/MEMVIE.md %}){:target="_blank"} Epidemiological modelling and health economic modelling to underpin vaccination policy for the Department of Health.
 
