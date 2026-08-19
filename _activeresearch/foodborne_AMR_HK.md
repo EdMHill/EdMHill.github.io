@@ -10,7 +10,7 @@ Antimicrobial resistance (AMR) represents one of the major global health threats
 
 This project is assessing the public health risks posed by foodborne AMR in Hong Kong through three integrated approaches: (i) wastewater surveillance with selective culture methods to measure community intestinal carriage prevalence; (ii) whole-genome sequencing and phylogenetic analysis to trace links between food, wastewater and clinical isolates; (iii) quantitative risk assessment through mathematical modelling. These methods will establish the first food-wastewater-hospital surveillance framework for AMR.
 
-Beyond AMR, the proposed genomic, epidemiological and modelling methodologies are adaptable to other emerging infections and pandemic threats, providing a transferable platform for early detection, transmission mapping, and risk assessment. The findings will inform evidence-based multisectoral policies to strengthen public health preparedness.
+Beyond AMR, the proposed genomic, epidemiological and modelling methodologies are adaptable to other emerging infections and pandemic threats. Our approach may therefore provide a transferable platform for early detection, transmission mapping and risk assessment. Such approaches can help inform evidence-based multisectoral policies to strengthen public health preparedness.
 
 This project is in collaboration with colleagues at [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/){:target="_blank"}. Lead investigators from PolyU are [Gilman Siu](https://www.polyu.edu.hk/hti/people/academic-staff/dr-siu-gilman-kh/){:target="_blank"} and [Franklin Chow](https://www.polyu.edu.hk/hti/people/academic-staff/dr-chow-franklin-wn/){:target="_blank"}.
 
