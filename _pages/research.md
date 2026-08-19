@@ -7,11 +7,11 @@ author_profile: true
 
 ## Active projects
 
+[**Epidemiological-behavioural modelling applied to public, veterinary and plant health:**]({{ site.baseurl }}{% link _activeresearch/epi_behaviour_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of disease management behaviour and its incorporation into epidemiological models.
+
 [**Mathematical & Economic Modelling for Vaccination and Immunisation Evaluation (MEMVIE):**]({{ site.baseurl }}{% link _activeresearch/MEMVIE.md %}){:target="_blank"} Epidemiological modelling and health economic modelling to underpin vaccination policy for the Department of Health.
 
-[**Quantifying the impact of HPAI in wild bird and domestic poultry populations:**]({{ site.baseurl }}{% link _activeresearch/wildbird_HPAI.md %}){:target="_blank"} Using mathematical modelling to understand the spread and inform the control of Highly Pathogenic Avian Influenza (HPAI) in wild birds and domestic poultry in the UK.
-
-[**Epidemiological-behavioural modelling applied to public, veterinary and plant health:**]({{ site.baseurl }}{% link _activeresearch/epi_behaviour_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of disease management behaviour and its incorporation into epidemiological models.
+[**Quantifying the impact of HPAI in wild bird and livestock populations:**]({{ site.baseurl }}{% link _activeresearch/wildbird_HPAI.md %}){:target="_blank"} Using mathematical modelling to understand the spread and inform the control of Highly Pathogenic Avian Influenza (HPAI) in wild birds and livestock in the UK and USA.
 
 [**Epidemiological surveillance and public health risk assessment of food-mediated antimicrobial resistance in Hong Kong:**]({{ site.baseurl }}{% link _activeresearch/foodborne_AMR_HK.md %}){:target="_blank"} Assess human health risks associated with increasing prevalence of foodborne antimicrobial resistance (AMR) in Hong Kong and potential spread within the public healthcare system.
 
