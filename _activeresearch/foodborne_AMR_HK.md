@@ -1,7 +1,7 @@
 ---
 title: "Epidemiological surveillance and public health risk assessment of food-mediated antimicrobial resistance in Hong Kong"
 layout: single-portfolio
-excerpt: "<img src='/images/research/CREcoli.jpg' alt=''>"
+excerpt: "<img src='/images/research/CREcoli.jpeg' alt=''>"
 collection: research
 order_number: 40
 ---
