@@ -3,7 +3,7 @@ title: "Modelling influenza A at the human-animal interface"
 layout: single-portfolio
 excerpt: "<img src='/images/research/fluvirus.jpg' alt=''>"
 collection: research
-order_number: 30
+order_number: 40
 ---
 
 [TH_link]: https://www.research.manchester.ac.uk/portal/thomas.house.html

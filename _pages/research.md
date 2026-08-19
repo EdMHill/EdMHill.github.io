@@ -13,11 +13,14 @@ author_profile: true
 
 [**Epidemiological-behavioural modelling applied to public, veterinary and plant health:**]({{ site.baseurl }}{% link _activeresearch/epi_behaviour_modelling.md %}){:target="_blank"} Employing interdisciplinary approaches to improve our understanding of disease management behaviour and its incorporation into epidemiological models.
 
-[**Investigating the impact of symptom propagation on epidemiological and health economic outcomes:**]({{ site.baseurl }}{% link _activeresearch/symptom_propagation.md %}){:target="_blank"} Using mathematical models as a tool to explore the extent to which symptom propagation exists and its subsequent impact on epidemiological and health economic assessments.
+[**Epidemiological surveillance and public health risk assessment of food-mediated antimicrobial resistance in Hong Kong:**]({{ site.baseurl }}{% link _activeresearch/foodborne_AMR_HK.md %}){:target="_blank"} Assess human health risks associated with increasing prevalence of foodborne antimicrobial resistance (AMR) in Hong Kong and potential spread within the public healthcare system.
+
 
 ## Previous projects
 
 [**Response to the COVID-19 pandemic:**]({{ site.baseurl }}{% link _priorresearch/covid-19.md %}){:target="_blank"} Using real time data on the UK COVID-19 outbreak to provide robust predictions, gauging the ability of a model to predict future epidemic behaviour.
+
+[**Investigating the impact of symptom propagation on epidemiological and health economic outcomes:**]({{ site.baseurl }}{% link _priorresearch/symptom_propagation.md %}){:target="_blank"} Using mathematical models as a tool to explore the extent to which symptom propagation exists and its subsequent impact on epidemiological and health economic assessments.
 
 [**Social contagion:**]({{ site.baseurl }}{% link _priorresearch/social_contagion.md %}){:target="_blank"} Spread of behaviour-linked health problems are amenable to being represented with methodological approaches typically used to model infectious diseases. We explore this with regards to depression, developing novel models that exploit the dynamical behaviour of mood over time to ascertain which mood states spread on social networks, via a contagion-like mechanism, and which do not.
 
