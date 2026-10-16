@@ -26,3 +26,8 @@ From September 2026, I have been a co-Project Lead on the project 'Avian influen
 * [A modelling assessment for the impact of control measures on highly pathogenic avian influenza transmission in poultry in Great Britain](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013874){:target="_blank"}<br/>
 Christopher N Davis, **Edward M Hill**, Chris P Jewell, Kristyna Rysava, Robin N Thompson, Michael J Tildesley. (2026)<br/>
 *PLOS Computational Biology*, **22**(1): e1013874. doi:[10.1371/journal.pcbi.1013874](https://doi.org/10.1371/journal.pcbi.1013874){:target="_blank"}<br/>
+
+**Preprints**:
+* [A spatial transmission model for evaluating interventions during highly pathogenic avian influenza outbreaks](https://www.biorxiv.org/content/10.64898/2026.10.14.758777v1){:target="_blank"}<br/>
+Fanny Bergstrom, **Edward M Hill**, Cecilia Rago, Christopher N Davis, Michael J Tildesley, Robin N Thompson. (2026)<br/>
+*bioRxiv*. doi:[10.64898/2026.10.14.758777](https://doi.org/10.64898/2026.10.14.758777){:target="_blank"}<br/>
