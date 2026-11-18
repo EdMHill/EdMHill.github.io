@@ -33,6 +33,10 @@ I have helped organise the following events on this topic.
 * 10 June 2024: Lead oragniser of a one-day workshop at the University of Warwick on [Mathematical modelling of behaviour to inform policy for societal challenges](https://warwick.ac.uk/fac/sci/maths/research/miraw/days/modellingbehaviour/){:target="_blank"}. This event was run with the support from [MIR@W (Mathematical Interdisciplinary Research at Warwick)](https://warwick.ac.uk/fac/sci/maths/research/miraw/){:target="_blank"} and the [JUNIPER partnership](https://maths.org/juniper/){:target="_blank"}.
 
 **Peer-reviewed publications**:
+* [Modelling the adoption of Integrated Pest Management: informing policy approaches to pesticide-reduction targets](https://royalsocietypublishing.org/rsif/article/23/244/20251333/484187/Modelling-the-adoption-of-integrated-pest?searchresult=1){:target="_blank"}<br/>
+Elliot MR Vincent, Stephen Parnell, **Edward M Hill**. (2026)<br/>
+*Journal of the Royal Society Interface*, **23**(244): 20251333. doi:[10.1098/rsif.2025.1333](https://doi.org/10.1098/rsif.2025.1333){:target="_blank"}<br/>
+
 * [A Behaviour and Disease Model of Testing and Isolation](https://www.tandfonline.com/doi/full/10.1080/29937574.2026.2627906){:target="_blank"}<br/>
 Matthew Ryan, Roslyn I. Hickson, **Edward M Hill**, Thomas House, Valerie Isham, Dongni Zhang, Mick G. Roberts. (2026)<br/>
 *Mathematics in Medical and Life Sciences*, **3**(1): 2627906. doi:[10.1080&#47;29937574.2026.2627906](https://doi.org/10.1080/29937574.2026.2627906){:target="_blank"}<br/>
@@ -48,11 +52,6 @@ Rachel L Seibel, Michael J Tildesley, **Edward M Hill**. (2025)<br/>
 * [Integrating human behaviour and epidemiological modelling: unlocking the remaining challenges](https://www.tandfonline.com/doi/full/10.1080/29937574.2024.2429479){:target="_blank"}<br/>
 **Edward M Hill**, Matthew Ryan, David Haw, Mark P Lynch, Ruth McCabe, Alice E. Milne, Matthew S. Turner, Kavita Vedhara, Fanqi Zeng, Martine J Barons, Emily J Nixon, Stephen Parnell, Kirsty J Bolton. (2024)<br/>
 *Mathematics in Medical and Life Sciences*, **1**(1): 2429479. doi:[10.1080/29937574.2024.2429479](https://doi.org/10.1080/29937574.2024.2429479){:target="_blank"}<br/>
-
-**Preprints**:
-* [Modelling the adoption of Integrated Pest Management: informing policy approaches to pesticide-reduction targets](https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00395){:target="_blank"}<br/>
-Elliot MR Vincent, Stephen Parnell, **Edward M Hill**. (2026)<br/>
-*agriRxiv*. doi:[10.31220/agriRxiv.2026.00395](https://doi.org/10.31220/agriRxiv.2026.00395){:target="_blank"}<br/>
 
 **FEED project**:
 One such example is my involvement in the [BBSRC][BBSRC_link]{:target="_blank"} funded project [Farmer-led Epidemic & Endemic Disease-management (FEED)][FEED_link]{:target="_blank"} project. The FEED project began in October 2019. I have been part of a collaborative team, joint with colleagues from the [University of Warwick][UoW_link]{:target="_blank"} and [University of Nottingham][UoN_link]{:target="_blank"}.
